@@ -6,8 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Start
 ---
-# Start
 ## [Online-Katalog der Bücherei Westerheim](https://www.biblino.de/westerheim){:target="_blank"}
 
 Hier können Sie in unserem Medienbestand suchen oder einfach stöbern, Ihr
