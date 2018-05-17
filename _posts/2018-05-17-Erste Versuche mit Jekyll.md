@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Erste Versuche mit Jekyll
+author: Burkhard
 ---
 Da an dem Default-Theme voraussichtlich doch einiges geändert werden muss, habe ich die Dateien jetzt in dieses Repository übernommen.
 

@@ -3,8 +3,9 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
+    <!-- a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a -->
+    
     {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -17,6 +18,7 @@
         </label>
 
         <div class="trigger">
+          <a class="page-link" target="_blank" href="https://www.biblino.de/westerheim">Online-Katalog</a>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
@@ -26,5 +28,7 @@
         </div>
       </nav>
     {%- endif -%}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><image src="/images/Logo-App.png"/></a -->
   </div>
+  
 </header>
