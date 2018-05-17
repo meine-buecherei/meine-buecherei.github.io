@@ -12,5 +12,8 @@ title: Bücherei Westerheim
 
 ## [Online-Katalog der Bücherei Westerheim](https://www.biblino.de/westerheim){:target="_blank"}
 
-Hier können Sie in unserem Medienbestand suchen oder einfach stöbern, Ihr
-Büchereikonto einsehen sowie Medien vormerken oder verlängern.
+Alle unsere Bücher, CDs und DVDs sind hier gelistet! Der [Online-Katalog](https://www.biblino.de/westerheim){:target="_blank"} bietet:
+* Stichwort- und Expertensuche im Medienbestand
+* Angaben zu Inhalt und Verfügbarkeit
+* Liste der Neuanschaffungen
+* Büchereikonto einsehen, Medien vormerken oder verlängern
