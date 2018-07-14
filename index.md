@@ -11,8 +11,7 @@ title: Bücherei Westerheim - Willkommen
 Dies ist die Startseite der Bücherei Westerheim (Unterallgäu). Die wichtigsten Links:
 
 * [Unser Online-Katalog](https://www.biblino.de/westerheim){:target="_blank"}
-* [Über Uns](/about/)
-* [Standort](/map/)
+* [Standort, Öffnungszeiten und Kontakt](/about/)
 * [Aktuelles aus der Bücherei](#aktuelles)
 
 

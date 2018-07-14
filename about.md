@@ -4,15 +4,27 @@ title: Über uns
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Öffnungszeiten
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Dienstag: 18:30 - 19:30 Uhr\\
+Donnerstag: 15:30 - 17:00 Uhr\\
+Sonntag: 1 x im Monat, nach dem Kleinkinder-Gottesdienst
 
+# Adresse der Bücherei
 
-[jekyll-organization]: https://github.com/jekyll
+Schulweg 3\\
+87784 Westerheim
+
+Der Schulweg ist eine Seitenstraße der Hauptstraße, gegenüber der Kirche Mariä Himmelfahrt.
+
+<a href="https://www.openstreetmap.org/?mlat=48.01687&mlon=10.30149#map=17/48.01687/10.30149"><img src="/images/karte.png" width="300px"></a>
+
+Karte © OpenStreetMap-Mitwirkende 
+
+# E-Mail-Adresse
+
+<img src="/images/schreibuns.png" width="400px">
+
+...für formlose Vormerkungen, Bücherwünsche und Anfragen aller Art
+
