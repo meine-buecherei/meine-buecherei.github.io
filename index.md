@@ -6,9 +6,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Bücherei Westerheim
+title: Bücherei Westerheim - Willkommen
 ---
-{{site.description}}
+Dies ist die Startseite der Bücherei Westerheim (Unterallgäu). Die wichtigsten Links:
+
+* [Unser Online-Katalog](https://www.biblino.de/westerheim){:target="_blank"}
+* [Über Uns](/about/)
+* [Standort](/map/)
+* [Aktuelles aus der Bücherei](#aktuelles)
+
 
 ## [Online-Katalog der Bücherei Westerheim](https://www.biblino.de/westerheim){:target="_blank"}
 

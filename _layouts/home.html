@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Aktuelles" }}</h2>
+    <h2 id="aktuelles" class="post-list-heading">{{ page.list_title | default: "Aktuelles - Unser Blog" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -23,12 +23,15 @@ layout: default
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
+          {% if post.excerpt != post.content %}
+            <a href="{{ post.url | relative_url }}">Mehr...</a>
+          {% endif %}
         {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">RSS-Feed</a></p>
   {%- endif -%}
 
 </div>
