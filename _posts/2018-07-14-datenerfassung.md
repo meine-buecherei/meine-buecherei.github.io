@@ -9,7 +9,7 @@ Unsere kleine aber feine Westerheimer Bücherei ist nun online. Wir befinden uns
 
 Im März 2018 entschlossen wir uns, den Leihverkehr der Bücherei vom Karteikartensystem auf eine Bibliothekssoftware umzustellen und den Gesamtbestand aller unserer Bücher, CDs und DVDs in einem **[Online-Katalog](https://www.biblino.de/westerheim){:target="_blank"}** im Internet bereitzustellen.
 
-Im  so einem Online-Katalog (auch [OPAC](https://de.wikipedia.org/wiki/OPAC){:target="_blank"}  genannt) kann man sich über Neuanschaffungen informieren, den Bestand durchsuchen oder einfach stöbern, und die Inhaltsangaben der Bücher studieren. So lassen sich schon zu Hause Anregungen für den nächsten Büchereibesuch sammeln. Der Online-Katalog informiert außerdem darüber, ob und bis wann ein Medium gerade ausgeliehen ist. Auch Vormerkungen sind online möglich.
+Im  so einem Online-Katalog (auch [OPAC](https://de.wikipedia.org/wiki/OPAC){:target="_blank"}  genannt) kann man sich über Neuanschaffungen informieren, den Bestand durchsuchen oder einfach darin stöbern, und die Inhaltsangaben der Bücher studieren. So lassen sich schon zu Hause Anregungen für den nächsten Büchereibesuch sammeln. Der Online-Katalog informiert außerdem darüber, ob und bis wann ein Medium gerade ausgeliehen ist. Auch Vormerkungen sind online möglich.
 
 Die dafür nötige Anschaffung von Hard- und Software wurde durch eine **großzügige Spende des Westerheimer Basarteams** ermöglicht. Hierfür auch an dieser Stelle noch einmal herzlichen Dank!
 
@@ -31,7 +31,7 @@ Aus praktischen Gründen haben wir uns dafür entschieden, das bisherige Schema 
 
 Allerdings gab es einige Fälle, in denen früher Mediennummern doppelt vergeben worden sind. Die mussten dann für die Erfassung im Computer geändert werden, denn dort muss eine Mediennummer sich eindeutig auf ein einzelnes Medium beziehen.
 
-Die Mediennummer brauchen wir zum Auffinden eines Exemplars in der Datenbank. Dort finden sich dann die typischen Angaben wie Titel, Autor, Erscheinungsjahr, Kategorie und - für den Onlinekatalog wichtig - eine möglichst aussagekräftige Inhaltsangabe.
+Die Mediennummer brauchen wir zum Auffinden eines Exemplars in der Datenbank. Dort finden sich dann die typischen Angaben wie Titel, Autor, Erscheinungsjahr, Kategorie ("Sachgruppe") und - für den Onlinekatalog wichtig - eine möglichst aussagekräftige Inhaltsangabe.
 
 Zum Glück mussten wir in den meisten Fällen all diese Daten nicht manuell in den Computer eintippen! Diese kann die Bibliothekssoftware aus externen Datenbanken einlesen. Benötigt wird hierfür aber immer die ISBN-Nummer des jeweiligen Buchs. Wenn sie wie hier als Barcode auf dem Buch zu finden war, genügte ein gezielter "Schuss" des Barcodescanners, um sie zu erfassen.
 
@@ -47,13 +47,13 @@ Jedes auf diese Weise erfasste Buch haben wir dann noch auf seiner Karteikarte m
 
 ![Karteikarte mit grünem Haken](/images/2018-07-14-datenerfassung/Karteikarte.jpg)
 
-Für die Ersterfassung der minimal benötigten Daten - Mediennummer und ISBN-Nummer - in der Tabelle wurde noch kein Internetzugang benötigt, und auch der Umgang mit der Büchereisoftware war dafür noch nicht notwendig. So konnten sich von Anfang an alle Mitglieder des Büchereiteams an diesem Vorgang beteiligen, auch wenn sie kein internetfähiges Smartphone dabei hatten (das Büchereigebäude hat leider noch keinen eigenen DSL-Anschluss). Außerhalb des regulären Büchereidienstes haben wir so viele weitere Stunden in der Bücherei verbracht, um die Regale durchzuarbeiten.
+Für die Ersterfassung der minimal benötigten Daten - Mediennummer und ISBN-Nummer - in der Tabelle wurde noch kein Internetzugang benötigt, und auch der Umgang mit der Büchereisoftware war dafür noch nicht notwendig. So konnten sich von Anfang an alle Mitglieder des Büchereiteams an diesem Vorgang beteiligen, auch wenn sie kein internetfähiges Smartphone dabei hatten (das Büchereigebäude selbst hat leider noch keinen eigenen DSL-Anschluss). Auch außerhalb des regulären Büchereidienstes haben wir viele weitere Stunden in der Bücherei verbracht, um die Regale durchzuarbeiten.
 
-Den aktuellen Stand der Medienliste habe ich mir dann regelmäßig auf einen USB-Stick kopiert und nach Hause mitgenommen. Dort musste dann für jedes Medium dessen Mediennummer und ISBN-Nummer in die Eingabemaske unserer Büchereisoftware eingetragen werden. Also kopierte ich diese Nummern aus dem Excel-Fenster in die Maske. Nach Klick auf einen weiteren Button versucht das Programm dann, die restlichen Daten aus dem Internet zu laden.
+Den aktuellen Stand der Medienliste habe ich mir dann regelmäßig auf einen USB-Stick kopiert und nach Hause mitgenommen, um die Daten in der Bücherei-Datenbank zu vervollständigen. Dafür musste für jedes Medium dessen Mediennummer und ISBN-Nummer in die Eingabemaske unserer Büchereisoftware eingetragen werden. Also kopierte ich diese Nummern aus einem Excel-Fenster in die Maske. Nach Klick auf einen weiteren Button versucht das Programm dann, die restlichen Daten aus dem Internet zu laden.
 
 ![Datenerfassung in der Büchereisoftware](/images/2018-07-14-datenerfassung/erfassung-ps-biblio.png)
 
-Im Idealfall sah das Ergebnis dann so wie in diesem Screenshot aus. Im Normalfall musste aber an einigen Stellen nachbearbeitet werden. In Hinblick auf den Online-Katalog war uns besonders wichtig, dass die Inhaltsangaben soweit wie möglich vorhanden waren, was teilweise weitere Online-Recherche erforderte. Manchmal wurde auch der Klappentext abgetippt...
+Im Idealfall sah das Ergebnis dann so wie in diesem Screenshot aus. Im Normalfall musste aber an einigen Stellen nachbearbeitet werden. In Hinblick auf den Online-Katalog war uns besonders wichtig, dass soweit wie möglich die Inhaltsangaben vorhanden waren, was teilweise weitere Online-Recherche erforderte. Manchmal wurde auch der Klappentext abgetippt...
 
 Für den zukünftigen Leihverkehr benötigt nun jedes Medium einen Aufkleber, auf den die Mediennummer und dessen Barcode gedruckt ist. Beim Ausleihen oder Zurückgeben muss dann nur die Buchrückseite unter den Scanner gehalten werden, um das Medium in der Datenbank als verliehen oder verfügbar zu kennzeichnen.
 
@@ -69,4 +69,4 @@ Und nun ist auch unser Buch online!
 
 Und ebenso wie das Buch "So kommt der Motor unter die Haube" haben uns von März bis Juli 2018 gut 3200 weitere Bücher, CDs und DVDs etliche Stunden lang beschäftigt.
 
-Zum IT-gestützten Büchereibetrieb gehören auch Ausweise mit Benutzernummern und Barcodes für jeden Benutzer. Diesen bereiten wir ebenfalls vor. Doch das wäre eine andere Geschichte...
+Zum IT-gestützten Büchereibetrieb gehören auch Ausweise mit Benutzernummern und Barcodes für jeden Benutzer. Diese bereiten wir ebenfalls vor. Doch das wäre eine andere Geschichte...
