@@ -14,8 +14,6 @@ Dies ist die Startseite der Bücherei Westerheim (Unterallgäu). Die wichtigsten
 * [Standort, Öffnungszeiten und Kontakt](/about/)
 * [Aktuelles aus der Bücherei](#aktuelles)
 
-[Impressum](/impressum/)
-
 ## [Online-Katalog der Bücherei Westerheim](https://www.biblino.de/westerheim){:target="_blank"}
 
 Alle unsere Bücher, CDs und DVDs sind hier gelistet! Der [Online-Katalog](https://www.biblino.de/westerheim){:target="_blank"} bietet:
