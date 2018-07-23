@@ -33,13 +33,16 @@ end
 Dir.foreach(input_dir) do |entry|
   if entry != '.' && entry != '..' && entry =~ /.jpg$/i &&  entry !~ /_t\./        
     input_path = File.join(input_dir, entry)
-    output_path = File.join(output_dir, "x160", entry)
-    if !File.exist?(output_path)
-      puts "#{output_path}..."
-      cmd = "magick.exe #{input_path} -resize x160 #{output_path}"
-      magick_output = `#{cmd}`
-      if $CHILD_ERROR
-        raise "failed converting image: #{magick_output}"
+
+    ['x160', 'x320'].each do |resolution|
+      output_path = File.join(output_dir, resolution, entry)
+      if !File.exist?(output_path)
+        puts "#{output_path}..."
+        cmd = "magick.exe #{input_path} -resize #{resolution} #{output_path}"
+        magick_output = `#{cmd}`
+        if $CHILD_ERROR
+          raise "failed converting image: #{magick_output}"
+        end
       end
     end
   end
