@@ -1,9 +1,12 @@
 {% comment %}
 Generiert Bilder-Links für Lightcase.js
+Parameter:
+- big: große Version des Bildes
+- src: kleine Version des Bildes
+- group: Name der Gruppe für Slideshow
+- title: Titel
 {% endcomment %}
 
-<!-- src={{include.src}} -->
-<!-- big={{include.big}} -->
 {% if include.big %}
   {% assign img_path = include.big %}
 {% else %}

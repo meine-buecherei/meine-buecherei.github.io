@@ -4,7 +4,7 @@ title: Über uns
 permalink: /ueber-uns/
 ---
 
-Mitten im Jahr des Ölpreisschocks, 1973, haben die [Pfarrei Mariä Himmelfahrt](https://bistum-augsburg.de/Pfarreien/Mariae-Himmelfahrt_Westerheim){:target="_blank"} und die [Gemeinde Westerheim](http://www.gemeinde-westerheim.de/){:target="_blank"} ein bemerkenswertes Zeichen zur Förderung der Lesekultur gesetzt und unsere Bücherei ins Leben gerufen. Seitdem wird sie verlässlich von beiden Seiten unterstützt und gefördert.
+1973 - das Jahr der ersten großen Ölpreiskrise. In dieser Zeit der Verunsicherung haben die [Pfarrei Mariä Himmelfahrt](https://bistum-augsburg.de/Pfarreien/Mariae-Himmelfahrt_Westerheim){:target="_blank"} und die [Gemeinde Westerheim](http://www.gemeinde-westerheim.de/){:target="_blank"} ein bemerkenswertes Zeichen der Förderung der Lesekultur gesetzt und unsere Bücherei ins Leben gerufen. Seitdem wird sie verlässlich von beiden Seiten unterstützt und gefördert.
 
 Die Bücherei befand sich zunächst im alten Pfarrhof und zog 1992 an den jetzigen Standort im ehemaligen Schulgebäude um.
 
