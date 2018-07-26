@@ -1,0 +1,9 @@
+{% comment %}
+Generiert Bilder-Links für Lightcase.js
+{% endcomment %}
+
+<a href="{{ include.src }}" 
+  data-rel="lightcase:{{include.group}}"
+  data-title="{{include.title }}">
+  <img src="{{ include.src }}" alt="{{ include.title }}"/>
+</a>

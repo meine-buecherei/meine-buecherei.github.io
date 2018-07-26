@@ -12,8 +12,14 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
 
-  <!-- Lightbox (für "responsive" Bilder-Links) -->
-  <link rel="stylesheet" href="{{ "/assets/lightbox.min.css" | relative_url }}"/>
-  <script src="/assets/lightbox-plus-jquery.min.js"></script>
-  
+  <!-- Lightcase.js (für "responsive" Bilder-Links) -->
+  <script src="{{ "/assets/jquery-3.3.1.min.js" | relative_url }}"></script>
+  <script src="{{ "/assets/lightcase-2.5.0/src/js/lightcase.js" | relative_url }}"></script>  
+  <link rel="stylesheet" href="{{ "/assets/lightcase-2.5.0/src/css/lightcase.css" | relative_url }}">
+  <script type="text/javascript">
+    jQuery(document).ready(function($) {
+      $('a[data-rel^=lightcase]').lightcase();
+    });
+  </script>
+    
 </head>
