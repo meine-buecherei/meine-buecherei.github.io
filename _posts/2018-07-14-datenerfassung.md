@@ -70,7 +70,9 @@ Nach der Ersterfassung aller Daten wurde schließlich die Datenbank auf den Büc
 
 Und nun ist auch unser Buch online!
 
-{% include lightcase.html src="/images/2018-07-14-datenerfassung/buch-online.png" group="bilder-dieser-seite"
+{% include lightcase.html group="bilder-dieser-seite"
+           src="/images/2018-07-14-datenerfassung/buch-online.png" 
+           big="/images/2018-07-14-datenerfassung/buch-online-gross.png" 
            title="Nach der Synchronisation findet man unser Buch auch im Online-Katalog" %}
 
 Und ebenso wie das Buch "So kommt der Motor unter die Haube" haben uns von März bis Juli 2018 gut 3200 weitere Bücher, CDs und DVDs etliche Stunden lang beschäftigt.

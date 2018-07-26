@@ -15,10 +15,16 @@
   <!-- Lightcase.js (für "responsive" Bilder-Links) -->
   <script src="{{ "/assets/jquery-3.3.1.min.js" | relative_url }}"></script>
   <script src="{{ "/assets/lightcase-2.5.0/src/js/lightcase.js" | relative_url }}"></script>  
+  <script src="{{ "/assets/lightcase-2.5.0/vendor/jQuery/jquery.events.touch.min.js" | relative_url }}"></script>  
   <link rel="stylesheet" href="{{ "/assets/lightcase-2.5.0/src/css/lightcase.css" | relative_url }}">
   <script type="text/javascript">
     jQuery(document).ready(function($) {
-      $('a[data-rel^=lightcase]').lightcase();
+      $('a[data-rel^=lightcase]').lightcase({
+        swipe: true,
+        maxHeight: 1200,
+        maxWidth: 1600,
+        shrinkFactor: 0.9
+      });
     });
   </script>
     

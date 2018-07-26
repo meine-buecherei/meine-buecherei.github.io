@@ -2,8 +2,15 @@
 Generiert Bilder-Links für Lightcase.js
 {% endcomment %}
 
-<a href="{{ include.src }}" 
-  data-rel="lightcase:{{include.group}}"
-  data-title="{{include.title }}">
+<!-- src={{include.src}} -->
+<!-- big={{include.big}} -->
+{% if include.big %}
+  {% assign img_path = include.big %}
+{% else %}
+  {% assign img_path = include.src %}
+{% endif %}
+<a href="{{img_path}}"
+   data-rel="lightcase:{{include.group}}"
+   data-title="{{include.title}}">
   <img src="{{ include.src }}" alt="{{ include.title }}"/>
 </a>
