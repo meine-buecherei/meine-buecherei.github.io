@@ -8,23 +8,37 @@ Wir nehmen den Schutz persönlicher Daten sehr ernst. Wir behandeln personenbezo
 
 <!-- Folgender Text basiert auf einem Muster von der Seite https://www.st-michaelsbund.de/buechereiarbeit/rechtsfragen/datenschutz.html -->
 
-Diese Webseite wird von ehrenamtlichen Mitarbeitern der Bücherei Westerheim (Unterallgäu) betrieben. 
-<!-- also quasi privat! Die Kirche als Träger bleibt vorerst aus dem Spiel --> In dieser Datenschutzerklärung informieren wir Sie über die Verwendung personenbezogener Daten beim Aufruf dieser Webseite.
+Diese Webseite von der Bücherei Westerheim (Unterallgäu) betrieben. In dieser Datenschutzerklärung informieren wir Sie über die Verwendung personenbezogener Daten beim Aufruf dieser Webseite.
 
-<!-- Abschnitte zum kirchlichen Datenschutzrecht gelöscht -->
+Die Bücherei Westerheim ist eine Einrichtung der Pfarrei Mariä Himmelfahrt Westerheim und unterliegt daher den Datenschutzbestimmungen der Katholischen Kirche, insbesondere dem Gesetz über den kirchlichen Datenschutz (KDG). Die Betreiber der Webseite verpflichten sich, die Privatsphäre der Besucher und Nutzer der Webseite meine-buecherei.de zu schützen und persönliche Daten nach Maßgabe des KDG zu behandeln und zu verwenden.
+
 
 # Verantwortliche Stelle 
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Webseite ist:
 
-<!-- Hier wird im Original die Pfarrei und der Pfarrer sowie ein Datenschutzbeauftragter genannt -->
+Pfarreiengemeinschaft Erkheim-Günztal\\
+Babenhauser Str. 11\\
+87746 Erkheim
 
-Bu<span class="unsichtbar">rgen, </span>rk<span class="unsichtbar"> = römisch-katholisch</span><!-- Kommentar-->hard
-Mei<span class="unsichtbar">stens </span>er\\
-Wolf<span class="unsichtbar">sburg, G</span>urtstr. 21\\
-87784 Westerheim\\
-Telefon: + 49 (0) 8<span class="unsichtbar">2</span>336 805<span class="unsichtbar">456</span>1336\\
-E-M<span class="unsichtbar">üll R</span>ail-Adresse: meier<span class="unsichtbar">-mueller</span>-buecherei-westerheim@gmx.de
+Telefon: 08336/211\\
+Telefax: 08336/813052\\
+E-Mail: pg.erkheim@bistum-augsburg.de
+
+Verantwortlich:
+
+Pfarrer Ralf Czech
+
+# Datenschutzbeauftragter
+
+Diözese Augsburg\\
+Fachbereich Datenschutz\\
+Stefan Frühwald\\
+Fronhof 4\\
+86152 Augsburg
+
+Telefon: 0821 3166–8380, -8383\\
+E-Mail: datenschutz@bistum-augsburg.de
 
 # Wofür nutzen wir Ihre Daten?
 
@@ -72,14 +86,28 @@ Der [Online-Katalog der Bücherei Westerheim](https://www.biblino.de/westerheim)
 
 Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Wenden Sie sich dazu bitte an den Verantwortlichen, dessen Kontaktdaten Sie oben auf dieser Seite finden.
 
-Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit unter der oben angegebenen Adresse an uns wenden. 
+Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit unter der oben angegebenen Adresse an uns wenden. Außerdem haben Sie ein Beschwerderecht bei der zuständigen Aufsichtsbehörde, wenn Sie den Eindruck haben, das der Webseiten-Betreiber sich nicht an die Datenschutzbestimmungen hält:
 
-Als Betroffener steht Ihnen im Falle eines datenschutzrechtlichen Verstoßes ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde bezüglich datenschutzrechtlicher Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem sich der Sitz unseres Unternehmens befindet.
+Für die Datenschutzaufsicht ist nach § 45 Abs. 1 KDG der Diözesandatenschutzbeauftragte der Diözese Augsburg zuständig:
 
-Für das Bundesland Bayern: 
+Diözese Augsburg\\
+Fachbereich Datenschutz\\
+Stefan Frühwald\\
+Fronhof 4\\
+86152 Augsburg
 
-* [Der bayerische Datenschutzbeauftragte (Anschrift)](https://www.bfdi.bund.de/SharedDocs/Adressen/LfD/Bayern.html)
-* [Der bayerische Datenschutzbeauftragte (Homepage)](https://www.datenschutz-bayern.de)
+Telefon: 0821 3166–8380, -8383\\
+E-Mail: datenschutz@bistum-augsburg.de
+
+Datenschutzbeauftragter der Bayer. (Erz-)Diözesen (Datenschutzaufsicht):
+
+Jupp Joachimski\\
+Rochusstraße 5\\
+80333 München
+
+Telefon: 089 2137-1796\\
+Telefax: 089 2137-1585\\
+E-Mail: jjoachimski@eomuc.de
 
 # Widerruf Ihrer Einwilligung zur Datenverarbeitung
 
