@@ -4,6 +4,17 @@ title: Über uns
 permalink: /ueber-uns/
 ---
 
+## Das sind wir
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/about/Buechereiteam-800x600.jpg" 
+      big="/images/about/Buechereiteam-1600x1200.jpg" 
+      title="Das Team der Bücherei Westerheim" %}
+
+Das ist unser Team. Ob dienstags, donnerstags oder einmal im Monat am Sonntag in Deiner Bücherei, ob persönlich oder online [per E-Mail](/der-weg-zu-uns/#e-mail-adresse) oder nach einer Anfrage [über unseren Online-Katalog](https://www.biblino.de/westerheim), jemand von uns wird sich um Dein Anliegen kümmern. Wir freuen uns über Deinen Besuch und Deine E-Mails. Du würdest auch gerne mitmachen? Melde Dich einfach bei uns!
+
+## Hintergrund
+      
 1973 - das Jahr der ersten großen Ölpreiskrise. In dieser Zeit der Verunsicherung haben die [Pfarrei Mariä Himmelfahrt](https://bistum-augsburg.de/Pfarreien/Mariae-Himmelfahrt_Westerheim){:target="_blank"} und die [Gemeinde Westerheim](http://www.gemeinde-westerheim.de/){:target="_blank"} ein bemerkenswertes Zeichen der Förderung der Lesekultur gesetzt und unsere Bücherei ins Leben gerufen. Seitdem wird sie verlässlich von beiden Seiten unterstützt und gefördert.
 
 Die Bücherei befand sich zunächst im alten Pfarrhof und zog 1992 an den jetzigen Standort im ehemaligen Schulgebäude um.
@@ -23,6 +34,8 @@ Nur ein paar Schritte von zu Hause entfernt - und seit September 2018 ist unser 
       title="<i>Magischer Bildlauf</i> der Neuzugänge auf biblino.de" %}
 
 Der [Online-Katalog](https://www.biblino.de/westerheim){:target="_blank"} macht schon zu Hause neugierig auf manchen Neuzugang, von dem man vielleicht gar nichts geahnt hat. Der Gang in die Bücherei wird sich lohnen!
+
+## Unsere Anliegen
 
 Wir arbeiten mit der [Grundschule Westerheim](http://cms.schule-westerheim.de/){:target="_blank"} zusammen, deren Schüler uns [regelmäßig besuchen](http://cms.schule-westerheim.de/?p=1530){:target="_blank"}. Ein reichhaltiges Angebot an Erstlesebüchern und Kindersachbüchern begleitet unsere Kinder auf dem Weg ins persönliche Leseabenteuer.
 
