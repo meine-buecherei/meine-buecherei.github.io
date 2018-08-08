@@ -15,8 +15,6 @@ Das ist unser Team. Ob dienstags, donnerstags oder einmal im Monat am Sonntag in
 
 Wir freuen uns auf [Deinen Besuch](/der-weg-zu-uns/) und auf [Deine E-Mails](/der-weg-zu-uns/#e-mail-adresse). 
 
-Du würdest auch gerne mitmachen? Melde Dich einfach bei uns!
-
 ## Hintergrund
       
 1973 - das Jahr der ersten großen Ölpreiskrise. In dieser Zeit der Verunsicherung haben die [Pfarrei Mariä Himmelfahrt](https://bistum-augsburg.de/Pfarreien/Mariae-Himmelfahrt_Westerheim){:target="_blank"} und die [Gemeinde Westerheim](http://www.gemeinde-westerheim.de/){:target="_blank"} ein bemerkenswertes Zeichen der Förderung der Lesekultur gesetzt und unsere Bücherei ins Leben gerufen. Seitdem wird sie verlässlich von beiden Seiten unterstützt und gefördert.
