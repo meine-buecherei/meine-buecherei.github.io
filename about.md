@@ -13,7 +13,7 @@ permalink: /ueber-uns/
 
 Das ist unser Team. Ob dienstags, donnerstags oder einmal im Monat am Sonntag in _Deiner Bücherei Westerheim_, ob persönlich oder online [per E-Mail](/der-weg-zu-uns/#e-mail-adresse) oder nach einer Anfrage [über unseren Online-Katalog](https://www.biblino.de/westerheim) – jemand von uns wird sich um Dein Anliegen kümmern. 
 
-Wir freuen uns über Deinen Besuch und Deine E-Mails. 
+Wir freuen uns auf [Deinen Besuch](/der-weg-zu-uns/) und auf [Deine E-Mails](/der-weg-zu-uns/#e-mail-adresse). 
 
 Du würdest auch gerne mitmachen? Melde Dich einfach bei uns!
 
@@ -57,6 +57,6 @@ Es ist uns ein wichtiges Anliegen, Kinder schon in den ersten Lebensjahren ans M
 
 Veranstaltungen wie [Kamishibai-Vorführungen](http://cms.schule-westerheim.de/?p=2191){:target="_blank"} für Kinder sind ebenfalls immer wieder in unserem Programm. Über die Termine informieren wir regelmäßig auf unserer Startseite.
 
-In der Kindheit werden die Grundlagen fürs Lesen gelegt. Selbstverständlich bietet die Bücherei auch Lesern, die ihre Grundschulzeit schon länger hinter sich gelassen haben, ebenfalls ein umfangreiches Angebot für (fast) jeden Geschmack. Und wenn mal etwas fehlt... meldet Euch bei uns! Vorschläge für Neuanschaffungen sind immer willkommen.
+In der Kindheit wird der Grundstein fürs Lesen gelegt. Selbstverständlich bietet die Bücherei auch Lesern, die ihre Grundschulzeit schon länger hinter sich gelassen haben, ebenfalls ein umfangreiches Angebot für (fast) jeden Geschmack. Und wenn mal etwas fehlt... meldet Euch bei uns! Vorschläge für Neuanschaffungen sind immer willkommen.
 
 Bis bald [in Deiner Bücherei Westerheim](/der-weg-zu-uns/)!
