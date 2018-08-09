@@ -21,4 +21,5 @@ Alle unsere Bücher, CDs und DVDs sind hier gelistet! Der [Online-Katalog](https
 * Stichwort- und Expertensuche im Medienbestand
 * Angaben zu Inhalt und Verfügbarkeit
 * Liste der Neuanschaffungen
-* Büchereikonto einsehen, Medien vormerken oder verlängern
+* Büchereikonto einsehen, Medien vormerken
+* Für Android-Geräte (Smartphones, Tablets): [unsere App!](https://play.google.com/store/apps/details?id=de.meier.burkhard.bibapp)
