@@ -22,4 +22,7 @@ Alle unsere Bücher, CDs und DVDs sind hier gelistet! Der [Online-Katalog](https
 * Angaben zu Inhalt und Verfügbarkeit
 * Liste der Neuanschaffungen
 * Büchereikonto einsehen, Medien vormerken
-* Für Android-Geräte (Smartphones, Tablets): [unsere App!](https://play.google.com/store/apps/details?id=de.meier.burkhard.bibapp)
+* App für Android-Geräte (Smartphones, Tablets)\\
+<a href='https://play.google.com/store/apps/details?id=de.meier.burkhard.bibapp'>
+  <img alt='Jetzt bei Google Play' src='/images/googleplay.de_badge_web_generic.png' width="240px;" height="auto;"/>
+</a>

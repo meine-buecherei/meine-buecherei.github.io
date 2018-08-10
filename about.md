@@ -37,6 +37,12 @@ Nur ein paar Schritte von zu Hause entfernt - und seit September 2018 ist unser 
 
 Der [Online-Katalog](https://www.biblino.de/westerheim){:target="_blank"} macht schon zu Hause neugierig auf manchen Neuzugang, von dem man vielleicht gar nichts geahnt hat. Der Gang in die Bücherei wird sich lohnen!
 
+Die Webseite des Online-Katalogs (besonders geeignet die Verwendung vom PC aus) ergänzen wir mit unserer App für Android-Smartphones und -Tablets:\\
+<a href='https://play.google.com/store/apps/details?id=de.meier.burkhard.bibapp'>
+  <img alt='Jetzt bei Google Play' src='/images/googleplay.de_badge_web_generic.png' width="240px;" height="auto;"/>
+</a>
+
+
 ## Unsere Anliegen
 
 Wir arbeiten mit der [Grundschule Westerheim](http://cms.schule-westerheim.de/){:target="_blank"} zusammen, deren Schüler uns [regelmäßig besuchen](http://cms.schule-westerheim.de/?p=1530){:target="_blank"}. Ein reichhaltiges Angebot an Erstlesebüchern und Kindersachbüchern begleitet unsere Kinder auf dem Weg ins persönliche Leseabenteuer.
