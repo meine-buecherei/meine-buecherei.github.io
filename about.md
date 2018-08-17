@@ -4,14 +4,17 @@ title: Über uns
 permalink: /ueber-uns/
 ---
 
-## Das sind wir
+## Das ist unser Team
 
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/about/Buechereiteam-800x600.jpg" 
       big="/images/about/Buechereiteam-1600x1200.jpg" 
       title="Das Team der Bücherei Westerheim" %}
+      
+<p><center>Petra Fritz, Brigitte Brunner, Anja Huberle, Annette Roth, Werner Briechle<br>
+Burkhard Meier, Michaela Bail, Rosemarie Meier, Lisa Bainger</center></p>
 
-Das ist unser Team. Ob dienstags, donnerstags oder einmal im Monat am Sonntag in _Deiner Bücherei Westerheim_, ob persönlich oder online [per E-Mail](/der-weg-zu-uns/#e-mail-adresse) oder nach einer Anfrage [über unseren Online-Katalog](https://www.biblino.de/westerheim) – jemand von uns wird sich um Dein Anliegen kümmern. 
+Ob dienstags, donnerstags oder einmal im Monat am Sonntag in _Deiner Bücherei Westerheim_, ob persönlich oder online [per E-Mail](/der-weg-zu-uns/#e-mail-adresse) oder nach einer Anfrage [über unseren Online-Katalog](https://www.biblino.de/westerheim) – jemand von uns wird sich um Dein Anliegen kümmern. 
 
 Wir freuen uns auf [Deinen Besuch](/der-weg-zu-uns/) und auf [Deine E-Mails](/der-weg-zu-uns/#e-mail-adresse). 
 
