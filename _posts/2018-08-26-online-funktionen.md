@@ -18,7 +18,7 @@ Dieser Artikel beschreibt die neuen Funktionen kurz und soll beim Einstieg helfe
 
 Das Büchereiteam ist über die auf der [Kontaktseite](/der-weg-zu-uns/#e-mail-adresse) angegebene E-Mail-Adresse zu erreichen.
 
-Mit einer E-Mail an diese Adresse erreichen Sie alle Teammitglieder. Jedes Anfrage, die Sie uns persönlich in der Bücherei stellen würden, können Sie uns ebenso per E-Mail zukommen lassen, typische Anlässe wären:
+Mit einer E-Mail an diese Adresse erreichen Sie [alle Teammitglieder](/ueber-uns/#das-ist-unser-team). Jedes Anfrage, die Sie uns persönlich in der Bücherei stellen würden, können Sie uns ebenso per E-Mail zukommen lassen, typische Anlässe wären:
 * Verlängerung ausgeliehener Medien (zur Erinnerung: Medien dürfen nur einmal verlängert werden!)
 * Vormerkung/Reservierung (z.B. von "begehrten" Büchern, die gerade verliehen sind)
 * Vorschläge für Neuanschaffungen
