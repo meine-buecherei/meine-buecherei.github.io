@@ -35,18 +35,18 @@ Sie als Benutzer müssen die Adresse also einmal abtippen (dabei auf das "ue" st
 
 Die Homepage [www.meine-buecherei.de](https://meine-buecherei.de){:target="_blank"} kennen Sie ja bereits, denn diesen Artikel haben Sie vermutlich von dort aus aufgerufen.
 
-Auf der Homepage informieren wir über üblichen Standardangaben (Adresse, Kontaktmöglichkeiten, Öffnungszeiten usw.) und verweisen auf die Links zum Online-Katalog Biblino und unsere Android-App.
+Auf der Homepage informieren wir über die wichtigsten Standardangaben (Adresse, Kontaktmöglichkeiten, Öffnungszeiten usw.) und verweisen auf die Links zum Online-Katalog Biblino und unsere Android-App.
 
 Darüber hinaus ist die Homepage im Format eines einfachen [Blogs](https://de.wikipedia.org/wiki/Blog){:target="_blank"} angelegt, was in unserem Fall bedeutet, dass Sie auf der Startseite unter "Aktuelles - Unser Blog" ab und zu etwas neues von uns zu lesen bekommen, so wie z.B. diesen Artikel.
 
-Möchten Sie sich mal an einer eigenen Rezension eines Buchs versuchen, das Sie bei uns geliehen haben? Auch solche Gastbeiträge könnten auf unserem Blog erscheinen!
+Möchten Sie sich mal an einer **eigenen Rezension** eines Buchs versuchen, das Sie bei uns geliehen haben? Auch solche Gastbeiträge könnten in unserem Blog erscheinen!
 
 
 
 
 ## Online-Katalog (Biblino)
 
-Unter [www.biblino.de/westerheim](https://www.biblino.de/westerheim){:target="_blank"} finden Sie unseren Online-Katalog, der extern auf dem "Biblino"-Server der Firma paidosoft (des Herstellers unserer Büchereisoftware) betrieben wird. Der Medienbestand sowie die aktuellen Ausleih-/Verfügbarkeitsdaten werden von uns regelmäßig auf Biblino abgelegt (normalerweile jeweils nach Ende der Bücherei-Öffnungszeiten).
+Unter [www.biblino.de/westerheim](https://www.biblino.de/westerheim){:target="_blank"} finden Sie unseren Online-Katalog, der extern auf dem "Biblino"-Server der Firma paidosoft (des Herstellers unserer Büchereisoftware) betrieben wird. Der Medienbestand sowie die aktuellen Ausleih-/Verfügbarkeitsdaten werden von uns regelmäßig mit Biblino synchronisiert (normalerweile jeweils nach Ende der Bücherei-Öffnungszeiten), damit der Inhalt der Website aktuell bleibt.
 
 Mit dem Online-Katalog können Sie
 * unseren Bestand nach Stichwörtern oder anderen Suchkriterien durchsuchen
@@ -191,9 +191,9 @@ Wählen Sie nun aus dem Menü den Eintrag "Mein Merkzettel", um den aktuellen In
 
 Das Reservieren/Vormerken von Medien funktioniert ähnlich wie das Verlängern: Sie wählen das oder die Medien aus, um die es geht, und die App öffnet in Ihrer E-Mail-App eine neue Nachricht, die Sie dann weiter bearbeiten und abschicken können.
 
-Zum Vormerken eines **einzelnen Mediums**, wählen Sie im Menü des Listeneintrags, oder im Menü der Detailansicht den Eintrag "Per E-Mail vormerken..." aus. 
+Zum Vormerken eines **einzelnen Mediums** wählen Sie im Menü des Listeneintrags, oder im Menü der Detailansicht, den Eintrag "Per E-Mail vormerken..." aus. 
 
-Daneben besteht noch die Möglichkeit den **ganzen Merkzettel** vorzumerken. Öffnen Sie hierzu Ihren Merkzettel und wählen Sie aus dem Menü rechts oben den Eintrag "Alle per E-Mail vormerken..." aus.
+Daneben besteht noch die Möglichkeit, den **ganzen Merkzettel** vorzumerken. Öffnen Sie hierzu Ihren Merkzettel und wählen Sie aus dem Menü rechts oben den Eintrag "Alle per E-Mail vormerken..." aus.
 
 {% include lightcase.html src="/images/2018-08-26-online-funktionen/app-vormerken.png" group="bilder-dieser-seite"
            title="Vormerken eines Mediums oder des ganzen Merkzettels" %}
