@@ -29,7 +29,7 @@ Mit einer E-Mail an diese Adresse erreichen Sie [alle Teammitglieder](/ueber-uns
            
 Dass die [E-Mail-Adressse](/der-weg-zu-uns/#e-mail-adresse) auf der Kontaktseite nur als Bild und in Schreibschrift zu sehen ist, ist ein Versuch, uns ein wenig gegen Spam-Mails zu schützen. Programme, die von den Spammern genutzt werden, um das Internet nach E-Mail-Adressen zu durchsuchen, haben es etwas schwerer, wenn sie dort nicht im Klartext auftauchen.
 
-Sie als Benutzer müssen die Adresse also einmal abtippen (dabei auf das "ue" statt "ü" in "bücherei" achten), um sie dann am besten gleich im Adressbuch Ihres E-Mail-Programms zu speichern.
+Sie als Benutzer müssen die Adresse also einmal abtippen (dabei auf das "ue" statt "ü" in "buecherei" achten), um sie dann am besten gleich im Adressbuch Ihres E-Mail-Programms zu speichern.
 
 ## Unsere Homepage
 
@@ -90,7 +90,7 @@ Nach erfolgreicher Anmeldung zeigt Biblino die Liste der ausgeliehenen Medien mi
            
 ### "Meine Liste"
 
-"Meine Liste" in Biblino ähnelt den "Einkaufswagen", die Sie wahrscheinlich aus diveresen Online-Shops kennen.
+"Meine Liste" in Biblino ähnelt den "Einkaufswagen", die Sie wahrscheinlich aus diversen Online-Shops kennen.
 Aus den Listen- und Detailansichten können Sie interessante Medien durch Klick auf das blaue "+"-Symbol der Liste hinzufügen:
 
 {% include lightcase.html src="/images/2018-08-26-online-funktionen/meine-liste-hinzu.png" group="bilder-dieser-seite"
@@ -175,7 +175,7 @@ Sie können diese E-Mail nun natürlich noch nach Belieben ändern, bevor Sie si
 
 Der Merkzettel funktioniert ähnlich wie "Meine Liste" auf Biblino. Die Liste wird aber direkt auf dem Handy/Tablet gespeichert. So kann jedes Familienmitglied seinen eigenen Merkzettel führen. Durch die Verwendung auf einem mobilen Gerät ist der Merkzettel natürlich besonders praktisch, denn so können Sie bei Ihrem Büchereibesuch noch einmal auf dem Smartphone nachschauen, welche Bücher Sie vorher beim Stöbern in der App interessant gefunden haben, ohne sich Titel und Autor genau einprägen oder aufschreiben zu müssen.
 
-Es gibt diese Wege, ein Medium auf den Merkzettel zu setzen:
+Es gibt folgende Wege, ein Medium auf den Merkzettel zu setzen:
 * Auf der Detailansicht: tippen Sie auf das "Lesezeichen"-Symbol rechts unten
 * Auf der Detailansicht: aus dem Menü (rechts oben) den Eintrag "Auf den Merkzettel setzen" auswählen
 * Auf der Listenansicht: auf den Menübutton im Listeneintrag tippen und "Auf den Merkzettel setzen" auswählen.
