@@ -41,12 +41,9 @@ Darüber hinaus ist die Homepage im Format eines einfachen [Blogs](https://de.wi
 
 Möchten Sie sich mal an einer **eigenen Rezension** eines Buchs versuchen, das Sie bei uns geliehen haben? Auch solche Gastbeiträge könnten in unserem Blog erscheinen!
 
-
-
-
 ## Online-Katalog (Biblino)
 
-Unter [www.biblino.de/westerheim](https://www.biblino.de/westerheim){:target="_blank"} finden Sie unseren Online-Katalog, der extern auf dem "Biblino"-Server der Firma paidosoft (des Herstellers unserer Büchereisoftware) betrieben wird. Der Medienbestand sowie die aktuellen Ausleih-/Verfügbarkeitsdaten werden von uns regelmäßig mit Biblino synchronisiert (normalerweile jeweils nach Ende der Bücherei-Öffnungszeiten), damit der Inhalt der Website aktuell bleibt.
+Unter [www.biblino.de/westerheim](https://www.biblino.de/westerheim){:target="_blank"} finden Sie unseren Online-Katalog, der extern auf dem "Biblino"-Server der Firma [paidosoft](http://www.paidosoft.de/){:target="_blank"} (des Herstellers unserer Büchereisoftware) betrieben wird. Der Medienbestand sowie die aktuellen Ausleih-/Verfügbarkeitsdaten werden von uns regelmäßig mit Biblino synchronisiert (normalerweile jeweils nach Ende der Bücherei-Öffnungszeiten), damit der Inhalt der Website aktuell bleibt.
 
 Mit dem Online-Katalog können Sie
 * unseren Bestand nach Stichwörtern oder anderen Suchkriterien durchsuchen
