@@ -5,7 +5,7 @@ categories: IT
 author: "burkhard"
 date: "2018-08-27"
 ---
-Im Zusammenhang mit der IT-Umstellung der Bücherei-Westerheim haben wir folgende neuen Funktionen eingeführt, die wir unseren Benutzern zur Online-Verwendung zur Verfügung stellen:
+Im Zuge der IT-Umstellung der Bücherei-Westerheim haben wir folgende neue Funktionen eingeführt, die wir unseren Benutzern zur Online-Verwendung zur Verfügung stellen:
 
 * [Kontakt](#kontakt-per-e-mail) mit dem Büchereiteam per E-Mail
 * [Unsere Homepage](#unsere-homepage)
