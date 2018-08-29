@@ -2,7 +2,7 @@
 @set mypath=%~dp0
 @echo %mypath%
 @cd /D %mypath%
-@echo "Coverbilder konvertieren..."
+@echo Coverbilder konvertieren...
 git pull
 call bundle exec ruby import_bookcovers.rb
 cd ..
