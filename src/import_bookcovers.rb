@@ -36,7 +36,7 @@ Dir.foreach(input_dir) do |entry|
 
     ['x160', 'x320'].each do |resolution|
       output_path = File.join(output_dir, resolution, entry)
-      if !File.exist?(output_path)
+      if !File.exist?(output_path) || File.mtime(input_path) > File.mtime(output_path)
         puts "#{output_path}..."
         cmd = "magick.exe #{input_path} -resize #{resolution} #{output_path}"
         magick_output = `#{cmd}`
