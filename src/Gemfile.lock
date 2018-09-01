@@ -1,15 +1,22 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    dbd-odbc (0.2.5)
+      dbi (>= 0.4.0)
+    dbi (0.4.5)
+      deprecated (= 2.0.1)
+    deprecated (2.0.1)
     mini_magick (4.8.0)
-    tiny_tds (2.1.2-x64-mingw32)
+    ruby-odbc (0.99999)
 
 PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  dbd-odbc
+  dbi
   mini_magick (~> 4.8)
-  tiny_tds
+  ruby-odbc
 
 BUNDLED WITH
-   1.16.0
+   1.16.4
