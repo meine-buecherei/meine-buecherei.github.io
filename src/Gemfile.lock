@@ -2,12 +2,14 @@ GEM
   remote: https://rubygems.org/
   specs:
     mini_magick (4.8.0)
+    tiny_tds (2.1.2-x64-mingw32)
 
 PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
   mini_magick (~> 4.8)
+  tiny_tds
 
 BUNDLED WITH
    1.16.0
