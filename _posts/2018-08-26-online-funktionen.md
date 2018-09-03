@@ -67,7 +67,7 @@ Mit der "Expertensuche" kann noch genauer nach einzelnen Kriterien gesucht werde
 Um einfach ein wenig in den Kategorien der Bücherei zu stöbern, können Sie auch einem der Links auf der Startseite folgen:
 
 {% include lightcase.html src="/images/2018-08-26-online-funktionen/biblino-stoebern.png" group="bilder-dieser-seite"
-           title="Links zum direkten Einstieg in die Bücherei-Sachgruppen" %}
+           title="Links zum direkten Einstieg in die Top 100 und die Bücherei-Sachgruppen" %}
 
 
 ### Das Leserkonto
