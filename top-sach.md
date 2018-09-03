@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _03.09.2018 22:00_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _03.09.2018 22:23_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td><strong>Platz 1</strong><br><br><em>Kullmann, Folko</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016039">Garten-Projekte für Selbermacher</a></td><td><a href="https://www.biblino.de/index.php?action=5&mnummer=12016039"><img src="/images/mediacovers/x160/12016039.jpg"></a></td></tr>

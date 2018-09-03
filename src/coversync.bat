@@ -5,9 +5,11 @@
 @echo Coverbilder konvertieren...
 git pull
 call bundle exec ruby import_bookcovers.rb
+call bundle exec ruby db_extract.rb
+
 cd ..
 @echo Aenderungen der Homepage hochladen...
 git add .
-git commit -m "Neue Coverbilder"
+git commit -m "Aktualisiert durch coversync.bat"
 git push
 pause
