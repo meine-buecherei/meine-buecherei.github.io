@@ -33,6 +33,51 @@ def row2book(row)
     return book
 end
 
+def generate_html(books, html_filename, key, category_name)
+  html_file = File.open(html_filename, "w")
+  
+  now = Time.now.strftime("%d.%m.%Y %H:%M")
+  
+  html_file.puts <<HTML
+---
+layout: page
+title: "Top 100 - #{category_name}"
+permalink: /top100-#{key}/
+---
+Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __#{category_name}__. 
+
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _#{now}_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+
+<table>
+HTML
+  
+  rank = 0
+  books.each do |book|
+    rank += 1
+    
+    image_path = "/images/mediacovers/x160/#{book[:mediaNum]}.jpg"
+    if File.exist?("../#{image_path}")
+      image_src = image_path
+    else
+      image_src =  "/images/mediacovers/x160/keinbild.jpg"
+    end    
+
+    author = book[:author] || ""
+    biblino_details_url = "https://www.biblino.de/index.php?action=5&mnummer=#{book[:mediaNum]}"
+    title_link = "<a href=\"#{biblino_details_url}\">#{book[:title]}</a>"
+    
+    html_file.puts "<tr>" +
+                     "<td><strong>Platz #{rank}</strong><br><br>" +
+                         "<em>#{author}</em><br><br>#{title_link}</td>" +
+                     "<td><a href=\"#{biblino_details_url}\"><img src=\"#{image_src}\"></a></td>" +
+                   "</tr>"
+                   
+  end
+  
+  html_file.puts "</table>"
+  html_file.close
+end
+
 #
 # MAIN
 #
@@ -67,6 +112,8 @@ group_conditions = {
 
 group_conditions.each do |key, props|
   json_filename = "top-#{key}.json"
+  html_filename = "../top-#{key}.md"
+  
   puts "Generiere #{json_filename}..."
 
   # Abfrage aus der Ausleih-Historie
@@ -117,10 +164,15 @@ group_conditions.each do |key, props|
   }
   books = books[0..99] # Höchstens 100 Medien in der Liste
   
+  # JSON-Datei generieren - für die App...
   json_file = File.open(json_filename, "w")
   json_file.puts JSON.generate(books)  
   #json_file.puts JSON.pretty_generate(books)  
   json_file.close
+  
+  # HTML-Datei generieren - für Jekyll/Homepage...
+  puts "Generiere #{html_filename}..."
+  generate_html(books, html_filename, key, props[:name])
   
   puts "#{books.size} Medien in #{json_filename}"
   
