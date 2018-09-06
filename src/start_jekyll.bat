@@ -3,5 +3,6 @@
 @cd %mypath%
 @cd ..
 git pull
-bundle exec jekyll serve --watch
+call bundle install
+call bundle exec jekyll serve --watch
 pause

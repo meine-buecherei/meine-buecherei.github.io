@@ -116,10 +116,15 @@ Als Ergänzung für mobile Geräte mit kleinen Bildschirmen (also Smartphones un
 
 Auf **Apple**-Produkten wie iPhones und iPads läuft die App allerdings nicht!
 
-Die App lässt sich ganz ähnlich wie viele andere Apps bedienen, die sich bereits auf Ihrem Smartphone befinden. Nach dem Start der App wird die Liste der Neuanschaffungen aus Biblino geladen und angezeigt.
+Die App lässt sich ganz ähnlich wie viele andere Apps bedienen, die sich bereits auf Ihrem Smartphone befinden. Nach dem Start der App können Sie über die angezeigten Icons die wichtigsten Funktionen ausführen:
 
+{% include lightcase.html src="/images/2018-08-26-online-funktionen/app-startbildschirm.png" group="bilder-dieser-seite"
+           title="Startbildschirm der App" %}
+
+Beginnen wir z.B. damit, auf den Button "Neu bei uns" zu klicken. Es erscheint die Liste unserer Neuanschaffungen.
+           
 {% include lightcase.html src="/images/2018-08-26-online-funktionen/app-neuanschaffungen.png" group="bilder-dieser-seite"
-           title="Beim Start die App erscheint die Liste der Neuanschaffungen" %}
+           title="Liste der Neuanschaffungen" %}
 
 Wischen Sie einfach mit dem Finger nach oben, um die Liste über den Bildschirm laufen zu lassen. Bücherdaten und Coverbilder werden dabei automatisch nachgeladen. Tippen Sie auf einen Eintrag, um sich die Details mit einem großen Coverbild und der Inhaltsangabe anzeigen zu lassen:
 
@@ -133,14 +138,14 @@ Auf **Tablets** wird im Querformat die Bildschirmbreite genutzt, um Listen- und 
 
 ### Suchfunktion der App
 
-Um nach Stichwörtern zu suchen, tippen Sie auf das Lupensymbol in der Symbolliste oder rechts unten auf dem Display.
+Um nach Stichwörtern zu suchen, wählen Sie im Startbildschirm "Suchen", oder tippen Sie in der Listenansicht auf das Lupensymbol in der Symbolliste oder rechts unten auf dem Display.
 
 {% include lightcase.html src="/images/2018-08-26-online-funktionen/app-suche.png" group="bilder-dieser-seite"
            title="Suchfunktion der App" %}
 
 ### Stöbern mit der App
 
-Um in allen Medien einer Kategorie zu stöbern, öffnen Sie in der Listenansicht das Menü (Symbol rechts oben mit den drei Punkten übereinander antippen) und wählen Sie "In Kategorien stöbern..."
+Um in allen Medien einer Kategorie zu stöbern, wählen Sie im Startbilschirm die Funktion "Stöbern", oder öffnen Sie in der Listenansicht das Menü (Symbol rechts oben mit den drei Punkten übereinander antippen) und wählen Sie "In Kategorien stöbern..."
 
 {% include lightcase.html src="/images/2018-08-26-online-funktionen/app-stoebern.png" group="bilder-dieser-seite"
            title="In einer Kategorie stöbern" %}
@@ -149,7 +154,9 @@ Anschließend wählen Sie die gewünschte Kategorie aus, und die App lädt die j
            
 ### Das Leserkonto
 
-Tippen Sie in der App einmal auf das Benutzersymbol in der Menüleiste, um die aktuell von Ihnen ausgeliehenen Medien mit deren Rückgabefristen angezeigt zu bekommen.
+Das Leserkonto erreichen Sie vom Startbilschirm über "Mein Konto". Befinden Sie sich auf einer Listenansicht, tippen Sie einmal auf das Benutzersymbol in der Menüleiste. 
+
+Nun sehen Sie die aktuell von Ihnen ausgeliehenen Medien und deren Rückgabefristen.
 
 {% include lightcase.html src="/images/2018-08-26-online-funktionen/app-konto.png" group="bilder-dieser-seite"
            title="Leserkonto in der App" %}
@@ -173,6 +180,7 @@ Sie können diese E-Mail nun natürlich noch nach Belieben ändern, bevor Sie si
 Der Merkzettel funktioniert ähnlich wie "Meine Liste" auf Biblino. Die Liste wird aber direkt auf dem Handy/Tablet gespeichert. So kann jedes Familienmitglied seinen eigenen Merkzettel führen. Durch die Verwendung auf einem mobilen Gerät ist der Merkzettel natürlich besonders praktisch, denn so können Sie bei Ihrem Büchereibesuch noch einmal auf dem Smartphone nachschauen, welche Bücher Sie vorher beim Stöbern in der App interessant gefunden haben, ohne sich Titel und Autor genau einprägen oder aufschreiben zu müssen.
 
 Es gibt folgende Wege, ein Medium auf den Merkzettel zu setzen:
+* Auf dem Startbilschirm: Button "Merkzettel"
 * Auf der Detailansicht: tippen Sie auf das "Lesezeichen"-Symbol rechts unten
 * Auf der Detailansicht: aus dem Menü (rechts oben) den Eintrag "Auf den Merkzettel setzen" auswählen
 * Auf der Listenansicht: auf den Menübutton im Listeneintrag tippen und "Auf den Merkzettel setzen" auswählen.

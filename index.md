@@ -20,7 +20,7 @@ Dies ist die Startseite der Bücherei Westerheim (Unterallgäu). Die wichtigsten
 Alle unsere Bücher, CDs und DVDs sind hier gelistet! Der [Online-Katalog](https://www.biblino.de/westerheim){:target="_blank"} bietet:
 * Stichwort- und Expertensuche im Medienbestand
 * Angaben zu Inhalt und Verfügbarkeit
-* Liste der Neuanschaffungen
+* Liste der Neuanschaffungen und "Top-100"-Hitlisten der meist geliehenen Medien
 * Büchereikonto einsehen, Medien vormerken
 * App für Android-Geräte (Smartphones, Tablets)\\
 <a href='https://play.google.com/store/apps/details?id=de.meier.burkhard.bibapp'>
