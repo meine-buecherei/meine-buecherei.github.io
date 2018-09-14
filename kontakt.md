@@ -17,7 +17,7 @@ Dienstag: 18:30 - 19:30 Uhr\\
 Donnerstag: 15:30 - 17:00 Uhr\\
 Sonntag: 1 x im Monat, nach dem Kleinkinder-Gottesdienst
 
-# Benutzerordnung
+# Anmeldung und Benutzerordnung
 
 Die Mitgliedschaft und die Regelungen zur Ausleihe finden Sie in unserer Benutzerordnung. Die Benutzerordnung und die dazugehörige Anlage zum Datenschutz können Sie hier als .pdf-Dokumente herunterladen:
 
