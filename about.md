@@ -18,9 +18,15 @@ Ob dienstags, donnerstags oder einmal im Monat am Sonntag in _Deiner Bücherei W
 
 Wir freuen uns auf [Deinen Besuch](/der-weg-zu-uns/) und auf [Deine E-Mails](/der-weg-zu-uns/#e-mail-adresse). 
 
-## Hintergrund
+## Geschichte der Bücherei
       
-1973 - das Jahr der ersten großen Ölpreiskrise. In dieser Zeit der Verunsicherung haben die [Pfarrei Mariä Himmelfahrt](https://bistum-augsburg.de/Pfarreien/Mariae-Himmelfahrt_Westerheim){:target="_blank"} und die [Gemeinde Westerheim](http://www.gemeinde-westerheim.de/){:target="_blank"} ein bemerkenswertes Zeichen der Förderung der Lesekultur gesetzt und unsere Bücherei ins Leben gerufen. Seitdem wird sie verlässlich von beiden Seiten unterstützt und gefördert.
+1973 - das Jahr der ersten großen Ölpreiskrise. In dieser Zeit der Verunsicherung wurde in Westerheim ein bemerkenswertes Zeichen der Förderung der Lesekultur gesetzt. Auf Initiative von Herrn **Max Eberhard** wurde die Westerheimer Bücherei gegründet. Von Beginn an wurde er dabei von seiner erst 16-jährigen Tochter Brigitte unterstützt, die bald die Büchereileitung übernahm. Frau **Brigitte Brunner** war bis 1997 Leiterin unserer Bücherei und ist bis heute im Büchereiteam tätig. 
+
+Im Januar 1998 übernahm Frau **Kordula Spieler** dieses Amt. Sie leitete unsere Bücherei bis zum Jahre 2013. 
+
+Seit August 2013 ist Frau **Michaela Bail** als Büchereileiterin tätig.
+
+Träger der Bücherei waren von Beginn an die [Pfarrei Mariä Himmelfahrt](https://bistum-augsburg.de/Pfarreien/Mariae-Himmelfahrt_Westerheim){:target="_blank"} und die [Gemeinde Westerheim](http://www.gemeinde-westerheim.de/){:target="_blank"}. Seitdem wird sie verlässlich von beiden Seiten unterstützt und gefördert.
 
 Die Bücherei befand sich zunächst im alten Pfarrhof und zog 1992 an den jetzigen Standort im ehemaligen Schulgebäude um.
 
