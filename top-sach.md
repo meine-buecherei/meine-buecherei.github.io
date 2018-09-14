@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _14.09.2018 17:42_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _14.09.2018 18:17_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td><strong>Platz 1</strong><br><br><em>Eisenhauer, Gregor</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018033">Die zehn wichtigsten Fragen des Lebens</a></td><td><a href="https://www.biblino.de/index.php?action=5&mnummer=12018033"><img src="/images/mediacovers/x160/12018033.jpg"></a></td></tr>
