@@ -35,7 +35,7 @@ Die Bücherei befand sich zunächst im alten Pfarrhof und zog 1992 an den jetzig
       big="/images/about/kino-im-kopf.jpg" 
       title="Was ist Lesen für Dich?" %}
 
-Organisatorisch ist die Bücherei Westerheim dem [Sankt Michaelsbund](https://www.st-michaelsbund.de/buechereiarbeit.html){:target="_blank"} angeschlossen. Ca. 10 ehrenamtliche Mitarbeiterinnen und Mitarbeiter sorgen unter der Leitung von Michaela Bail dafür, dass bei uns in Westerheim stets ein aktuelles und attraktives Angebot an Büchern, Zeitschriften, DVDs und CDs zur Auswahl steht. 
+Organisatorisch ist die Bücherei Westerheim dem [Sankt Michaelsbund](https://www.st-michaelsbund.de/buechereiarbeit.html){:target="_blank"} angeschlossen. Unsere ehrenamtlichen Mitarbeiterinnen und Mitarbeiter sorgen dafür, dass bei uns in Westerheim stets ein aktuelles und attraktives Angebot an Büchern, Zeitschriften, DVDs und CDs zur Auswahl steht. 
 
 Nur ein paar Schritte von zu Hause entfernt - und seit September 2018 ist unser Angebot auch vom heimischen Sofa aus [mit nur einem Klick zu erreichen](https://www.biblino.de/westerheim){:target="_blank"}.
 
