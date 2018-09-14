@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _13.09.2018 21:55_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _14.09.2018 15:39_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td><strong>Platz 1</strong><br><br><em>Weber, Anna / Jeremies, Christian / Jeremies, Fabian</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12015174">Ferdinand auf großer Fahrt</a></td><td><a href="https://www.biblino.de/index.php?action=5&mnummer=12015174"><img src="/images/mediacovers/x160/12015174.jpg"></a></td></tr>
