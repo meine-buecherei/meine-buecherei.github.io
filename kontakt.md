@@ -19,7 +19,7 @@ Sonntag: 1 x im Monat, nach dem Kleinkinder-Gottesdienst
 
 # Anmeldung und Benutzerordnung
 
-Die Mitgliedschaft und die Regelungen zur Ausleihe finden Sie in unserer Benutzerordnung. Die Benutzerordnung und die dazugehörige Anlage zum Datenschutz können Sie hier als .pdf-Dokumente herunterladen:
+Die Regelungen zu Mitgliedschaft und Ausleihe finden Sie in unserer Benutzerordnung. Die Benutzerordnung und die dazugehörige Anlage zum Datenschutz können Sie hier als .pdf-Dokumente herunterladen:
 
 - [Benutzerordnung der Bücherei Westerheim](/Benutzerordnung-Buecherei-Westerheim.pdf)
 - [Anlage Datenschutz zur Benutzerordnung](/Anlage-Datenschutz-fuer-die-Benutzungsordnung.pdf)
