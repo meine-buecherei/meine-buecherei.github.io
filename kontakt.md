@@ -24,7 +24,7 @@ Die Mitgliedschaft und die Regelungen zur Ausleihe finden Sie in unserer Benutze
 - [Benutzerordnung der Bücherei Westerheim](/Benutzerordnung-Buecherei-Westerheim.pdf)
 - [Anlage Datenschutz zur Benutzerordnung](/Anlage-Datenschutz-fuer-die-Benutzungsordnung.pdf)
 
-Um Mitglied der Bücherei zu werden, füllen Sie bitte Vorder- und Rückseite der Benutzerordnung mit Ihren Daten aus und geben Sie sie den unteren Abschnitt in der Bücherei ab. Ausdrucke halten wir auch in der Bücherei bereit.
+Um Mitglied der Bücherei zu werden, füllen Sie bitte Vorder- und Rückseite der Benutzerordnung mit Ihren Daten aus und geben Sie den unteren Abschnitt in der Bücherei ab. Ausdrucke halten wir auch in der Bücherei bereit.
 
 # Adresse der Bücherei
 
