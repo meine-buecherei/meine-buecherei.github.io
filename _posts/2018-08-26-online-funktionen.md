@@ -33,9 +33,7 @@ Sie als Benutzer müssen die Adresse also einmal abtippen (dabei auf das "ue" st
 
 ## Unsere Homepage
 
-Die Homepage [www.meine-buecherei.de](https://meine-buecherei.de){:target="_blank"} kennen Sie ja bereits, denn diesen Artikel haben Sie vermutlich von dort aus aufgerufen.
-
-Auf der Homepage informieren wir über die wichtigsten Standardangaben (Adresse, Kontaktmöglichkeiten, Öffnungszeiten usw.) und verweisen auf die Links zum Online-Katalog Biblino und unsere Android-App.
+Auf der Homepage [www.meine-buecherei.de](https://meine-buecherei.de){:target="_blank"} informieren wir über die wichtigsten Standardangaben (Adresse, Kontaktmöglichkeiten, Öffnungszeiten, Benutzerordnung usw.) und verweisen auf die Links zum Online-Katalog Biblino und unsere Android-App.
 
 Darüber hinaus ist die Homepage im Format eines einfachen [Blogs](https://de.wikipedia.org/wiki/Blog){:target="_blank"} angelegt, was in unserem Fall bedeutet, dass Sie auf der Startseite unter "Aktuelles - Unser Blog" ab und zu etwas neues von uns zu lesen bekommen, so wie z.B. diesen Artikel.
 
@@ -145,7 +143,7 @@ Um nach Stichwörtern zu suchen, wählen Sie im Startbildschirm "Suchen", oder t
 
 ### Stöbern mit der App
 
-Um in allen Medien einer Kategorie zu stöbern, wählen Sie im Startbilschirm die Funktion "Stöbern", oder öffnen Sie in der Listenansicht das Menü (Symbol rechts oben mit den drei Punkten übereinander antippen) und wählen Sie "In Kategorien stöbern..."
+Um in allen Medien einer Kategorie zu stöbern, wählen Sie im Startbildschirm die Funktion "Stöbern", oder öffnen Sie in der Listenansicht das Menü (Symbol rechts oben mit den drei Punkten übereinander antippen) und wählen Sie "In Kategorien stöbern..."
 
 {% include lightcase.html src="/images/2018-08-26-online-funktionen/app-stoebern.png" group="bilder-dieser-seite"
            title="In einer Kategorie stöbern" %}
@@ -154,7 +152,7 @@ Anschließend wählen Sie die gewünschte Kategorie aus, und die App lädt die j
            
 ### Das Leserkonto
 
-Das Leserkonto erreichen Sie vom Startbilschirm über "Mein Konto". Befinden Sie sich auf einer Listenansicht, tippen Sie einmal auf das Benutzersymbol in der Menüleiste. 
+Das Leserkonto erreichen Sie vom Startbildschirm über "Mein Konto". Befinden Sie sich auf einer Listenansicht, tippen Sie einmal auf das Benutzersymbol in der Menüleiste. 
 
 Nun sehen Sie die aktuell von Ihnen ausgeliehenen Medien und deren Rückgabefristen.
 
@@ -180,7 +178,7 @@ Sie können diese E-Mail nun natürlich noch nach Belieben ändern, bevor Sie si
 Der Merkzettel funktioniert ähnlich wie "Meine Liste" auf Biblino. Die Liste wird aber direkt auf dem Handy/Tablet gespeichert. So kann jedes Familienmitglied seinen eigenen Merkzettel führen. Durch die Verwendung auf einem mobilen Gerät ist der Merkzettel natürlich besonders praktisch, denn so können Sie bei Ihrem Büchereibesuch noch einmal auf dem Smartphone nachschauen, welche Bücher Sie vorher beim Stöbern in der App interessant gefunden haben, ohne sich Titel und Autor genau einprägen oder aufschreiben zu müssen.
 
 Es gibt folgende Wege, ein Medium auf den Merkzettel zu setzen:
-* Auf dem Startbilschirm: Button "Merkzettel"
+* Auf dem Startbildschirm: Button "Merkzettel"
 * Auf der Detailansicht: tippen Sie auf das "Lesezeichen"-Symbol rechts unten
 * Auf der Detailansicht: aus dem Menü (rechts oben) den Eintrag "Auf den Merkzettel setzen" auswählen
 * Auf der Listenansicht: auf den Menübutton im Listeneintrag tippen und "Auf den Merkzettel setzen" auswählen.
