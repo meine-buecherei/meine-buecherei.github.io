@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _25.09.2018 19:18_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _25.09.2018 19:39_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td><strong>Platz 1</strong><br><br><em>Stehfest, Eric</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018138">9 Tage wach</a></td><td><a href="https://www.biblino.de/index.php?action=5&mnummer=12018138"><img src="/images/mediacovers/x160/12018138.jpg"></a></td></tr>

@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _25.09.2018 19:18_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _25.09.2018 19:39_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td><strong>Platz 1</strong><br><br><em>Schröder, Patricia</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12008102">Der Lehrer-Schlamassel / Die verrückte Schule Bd.3</a></td><td><a href="https://www.biblino.de/index.php?action=5&mnummer=12008102"><img src="/images/mediacovers/x160/12008102.jpg"></a></td></tr>
