@@ -25,6 +25,21 @@
         maxWidth: 1600,
         shrinkFactor: 0.75
       });
+
+      // Bücherei-Logo beim Scrollen verkleinern
+      $(window).scroll(function() {
+          var offset = $('.page-content').offset().top;
+          var pos = $(this).scrollTop();
+          //if (pos > 500 - offset){  
+          if (pos - offset > 200) {  
+              $('.site-logo').addClass('small-logo');
+              //$('.site-logo').animate( { height: '150px' } );
+          }
+          else{
+//              $('.site-logo').animate( { height: '100%' } );
+              $('.site-logo').removeClass('small-logo');     
+          }
+      });      
     });
   </script>
     
