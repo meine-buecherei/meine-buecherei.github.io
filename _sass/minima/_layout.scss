@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 3px solid $grey-color-light;
+  border-bottom: 3px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -35,6 +35,11 @@
 }
 
 .site-nav {
+  // Burkhard - Menü-Text/-Icon über dem Bild darstellen (spart Platz)
+  position: absolute;
+  right: 16px;
+  top: 0px;
+  
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
 
