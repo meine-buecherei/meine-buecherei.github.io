@@ -30,14 +30,13 @@
       $(window).scroll(function() {
           var offset = $('.page-content').offset().top;
           var pos = $(this).scrollTop();
-          //if (pos > 500 - offset){  
+          //if (pos > 500 - offset){ 
+          var $logoImage = $('.site-logo');
           if (pos - offset > 200) {  
-              $('.site-logo').addClass('small-logo');
-              //$('.site-logo').animate( { height: '150px' } );
+              $logoImage.addClass('small-logo');
           }
           else{
-//              $('.site-logo').animate( { height: '100%' } );
-              $('.site-logo').removeClass('small-logo');     
+              $logoImage.removeClass('small-logo');     
           }
       });      
     });

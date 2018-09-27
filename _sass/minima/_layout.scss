@@ -7,18 +7,17 @@
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
-  //position: relative;
+
   // Burkhard
   position: sticky;
   top: 0;
-  //height: 250px;
   height: auto;
   width: 100%;
   background: #fff;
 }
 
 .small-logo {
-  height: 150px;
+  max-height: 150px;
 }
 
 .site-title {
