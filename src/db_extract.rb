@@ -67,9 +67,10 @@ HTML
     title_link = "<a href=\"#{biblino_details_url}\">#{book[:title]}</a>"
     
     html_file.puts "<tr>" +
-                     "<td><strong>Platz #{rank}</strong><br><br>" +
+                     "<td width=\"70%\"><strong>Platz #{rank}</strong><br><br>" +
                          "<em>#{author}</em><br><br>#{title_link}</td>" +
-                     "<td><a href=\"#{biblino_details_url}\"><img src=\"#{image_src}\"></a></td>" +
+                     "<td><a href=\"#{biblino_details_url}\">" + 
+                      "<img src=\"#{image_src}\" style=\"width: auto; height: auto;\"></a></td>" +
                    "</tr>"
                    
   end
