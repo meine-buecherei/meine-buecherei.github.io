@@ -69,8 +69,8 @@ HTML
     html_file.puts "<tr>" +
                      "<td width=\"70%\"><strong>Platz #{rank}</strong><br><br>" +
                          "<em>#{author}</em><br><br>#{title_link}</td>" +
-                     "<td><a href=\"#{biblino_details_url}\">" + 
-                      "<img src=\"#{image_src}\" style=\"width: auto; height: auto;\"></a></td>" +
+                     "<td><center><a href=\"#{biblino_details_url}\">" + 
+                      "<img src=\"#{image_src}\" style=\"width: auto; height: auto;\"></a></center></td>" +
                    "</tr>"
                    
   end
