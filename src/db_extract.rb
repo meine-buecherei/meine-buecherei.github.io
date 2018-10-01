@@ -118,7 +118,7 @@ group_conditions.each do |key, props|
   puts "Generiere #{json_filename}..."
 
   # Abfrage aus der Ausleih-Historie
-  sql = "SELECT TOP 100 COUNT(DISTINCT history.adatum) AS beliebtheit, 
+  sql = "SELECT COUNT(DISTINCT history.adatum) AS beliebtheit, 
                                         MAX(history.adatum) as geliehen_am, 
                                         medien.mnummer, mcode, autor, titel, gruppe2, isbn
                          FROM HISTORY
