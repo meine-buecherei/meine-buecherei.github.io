@@ -5,7 +5,7 @@ permalink: /top100-sl/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Belletristik (Erwachsene und Jugendliche)__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _07.10.2018 09:29_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _07.10.2018 09:30_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Moriarty, Liane / Schneider, Regina / Moriarty, Liane</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018121">Das Geheimnis meines Mannes</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018121"><img src="/images/mediacovers/x160/12018121.jpg" style="width: auto; height: auto;"></a></center></td></tr>
