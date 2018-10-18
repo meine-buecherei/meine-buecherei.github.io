@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _18.10.2018 18:14_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _18.10.2018 18:18_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Dahle, Stefanie</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018045">Rosa Rosenherz. Im Zauberschloss der Herzenswünsche</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018045"><img src="/images/mediacovers/x160/12018045.jpg" style="width: auto; height: auto;"></a></center></td></tr>
