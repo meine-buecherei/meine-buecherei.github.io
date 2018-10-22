@@ -26,3 +26,4 @@ Alle unsere Bücher, CDs und DVDs sind hier gelistet! Der [Online-Katalog](https
 <a href='https://play.google.com/store/apps/details?id=de.meier.burkhard.bibapp'>
   <img alt='Jetzt bei Google Play' src='/images/googleplay.de_badge_web_generic.png' width="180px;" height="auto;"/>
 </a>
+
