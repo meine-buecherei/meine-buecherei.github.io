@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _24.10.2018 08:39_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _24.10.2018 08:41_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Kunz, Ulli / Huber, Florian</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12017165">Tauchen / Was ist was Bd.139</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12017165"><img src="/images/mediacovers/x160/12017165.jpg" style="width: auto; height: auto;"></a></center></td></tr>

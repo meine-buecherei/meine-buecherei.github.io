@@ -5,7 +5,7 @@ permalink: /top100-dvd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __DVDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _24.10.2018 08:39_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _24.10.2018 08:41_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Falardeau, Philippe</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016732">The Good Lie - Der Preis der Freiheit</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016732"><img src="/images/mediacovers/x160/12016732.jpg" style="width: auto; height: auto;"></a></center></td></tr>
