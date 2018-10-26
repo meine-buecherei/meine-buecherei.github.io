@@ -5,7 +5,7 @@ categories: Termine
 author: "burkhard"
 ---
 
-Wie immer nach dem monatlichen Kindergottestdienst öffnet auch am **Sonntag, 28. Oktober** anschließend wieder unsere Bücherei - ab ca. 11 Uhr.
+Wie immer nach dem monatlichen Kindergottestdienst öffnet auch am **Sonntag, 28. Oktober** anschließend wieder unsere Bücherei - ab ca. **11 Uhr**.
 {% include lightcase.html src="/images/kindergottesdienst/einladung28.10.2018.jpg" group="bilder-dieser-seite"
            title="Kindergottesdienst am 28.10. - danach öffnet die Bücherei" %}
 
