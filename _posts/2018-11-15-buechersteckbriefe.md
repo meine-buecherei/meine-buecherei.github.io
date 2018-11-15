@@ -21,4 +21,6 @@ Jeder ausgefüllte Beitrag wird außerdem einige Zeit hier **auf unserer Homepag
 
 Die Kinder, die die meisten Beiträge veröffentlichen, nehmen an unserer **halbjährlichen Verlosung von Buchgutscheinen** teil!
 
+Wir freuen uns auf Euren Besuch!
+
 Euer erwartungsvolles Büchereiteam
