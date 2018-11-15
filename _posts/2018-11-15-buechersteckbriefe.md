@@ -8,7 +8,7 @@ date: "2018-11-15"
 Liebe Kindergartenkinder, lieber Schülerinnen und Schüler! 
 Sicher geht Euch manches durch den Kopf, wenn Ihr ein Buch lest oder vorgelesen bekommt. Habt Ihr Lust, etwas dazu zu malen oder zu schreiben? Mit unserer neuen Aktion lohnt es sich noch mehr...
 
-Dann nehmt Euch ein gerade gelesenes Buch vor und bringt Eure Gedanken zu Papier. Hier könnt Ihr Vordrucke für Ihre Beiträge herunterladen. Ihr könnt etwas malen oder schreiben, ganz wie Ihr wollt:
+Nehmt Euch ein gerade gelesenes Buch vor und bringt Eure Gedanken zu Papier. Hier könnt Ihr Vordrucke für Ihre Beiträge herunterladen. Ihr könnt etwas malen oder schreiben, ganz wie Ihr wollt:
 
 - [Buchbewertung mit Platz zum Malen](/images/2018-11-15-vorleseaktion/BildZumBuchMalen.pdf)
 - [Buchbewertung als Fragebogen](/images/2018-11-15-vorleseaktion/BuchFragebogen.pdf)
