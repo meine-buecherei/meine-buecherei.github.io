@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _20.11.2018 19:13_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _21.11.2018 20:58_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Klein, Martin / Hartmann, Jörg</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018074">Eine Falle für den T-Rex</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018074"><img src="/images/mediacovers/x160/12018074.jpg" style="width: auto; height: auto;"></a></center></td></tr>
