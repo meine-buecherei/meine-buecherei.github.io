@@ -158,7 +158,15 @@ group_conditions.each do |key, props|
   # Sortieren nach Anzahl Ausleihen, dann nach letzter Ausleihe
   books.sort! { |a, b| 
     if b[:numBorrowed] == a[:numBorrowed]
-      Date.strptime(b[:borrowedAt], "%d.%m.%Y") <=> Date.strptime(a[:borrowedAt], "%d.%m.%Y")
+      b_date = Date.strptime(b[:borrowedAt], "%d.%m.%Y")
+      a_date = Date.strptime(a[:borrowedAt], "%d.%m.%Y")
+
+      if b_date != a_date
+        b_date <=> a_date
+      else
+        # bei gleichem Ausleihdatum die zuletzt angeschafften Bücher zuerst zeigen
+        b[:mediaNum].to_i <=> a[:mediaNum].to_i
+      end
     else
       b[:numBorrowed] <=> a[:numBorrowed]
     end  
