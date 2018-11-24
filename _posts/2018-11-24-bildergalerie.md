@@ -57,7 +57,7 @@ Als Gutenachtgeschichte mag **Denise (5)** am liebsten [Das 99. Schaf](https://w
 
 Unsere Grundschulkinder beteiligten sich ebenfalls mit Bildern und ersten selbst geschriebenen Beiträgen.
 
-**Lena (7)** begeisert sich für [Ronja Räubertochter](https://www.biblino.de/index.php?id=243&action=5&mnummer=11992705&showdetails=1){:target="_blank"} von Astrid Lindgren.
+**Lena (7)** begeistert sich für [Ronja Räubertochter](https://www.biblino.de/index.php?id=243&action=5&mnummer=11992705&showdetails=1){:target="_blank"} von Astrid Lindgren.
 
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2018-11-24-galerie/klein/2018-11-lena-7.jpg" 
