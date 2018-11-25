@@ -124,6 +124,28 @@ Auch bei **Jakob (4)** trägt Martin einen roten Mantel - und einen schwarzen Re
       big="/images/2018-11-24-galerie/2018-11-julia-4.jpg" 
       title="Julia (4) freut sich schon auf den Frühling" %}
 
+Dieses Bild malte **Magnus (4)**:
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2018-11-24-galerie/klein/2018-11-magnus-4.jpg" 
+      big="/images/2018-11-24-galerie/2018-11-magnus-4.jpg" 
+      title="Magnus malte zum Martinstag dieses Bild" %}
+
+
+Von **Max (4)** erhielten wir dieses Bild:
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2018-11-24-galerie/klein/2018-11-max-4.jpg" 
+      big="/images/2018-11-24-galerie/2018-11-max-4.jpg" 
+      title="Dieses Bild malte Max (4)" %}
+
+**Luisa (3)** malte uns dieses Bild von Martin, dem Pferd und dem Bettler:
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2018-11-24-galerie/klein/2018-11-luisa-3.jpg" 
+      big="/images/2018-11-24-galerie/2018-11-luisa-3.jpg" 
+      title="Luisas Bild von Sankt Martin" %}
+      
 Die Bilder von zwei weiteren kleinen Künstlern aus Westerheim veröffentlichen wir noch ohne Namensnennung:
 
 Bild eines Mädchens (5) aus der Tigergruppe:
