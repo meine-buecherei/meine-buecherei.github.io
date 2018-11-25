@@ -89,7 +89,7 @@ Auch **Hanna (9)** mag Astrid Lindgren - [Kindertag in Bullerbü](https://www.bi
 
 In der **Tigergruppe** des Kindergartens Westerheim wurde am Vorlesetag "St. Martin ritt durch Schnee und Wind" gelesen. Zu diesem Buch erhielten wir deshalb ganz viele liebevoll gestaltete Bilder:
 
-So stellt sich **Elina (4)** Stankt Martin vor:
+So stellt sich **Elina (4)** Sankt Martin vor:
 
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2018-11-24-galerie/klein/2018-11-elina-4.jpg" 
