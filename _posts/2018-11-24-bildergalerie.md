@@ -170,4 +170,4 @@ Unsere Aktion geht weiter! Vordrucke für die Büchersteckbriefe liegen in der B
 - [Buchbewertung als Fragebogen](/images/2018-11-15-vorleseaktion/BuchFragebogen.pdf)
 - [Buchbewertung als freier Text](/images/2018-11-15-vorleseaktion/RezensionFreierText.pdf)
 
-Wir freuen uns auf Eure Bilder und Texte, übrigens aus jeder Altersgruppe. Die jetzt wieder gut gefüllte Schatzkiste wartet weiter in der Bücherei Euch!
+Wir freuen uns auf Eure Bilder und Texte, übrigens aus jeder Altersgruppe. Die jetzt wieder gut gefüllte Schatzkiste wartet weiter in der Bücherei auf Euch!
