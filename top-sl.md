@@ -5,7 +5,7 @@ permalink: /top100-sl/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Belletristik (Erwachsene und Jugendliche)__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _27.11.2018 12:02_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _27.11.2018 18:15_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Coleman, Rowan</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018152">Im siebten Sommer</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018152"><img src="/images/mediacovers/x160/12018152.jpg" style="width: auto; height: auto;"></a></center></td></tr>
