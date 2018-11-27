@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _27.11.2018 19:44_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _27.11.2018 20:06_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Michalsen, Andreas</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018216">Heilen mit der Kraft der Natur</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018216"><img src="/images/mediacovers/x160/12018216.jpg" style="width: auto; height: auto;"></a></center></td></tr>
