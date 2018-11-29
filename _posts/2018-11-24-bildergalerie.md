@@ -3,8 +3,8 @@ layout: post
 title: 'Westerheimer Kinder gestalten zahlreiche "Büchersteckbriefe"'
 categories: Aktionen
 author: "burkhard"
+date: "2018-11-29"
 ---
-
 Mit dem [Vorlesetag 2018](https://www.vorlesetag.de/){:target="_blank"} am 16. November startete unsere Mitmachaktion für Kindergartenkinder, Schülerinnen und Schüler. Wir durften uns über zahlreiche Einsendungen freuen und veröffentlichen hier die ersten Bilder und Rezensionen.
 
 **Inhalt**
@@ -57,6 +57,14 @@ Als Gutenachtgeschichte mag **Denise (5)** am liebsten [Das 99. Schaf](https://w
 
 Unsere Grundschulkinder beteiligten sich ebenfalls mit Bildern und ersten selbst geschriebenen Beiträgen.
 
+**Annika (6)** liebt Märchen - hier ihr Bild zu [Der Froschprinz](https://www.lovelybooks.de/autor/Ulf-Stark/Der-Froschprinz-1253444498-w/){:target="_blank"}
+von Ulf Stark
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2018-11-24-galerie/klein/2018-11-annika-6.jpg" 
+      big="/images/2018-11-24-galerie/2018-11-annika-6.jpg" 
+      title="Lenas Bild zum Klassiker 'Ronja Räubertochter'" %}
+
 **Lena (7)** begeistert sich für [Ronja Räubertochter](https://www.biblino.de/index.php?id=243&action=5&mnummer=11992705&showdetails=1){:target="_blank"} von Astrid Lindgren.
 
 {% include lightcase.html group="bilder-dieser-seite"
@@ -89,8 +97,33 @@ Auch **Hanna (9)** mag Astrid Lindgren - [Kindertag in Bullerbü](https://www.bi
 
 In der **Tigergruppe** des Kindergartens Westerheim wurde am Vorlesetag "St. Martin ritt durch Schnee und Wind" gelesen. Zu diesem Buch erhielten wir deshalb ganz viele liebevoll gestaltete Bilder:
 
-So stellt sich **Elina (4)** Sankt Martin vor:
+**Lilly (4)** brachte uns dieses Bild von Sankt Martin in die Bücherei:
 
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2018-11-24-galerie/klein/2018-11-lilly-4.jpg" 
+      big="/images/2018-11-24-galerie/2018-11-lilly-4.jpg" 
+      title="Lilly Bild von St. Martin" %}
+
+
+Erst zwei Jahre alt ist das Kind, das dieses Bild gemalt hat:
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2018-11-24-galerie/klein/2018-11-tigerkind-2.jpg" 
+      big="/images/2018-11-24-galerie/2018-11-tigerkind-2.jpg" 
+      title="St.-Martin-Bild eines zweijährigen Künstlers" %}
+
+
+**Anton (5)** malte St. Martin so:
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2018-11-24-galerie/klein/2018-11-anton-5.jpg" 
+      big="/images/2018-11-24-galerie/2018-11-anton-5.jpg" 
+      title="So stellt sich Anton St. Martin vor" %}
+
+
+
+So stellt sich **Elina (4)** Sankt Martin vor:
+      
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2018-11-24-galerie/klein/2018-11-elina-4.jpg" 
       big="/images/2018-11-24-galerie/2018-11-elina-4.jpg" 
