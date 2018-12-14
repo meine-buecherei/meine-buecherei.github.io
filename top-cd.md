@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _14.12.2018 10:19_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _14.12.2018 22:28_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Donaldson, Julia / Scheffler, Axel</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12014518">Der Grüffelo, 1 Audio-CD</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12014518"><img src="/images/mediacovers/x160/12014518.jpg" style="width: auto; height: auto;"></a></center></td></tr>
