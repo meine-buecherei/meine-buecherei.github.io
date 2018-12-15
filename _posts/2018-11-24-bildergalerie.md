@@ -16,6 +16,20 @@ Mit dem [Vorlesetag 2018](https://www.vorlesetag.de/){:target="_blank"} am 16. N
 
 ## Kindergartenkinder
 
+**Ilyas (4)** begeistert sich für das Buch [Ich will was wissen über Traktor & Co](https://www.biblino.de/index.php?id=243&action=5&mnummer=12016081&showdetails=1){:target="_blank"} 
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2018-11-24-galerie/klein/2018-11-ilyas.jpg" 
+      big="/images/2018-11-24-galerie/2018-11-ilyas.jpg" 
+      title="Ilyas (4) malte diesen Traktor" %}
+
+**Amelie (5)** hat sich aus unserer Bücherei ein Buch über [Sankt Martin](https://www.biblino.de/index.php?id=243&action=5&mnummer=12017200&showdetails=1){:target="_blank"} ausgeliehen und dieses Bild dazu gemalt:
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2018-11-24-galerie/klein/2018-11-amelie-5.jpg" 
+      big="/images/2018-11-24-galerie/2018-11-amelie-5.jpg" 
+      title="Amelies Bild zu Sankt Martin" %}
+      
 Als Gutenachtgeschichte mag **Denise (5)** am liebsten [Das 99. Schaf](https://www.lovelybooks.de/autor/Isabel-Abedi/Sammelband-Das-99-Schaf-285055502-w/){:target="_blank"} von Isabel Abedi.
 
 {% include lightcase.html group="bilder-dieser-seite"
