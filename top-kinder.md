@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _05.02.2019 20:31_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _06.02.2019 19:28_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Baur, Manfred / Rohrbeck, Manfred</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12014302">Dinosaurier / Was ist was Bd.15</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12014302"><img src="/images/mediacovers/x160/12014302.jpg" style="width: auto; height: auto;"></a></center></td></tr>
