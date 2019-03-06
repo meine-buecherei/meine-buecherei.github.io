@@ -7,7 +7,7 @@ author: "micha"
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2019-03-06-stammtisch/stammtisch.jpg" 
       title="Büchereistammtisch am Freitag, 15.03.2019" %}
-Wir laden ein zur geselligen Runde
+Wir laden ein zur geselligen Runde...
 
   **"Freitagabend in der Bücherei..."**
 
