@@ -5,7 +5,7 @@ permalink: /top100-sl/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Belletristik (Erwachsene und Jugendliche)__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _04.04.2019 17:17_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _06.04.2019 10:49_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Gier, Kerstin</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018094">Die Mütter-Mafia 1</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018094"><img src="/images/mediacovers/x160/12018094.jpg" style="width: auto; height: auto;"></a></center></td></tr>
