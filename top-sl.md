@@ -5,7 +5,7 @@ permalink: /top100-sl/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Belletristik (Erwachsene und Jugendliche)__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _23.04.2019 19:25_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _24.04.2019 22:21_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Sanders, Anne</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018095">Sommer in St. Ives</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018095"><img src="/images/mediacovers/x160/12018095.jpg" style="width: auto; height: auto;"></a></center></td></tr>
