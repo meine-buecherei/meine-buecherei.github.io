@@ -36,7 +36,7 @@ end
 def generate_html(books, html_filename, key, category_name)
   html_file = File.open(html_filename, "w")
   
-  now = Time.now.strftime("%d.%m.%Y %H:%M")
+  now = Time.now.strftime("%d.%m.%Y, %H:%M Uhr")
   
   html_file.puts <<HTML
 ---
@@ -112,10 +112,11 @@ group_conditions = {
 }  
 
 group_conditions.each do |key, props|
-  json_filename = "top-#{key}.json"
+  json_filename_app17 = "top-#{key}-app17.json"
+  json_filename_app16 = "top-#{key}.json"
   html_filename = "../top-#{key}.md"
   
-  puts "Generiere #{json_filename}..."
+  puts "Generiere top-#{key}..."
 
   # Abfrage aus der Ausleih-Historie
   sql = "SELECT COUNT(DISTINCT history.adatum) AS beliebtheit, 
@@ -174,16 +175,28 @@ group_conditions.each do |key, props|
   books = books[0..99] # Höchstens 100 Medien in der Liste
   
   # JSON-Datei generieren - für die App...
-  json_file = File.open(json_filename, "w")
+  # Format bis App Version 16
+  puts "Generiere #{json_filename_app16}..."
+  json_file = File.open(json_filename_app16, "w")
   json_file.puts JSON.generate(books)  
   #json_file.puts JSON.pretty_generate(books)  
   json_file.close
   
+  # Format ab App Version 17 (mit Sync-Zeitpunkt)
+  puts "Generiere #{json_filename_app17}..."
+  now = Time.now.strftime("%d.%m.%Y, %H:%M Uhr")
+  json_file = File.open(json_filename_app17, "w")  
+  json_file.puts JSON.generate( { :last_sync => now,
+                                  :books => books
+                                } )  
+  #json_file.puts JSON.pretty_generate(books)  
+  json_file.close
+    
   # HTML-Datei generieren - für Jekyll/Homepage...
   puts "Generiere #{html_filename}..."
   generate_html(books, html_filename, key, props[:name])
   
-  puts "#{books.size} Medien in #{json_filename}"
+  puts "#{books.size} Medien in top-#{key}"
   
 end  
 
