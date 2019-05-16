@@ -13,7 +13,7 @@ Wir laden ein zur geselligen Runde...
 
   *-- alle 2 Monate --*
 
-Unser nächster Büchereistammtsich findet statt am **Freitag, 24. März 2019** ab **19.30 Uhr**
+Unser nächster Büchereistammtsich findet statt am **Freitag, 24. Mai 2019** ab **19.30 Uhr**
 
 Neue Bücher, Buchtipps, Fragen und Antworten rund um unsere App oder einfach nur nette Leute treffen in unserer Dorfbücherei.
 
