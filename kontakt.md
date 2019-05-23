@@ -13,9 +13,11 @@ Antworten zu diesen Fragen finden Sie auf dieser Seite.
 
 # Öffnungszeiten
 
-Dienstag: 18:30 - 19:30 Uhr\\
-Donnerstag: 15:30 - 17:00 Uhr\\
-Sonntag: 1 x im Monat, nach dem Kleinkinder-Gottesdienst
+**Dienstag**: 18:30 - 19:30 Uhr\\
+**Donnerstag**: 15:30 - 17:00 Uhr\\
+**Sonntag**: 1 x im Monat, ab ca. 11:45, nach dem Kleinkinder-Gottesdienst (meist am letzten Sonntag des Monats)
+
+An **gesetzlichen Feiertagen** ist die Bücherei geschlossen. Falls die Bücherei für einen längeren Zeitraum geschlossen ist, wird dies vorher auf der Homepage unter "Aktuelles" angekündigt.
 
 # Anmeldung und Benutzerordnung
 
