@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _02.07.2019, 19:38 Uhr_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _04.07.2019, 16:57 Uhr_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Riese, Lena de / Chapman, Linda / Steck, Johannes</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018083">Saphiras großer Tag</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018083"><img src="/images/mediacovers/x160/12018083.jpg" style="width: auto; height: auto;"></a></center></td></tr>
