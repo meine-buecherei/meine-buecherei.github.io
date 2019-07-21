@@ -1,0 +1,7 @@
+{% comment %}
+Generiert Link zu Biblino-Eintrag
+Parameter:
+- title: Buchtitel
+- media_num: Medienummer auf Biblino
+{% endcomment %}<a href="https://www.biblino.de/index.php?id=243&action=5&mnummer={{include.media_num}}&showdetails=1"
+   target="_blank"><i>{{include.title}}</i></a>
