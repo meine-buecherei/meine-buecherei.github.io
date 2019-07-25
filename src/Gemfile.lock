@@ -6,7 +6,7 @@ GEM
     dbi (0.4.5)
       deprecated (= 2.0.1)
     deprecated (2.0.1)
-    mini_magick (4.8.0)
+    mini_magick (4.9.5)
     ruby-odbc (0.99999)
 
 PLATFORMS
