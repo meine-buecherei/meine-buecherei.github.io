@@ -1,22 +1,32 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    axlsx (2.0.1)
+      htmlentities (~> 4.3.1)
+      nokogiri (>= 1.4.1)
+      rubyzip (~> 1.0.0)
     dbd-odbc (0.2.5)
       dbi (>= 0.4.0)
     dbi (0.4.5)
       deprecated (= 2.0.1)
     deprecated (2.0.1)
+    htmlentities (4.3.4)
     mini_magick (4.9.5)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.4-x64-mingw32)
+      mini_portile2 (~> 2.4.0)
     ruby-odbc (0.99999)
+    rubyzip (1.0.0)
 
 PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  axlsx
   dbd-odbc
   dbi
   mini_magick (~> 4.8)
   ruby-odbc
 
 BUNDLED WITH
-   1.16.4
+   1.16.0

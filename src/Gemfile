@@ -4,3 +4,4 @@ gem "mini_magick", "~> 4.8"
 gem "ruby-odbc"
 gem "dbi"
 gem "dbd-odbc"
+gem 'axlsx'
