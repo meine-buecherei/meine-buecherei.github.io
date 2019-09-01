@@ -1,0 +1,5 @@
+{% comment %}
+Generiert Bewertung (1-5 Sterne)
+Parameter:
+- stars: Anzahl Sterne
+{% endcomment %}{% assign rest = 5 | minus: include.stars %}{% for i in (1..include.stars) %}<i class="material-icons star-icon">star</i>{% endfor %}{% for i in (1..rest) %}<i class="material-icons star-icon">star_border</i>{% endfor %}

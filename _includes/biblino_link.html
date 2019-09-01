@@ -3,5 +3,19 @@ Generiert Link zu Biblino-Eintrag
 Parameter:
 - title: Buchtitel
 - media_num: Medienummer auf Biblino
-{% endcomment %}<a href="https://www.biblino.de/index.php?id=243&action=5&mnummer={{include.media_num}}&showdetails=1"
-   target="_blank"><i>{{include.title}}</i></a>
+- with_cover: wenn vorhanden, wird Coverbild eingebunden
+{% endcomment %}{% 
+if include.with_cover %}
+  {% capture cover_title %}
+  Buchcover - {{include.title}}
+  {% endcapture %}
+  {% capture cover_url %}
+  /images/mediacovers/x320/{{include.media_num}}.jpg
+  {% endcapture %}  
+  <a href="https://www.biblino.de/index.php?id=243&action=5&mnummer={{include.media_num}}&showdetails=1"
+     alt="{{include.title}}">
+    <img src="/images/mediacovers/x320/{{include.media_num}}.jpg" alt="{{ cover_title }}" title="{{ cover_title }}"/>
+  </a>
+           
+{% endif %}<a href="https://www.biblino.de/index.php?id=243&action=5&mnummer={{include.media_num}}&showdetails=1"
+   target="_blank"><i class="material-icons">local_library</i> <i>{{include.title}}</i></a>
