@@ -5,7 +5,7 @@ permalink: /top100-dvd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __DVDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _24.08.2019, 15:14 Uhr_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _03.09.2019, 17:51 Uhr_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Allgäuer Zeitung</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019008">Das Allgäu von oben 3</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019008"><img src="/images/mediacovers/x160/12019008.jpg" style="width: auto; height: auto;"></a></center></td></tr>
