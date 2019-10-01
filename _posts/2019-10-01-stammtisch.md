@@ -8,7 +8,7 @@ author: "burkhard"
       src="/images/2019-05-16-stammtisch/stammtisch.jpg" 
       title="Büchereistammtisch am Freitag, 11.10.2019" %}
 Unser nächster Büchereistammtsich findet am **Freitag, 11. Oktober 2019** ab **19.30 Uhr** in unserer Bücherei statt!
-Alle, die gerne lesen oder sich für unsere Bücherei interessieren, sind herzlich willkommen. In lockerer Runde und vielleicht bei einem Glas Wein könnt Ihr Euch hier mit Mitgliedern des Büchereiteams über alles rund ums Lesen austauschen.
+Alle, die gerne lesen oder sich für unsere Bücherei interessieren, sind herzlich willkommen. In lockerer Runde und vielleicht bei einem Glas Wein könnt Ihr Euch hier mit Mitgliedern des Büchereiteams über alle Themen rund ums Lesen austauschen.
 
 Wie immer informieren wir Euch gerne über unsere letzten Buchneuzugänge oder unterhalten uns einfach darüber, was wir zuletzt gelesen haben.
 
