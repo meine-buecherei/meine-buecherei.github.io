@@ -20,7 +20,7 @@ Simon malte auch dieses Bild vom "Space Camp 1" (zum Vergrößern anklicken):
            src="/images/2019-08-15-kleiner-major-tom/majortom-klein.jpg" group="bilder-dieser-seite"
            title="Das Space Camp 1, gemalt von Simon" %}
 
-Die ersten drei Bände der Reihe findet Ihr in unserer Bücherei:
+Vier Bände der Reihe findet Ihr in unserer Bücherei:
 
 {% include biblino_link.html title="Band 1: Völlig losgelöst" media_num="12019163" with_cover="yes" %} 
 
@@ -28,3 +28,5 @@ Die ersten drei Bände der Reihe findet Ihr in unserer Bücherei:
 
 {% include biblino_link.html title="Band 3: Die Mondmission" media_num="12019054" with_cover="yes" %} 
 
+{% include biblino_link.html title="Band 5: Gefährliche Reise zum Mars" media_num="12019280" with_cover="yes" %} 
+ 
