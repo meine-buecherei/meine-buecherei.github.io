@@ -20,7 +20,7 @@ Die fleißigsten Teilnehmer prämierte Büchereileiterin Michaela Bail während 
           src="/images/2019-11-17-tag-der-offenen-tuer/klein/1-preisverleihung.jpg" 
           big="/images/2019-11-17-tag-der-offenen-tuer/1-preisverleihung.jpg" 
           group="bilder-dieser-seite"
-          title="Gewinnerinnen Amelie Prünstner und Denise Schaupp mit Michaela Bail" %}
+          title="Gewinnerinnen Denise Schaupp und Amelie Prünstner  mit Michaela Bail" %}
 
 
 Noch einmal herzlichen Glückwunsch und vielen Dank für die eifrige Teilnahme - das gilt natürlich für alle Kinder. Wir freuen uns auch weiterhin auf Eure Beiträge. Sie werden wie bisher regelmäßig auf unserer Homepage zu sehen sein.
