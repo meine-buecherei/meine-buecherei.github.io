@@ -5,7 +5,7 @@ categories: Termine
 author: "burkhard"
 date: "2019-11-17"
 ---
-Am Sonntag, 17. November 2019 fand in unserer Bücherei wieder ein **Tag der offenen Tür** statt. Wie schon letztes Jahr gab es auch diesmal einige Neuerungen in der Bücherei zu feiern. Die alten Schulstühle für Veranstaltungen mit Kindern wurden endlich durch bequemere und farbenfrohere ersetzt. Außerdem wurden mit Unterstützung der Gemeinde neue Regale angeschafft, die uns helfen, den für unser wachsendes Angebot knapp bemessenen Raum besser zu nutzen. 
+Am Sonntag, 17. November 2019 fand in unserer Bücherei wieder ein **Tag der offenen Tür** statt. Wie schon letztes Jahr gab es auch diesmal einige Neuerungen in der Bücherei zu feiern. Die alten Schulstühle für Veranstaltungen mit Kindern wurden dank der Kirchenverwaltung endlich durch bequemere und farbenfrohere ersetzt. Außerdem wurden mit Unterstützung der Gemeinde neue Regale angeschafft, die uns helfen, den für unser wachsendes Angebot knapp bemessenen Raum besser zu nutzen. 
 
 Auch haben wir neben vielen anderen neu angeschafften Büchern erstmals Hörbücher für Erwachsene vorgestellt, die uns für einige Monate probeweise vom Michaelsbund zu Verfügung gestellt wurden. Sie können ab sofort ausgeliehen werden.
 
