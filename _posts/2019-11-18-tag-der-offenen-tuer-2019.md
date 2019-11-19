@@ -39,6 +39,11 @@ Dieses Jahr hatten wir an unserem Tag der offenen Tür außerdem einen besondere
           group="bilder-dieser-seite"
           title="Die Kinder schauen gebannt zu" %}
 
+{% include lightcase.html 
+          src="/images/2019-11-17-tag-der-offenen-tuer/klein/4-minion.jpg" 
+          big="/images/2019-11-17-tag-der-offenen-tuer/4-minion.jpg" 
+          group="bilder-dieser-seite"
+          title="Ein Kind durfte sich über diesen Minion freuen" %}
           
 Nebenbei schauten sich die zahlreichen Besucher ungezwungen bei uns um, und es gab viele Gelegenheiten, wieder einmal miteinander ins Gespräch zu kommen.
 
