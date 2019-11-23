@@ -43,7 +43,9 @@ Dies herauszufinden ist in diesem Roman Aufgabe der Jungakademikerin Mae Holland
 
 Allerdings steht all diesen großzügigen Angeboten des Circle auch eine Erwartung gegenüber, wie Mae bald erfahren wird...
 
-Mehr wird hier nicht verraten, doch ein Hinweis: Wer der manchmal etwas naiv wirkenden Mae zurufen will "Wann kapierst Du's endlich???", der könnte bemerken, dass diese Frage eigentlich an den Leser selbst gerichtet ist...
+Während sich die Situation immer weiter zuspitzt, möchte man der manchmal etwas naiv wirkenden Mae zurufen "Wann kapierst Du's endlich???". Doch vielleicht könnte der Leser dabei bemerken, dass diese Frage eigentlich an uns alle gerichtet ist...
+
+Ein verstörender, dystopischer und dabei flüssig zu lesender Roman, der uns über das rechte Maß von Transparenz und Privatsphäre nachdenken lässt. 
 
 Empfehlenswert! {% include stars.html stars=5 %}
 
