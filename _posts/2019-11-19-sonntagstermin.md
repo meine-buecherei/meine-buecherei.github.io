@@ -3,6 +3,7 @@ layout: post
 title: 'Nächste Sonntagsöffnung: 24. November'
 categories: Termine
 author: "burkhard"
+published: no
 ---
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/Termine/sonntag.jpg" 
