@@ -7,21 +7,25 @@ require 'fileutils'
 require 'axlsx'
 
 group_conditions = {
+  # mcode: 1=Buch, 2=Zeitschrift, 5=CD, 17=DVDs
+  # gruppe1 (Statistikgruppe): 13=SL, 14=Kinder, 12=Sachbücher
   :sach => {
     :name => "Sachbücher",
-    :sql => "medien.gruppe1=12"
+    :sql => "medien.mcode=1 and medien.gruppe1=12"
   },
   :sl => {
     :name => "Belletristik",
-    :sql => "medien.gruppe1=13",
+    :sql => "medien.mcode=1 and medien.gruppe1=13 and medien.gruppe2<>'J'",
+    # Jugendbücher sind normalerweise in gruppe1=14 (Kinderbücher), aber sicherheitshalber
+    # ausschließen um doppelte Zählung zu vermeiden
   },
   :j => {
     :name => "Jugend",
-    :sql => "medien.gruppe2='J'",
+    :sql => "medien.mcode=1 and medien.gruppe2='J'",
   },
   :kinder => {
     :name => "Kinderbücher",
-    :sql => "medien.gruppe1=14 and medien.gruppe2 <> 'J'",
+    :sql => "medien.mcode=1 and medien.gruppe1=14 and medien.gruppe2 <> 'J'",
   },
   :cd => {
     :name => "CDs",
@@ -31,6 +35,10 @@ group_conditions = {
     :name => "DVDs",
     :sql => "medien.mcode=17"
   },
+  :zeitschriften => {
+    :name => "Zeitschriften",
+    :sql => "medien.mcode=2"
+  },  
   :summe => {
     :name => "Medien insgesamt",
     :sql => "1=1"
@@ -101,10 +109,10 @@ def leihstatistik(workbook, db_client, group_conditions)
     # Monatsstatistiken vorbereiten
     month = date.strftime("%Y-%m")
     if !months[month]
-      months[month] = [0] * 7
+      months[month] = [0] * group_conditions.size
     end
     if !years[date.year]
-      years[date.year] = [0] * 7
+      years[date.year] = [0] * group_conditions.size
     end
 
     (1..(row_content.size - 1)).each do |i|
