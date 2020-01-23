@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _21.01.2020, 19:48 Uhr_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _23.01.2020, 17:12 Uhr_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Bracht, Petra</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018146">Intervallfasten</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018146"><img src="/images/mediacovers/x160/12018146.jpg" style="width: auto; height: auto;"></a></center></td></tr>
