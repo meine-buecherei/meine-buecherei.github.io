@@ -7,7 +7,9 @@ published: yes
 date: "2019-11-18"
 ---
 
-Sechs Jahre sind vergangen, seit Edward Snowden die Welt detailreich darüber aufklärte, in welchem Ausmaß staatliche Stellen heute in die Privatsphäre aller Menschen eindringen und sie verletzen. Nun erzählt Snowden seine Geschichte. {% include biblino_link.html title="Snowden, Edward: Permanent Record" media_num="12019320" with_cover="yes" %} 
+Sechs Jahre sind vergangen, seit Edward Snowden die Welt detailreich darüber aufklärte, in welchem Ausmaß staatliche Stellen heute in die Privatsphäre aller Menschen eindringen und sie verletzen. Nun erzählt Snowden seine Geschichte. 
+
+{% include biblino_link.html title="Snowden, Edward: Permanent Record" media_num="12019320" with_cover="yes" %} 
 
 
 ## Edward Snowden - Permanent Record
