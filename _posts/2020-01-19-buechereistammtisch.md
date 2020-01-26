@@ -4,6 +4,7 @@ title:  "\"Samstagabend in der Bücherei...\" am 25. Januar"
 categories: Termine
 author: "burkhard"
 date: "2020-01-24"
+published: no
 ---
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2019-05-16-stammtisch/stammtisch.jpg" 
