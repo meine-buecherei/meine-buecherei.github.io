@@ -145,5 +145,11 @@ und zu guter Letzt - *Retter im Einsatz*:
 
 ## Weiter mitmachen!
 
-Zum Mitmachen könnt Ihr den Vordruck hier herunterladen: [Buchbewertung mit Platz zum Malen](/images/2018-11-15-vorleseaktion/BildZumBuchMalen.pdf). Die Einreichung neuer Beiträge erfolgt zu Zeiten des Coronavirus per [E-Mail](/der-weg-zu-uns/#e-mail-adresse). Dafür werden sie dann auch rasch hier auf der Homepage erscheinen.
+Zum Mitmachen könnt Ihr die Vordrucke hier herunterladen: 
+
+- [Buchbewertung mit Platz zum Malen](/images/2018-11-15-vorleseaktion/BildZumBuchMalen.pdf)
+- [Buchbewertung als Fragebogen](/images/2018-11-15-vorleseaktion/BuchFragebogen.pdf)
+- [Buchbewertung als freier Text](/images/2018-11-15-vorleseaktion/RezensionFreierText.pdf)
+
+Die Einreichung neuer Beiträge erfolgt zu Zeiten des Coronavirus per [E-Mail](/der-weg-zu-uns/#e-mail-adresse). Dafür werden sie dann auch rasch hier auf der Homepage erscheinen.
 
