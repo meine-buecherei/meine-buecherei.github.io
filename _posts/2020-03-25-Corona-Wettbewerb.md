@@ -4,6 +4,7 @@ title: 'Tolle Preise zu gewinnen bei unserem "Corona"-Wettbewerb'
 categories: Termine
 author: "micha"
 published: yes
+permalink: /corona-wettbewerb/
 ---
 Liebe Kinder!
 Da Ihr ja leider zurzeit nicht mehr zur Schule oder in den Kindergarten gehen dürft und Euch auch nicht mit Freunden treffen könnt, habt Ihr bestimmt Zeit und Lust, bei unserem Bücher-Bewertungs-Wettbewerb mitzumachen!
