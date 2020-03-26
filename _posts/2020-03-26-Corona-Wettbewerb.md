@@ -30,7 +30,7 @@ Wir vergeben jeweils drei Preise für die meisten abgegebenen Zettel und die sch
 
 1. Platz:	wahlweise **miniMax-Gutschein** oder **Büchergutschein** im Wert von 20,00 €
 2. Platz:  wahlweise **Eisdielengutschein** oder **Büchergutschein** im Wert von 10,00 €
-3. Platz:  **Wunschbuch** oder **Büchergutschein** im Wert von 10,00 €
+3. Platz:  **Wunschbuch**, **Kindergarten-Rätselblock** oder **Büchergutschein** im Wert von 10,00 €
 
 Wir freuen uns auf möglichst viele Bewertungsbögen!
 
