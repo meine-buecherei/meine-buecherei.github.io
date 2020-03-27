@@ -4,7 +4,7 @@ title: 'Erste Bilder unseres "Corona"-Wettbewerbs!'
 categories: Aktionen
 author: "burkhard"
 ---
-Die neuesten Beiträge stammen von **Simon (8)** und **Julia (6)**, die in die 3. bzw. 1. Klasse der Grundschule Westerheim gehen. Beide zieht es in diesen Zeiten in die Ferne.
+Die neuesten Beiträge für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) stammen von **Simon (8)** und **Julia (6)**, die in die 3. bzw. 1. Klasse der Grundschule Westerheim gehen. Beide zieht es in diesen Zeiten in die Ferne.
 Julia träumt vom fernen Indien, wo der kleine Tiger aus *Wir sind die kleinen Tierkinder* lebt. Ein Buch, das sie schon lange, bevor sie selbst lesen konnte, liebte:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Julia-Tierkinder.jpg" 
@@ -22,7 +22,7 @@ Fünf Sterne waren Simon offenbar nicht genug!
 
 ## 26. März
 
-Kaum haben wir unseren [neuen Wettbewerb](/corona-wettbewerb/) gestartet, schon sind die ersten Bilder und Textbeiträge zu bewundern! Am schnellsten war das Geschwisterpaar **Vevi (6)** und **Bruno (7)**. Vevi hat uns und Euch dieses Bild gemalt:
+Kaum haben wir unseren Wettbewerb gestartet, schon sind die ersten Bilder und Textbeiträge zu bewundern! Am schnellsten war das Geschwisterpaar **Vevi (6)** und **Bruno (7)**. Vevi hat uns und Euch dieses Bild gemalt:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Vevi-Prinzessin-Einhorn.jpg" 
       big="/images/2020-03-26-corona-galerie/Vevi-Prinzessin-Einhorn.jpg" 
