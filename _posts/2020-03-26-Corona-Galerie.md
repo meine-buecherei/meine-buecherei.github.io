@@ -5,7 +5,7 @@ categories: Aktionen
 author: "burkhard"
 date: "2020-03-27"
 ---
-Die neuesten Beiträge für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) stammen von **Julian (8)** aus der 3a und **Anna-Marie (8)** aus der 2. Klasse unserer Grundschule. Beide haben uns Textxbeiträge eingesandt.
+Die neuesten Beiträge für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) stammen von **Julian (8)** aus der 3a und **Anna-Marie (8)** aus der 2. Klasse unserer Grundschule. Beide haben uns Textbeiträge eingesandt.
 Julian ist ein Fan von *Gregs Tagebuch*. Hier schreibt er uns anschaulich, worum es in {% include biblino_link.html title="Von Idioten umzingelt!" media_num="12008095" %} geht - dem ersten Band der Reihe:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Julian-GregsTagebuch.jpg" 
