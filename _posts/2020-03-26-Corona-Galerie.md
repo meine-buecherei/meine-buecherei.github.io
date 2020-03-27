@@ -20,7 +20,7 @@ Wenige Minuten zuvor erhielten wir den Beitrag von Anna-Marie. Sie erinnert sich
 
 Dank an Anna-Marie für diesen schönen Tipp!
 
-**Simon (8)** und **Julia (6)** gehen in die 3. bzw. 1. Klasse der Grundschule Westerheim gehen. Beide zieht es in diesen Zeiten in die Ferne.
+**Simon (8)** und **Julia (6)** gehen in die 3. bzw. 1. Klasse der Grundschule Westerheim. Beide zieht es in diesen Zeiten in die Ferne.
 Julia träumt vom fernen Indien, wo der kleine Tiger aus *Wir sind die kleinen Tierkinder* lebt. Ein Buch, das sie schon lange, bevor sie selbst lesen konnte, liebte:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Julia-Tierkinder.jpg" 
