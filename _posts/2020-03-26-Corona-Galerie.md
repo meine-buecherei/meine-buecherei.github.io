@@ -5,7 +5,7 @@ categories: Aktionen
 author: "burkhard"
 ---
 Die neuesten Beiträge stammen von **Simon (8)** und **Julia (6)**, die in die 3. bzw. 1. Klasse der Grundschule Westerheim gehen. Beide zieht es in diesen Zeiten in die Ferne.
-Julia träumt vom fernen Indien, wo der kleine Tiger aus *Wir sind die kleinen Tierkinder* lebt. Ein Buch, dass sie schon lange, bevor sie selbst lesen konnte, liebte:
+Julia träumt vom fernen Indien, wo der kleine Tiger aus *Wir sind die kleinen Tierkinder* lebt. Ein Buch, das sie schon lange, bevor sie selbst lesen konnte, liebte:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Julia-Tierkinder.jpg" 
       big="/images/2020-03-26-corona-galerie/Julia-Tierkinder.jpg" 
