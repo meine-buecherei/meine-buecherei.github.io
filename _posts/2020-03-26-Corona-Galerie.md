@@ -1,10 +1,26 @@
 ---
 layout: post
-title: 'Erste Bilder unseres "Corona"-Wettbewerbs!'
+title: 'Neueste Beiträge unseres "Corona"-Wettbewerbs!'
 categories: Aktionen
 author: "burkhard"
+date: "2020-03-27"
 ---
-Die neuesten Beiträge für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) stammen von **Simon (8)** und **Julia (6)**, die in die 3. bzw. 1. Klasse der Grundschule Westerheim gehen. Beide zieht es in diesen Zeiten in die Ferne.
+Die neuesten Beiträge für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) stammen von **Julian (8)** aus der 3a und **Anna-Marie (8)** aus der 2. Klasse unserer Grundschule. Beide haben uns Textxbeiträge eingesandt.
+Julian ist ein Fan von *Gregs Tagebuch*. Hier schreibt er uns anschaulich, worum es in {% include biblino_link.html title="Von Idioten umzingelt!" media_num="12008095" %} geht - dem ersten Band der Reihe:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Julian-GregsTagebuch.jpg" 
+      big="/images/2020-03-26-corona-galerie/Julian-GregsTagebuch.jpg" 
+      title="Julian: Gregs Tagebuch - Von Idioten umzingelt!" %}
+
+Wenige Minuten zuvor erhielten wir den Beitrag von Anna-Marie. Sie erinnert sich gerne an schöne gemeinsame Lesestunden, die sie mir ihrer Familie und dem Klassiker {% include biblino_link.html title="Ronja, Räubertochter" media_num="11992705" %} von Astrid Lindgren verbracht hat. Hier kommt ihr Beitrag!
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Anna-Maria-Ronja-Raeubertochter.jpg" 
+      big="/images/2020-03-26-corona-galerie/Anna-Maria-Ronja-Raeubertochter.jpg" 
+      title="Anna-Marie: Ronja, Räubertochter" %}
+
+Dank an Anna-Marie für diesen schönen Tipp!
+
+**Simon (8)** und **Julia (6)** gehen in die 3. bzw. 1. Klasse der Grundschule Westerheim gehen. Beide zieht es in diesen Zeiten in die Ferne.
 Julia träumt vom fernen Indien, wo der kleine Tiger aus *Wir sind die kleinen Tierkinder* lebt. Ein Buch, das sie schon lange, bevor sie selbst lesen konnte, liebte:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Julia-Tierkinder.jpg" 
