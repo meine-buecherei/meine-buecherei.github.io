@@ -3,9 +3,25 @@ layout: post
 title: 'Neueste Beiträge unseres "Corona"-Wettbewerbs!'
 categories: Aktionen
 author: "burkhard"
-date: "2020-03-27"
+date: "2020-03-29"
 ---
-Die neuesten Beiträge für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) stammen von **Julian (8)** aus der 3a und **Anna-Marie (8)** aus der 2. Klasse unserer Grundschule. Beide haben uns Textbeiträge eingesandt.
+
+Die neuesten Beiträge für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) stammen von **Denise (6)** (1. Klasse, Grundschule) - und ihrer großen Schwester **Lena (13)** (8. Klasse, Mittelschule Erkheim).
+Denise hat uns ein Bild zu {% include biblino_link.html title="Lara und die freche Elfe" media_num="12020060" %} gemalt:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Denise-Lara-freche-Elfe.jpg" 
+      big="/images/2020-03-26-corona-galerie/Denise-Lara-freche-Elfe.jpg" 
+      title="Denise: Lara und die freche Elfe" %}
+
+Lena hat uns ein Bild zu *Silver Swan - Elite Kings Club* eingereicht - mal etwas für die Teenies unter uns (für die es übrigens auch ein gut sortiertes Regal mit Jugendbüchern in unserer Bücherei gibt - aktuell nicht erreichbar, aber stöbert doch schon mal in unserem Online-Katalog!). Das Bild ist sehr gelungen, auch wenn es sich wohl nicht direkt auf den Inhalt des Buchs bezieht 😉
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Lena-Silver-Swan.jpg" 
+      big="/images/2020-03-26-corona-galerie/Lena-Silver-Swan.jpg" 
+      title="Lena: Silver Swan" %}
+
+## 27. März
+
+Heute bekamen wir Post von **Julian (8)** aus der 3a und **Anna-Marie (8)** aus der 2. Klasse unserer Grundschule. Beide haben uns Textbeiträge eingesandt.
 Julian ist ein Fan von *Gregs Tagebuch*. Hier schreibt er uns anschaulich, worum es in {% include biblino_link.html title="Von Idioten umzingelt!" media_num="12008095" %} geht - dem ersten Band der Reihe:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Julian-GregsTagebuch.jpg" 
