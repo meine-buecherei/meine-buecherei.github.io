@@ -5,8 +5,21 @@ categories: Aktionen
 author: "burkhard"
 date: "2020-03-29"
 ---
+Die neuesten Beiträge für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) stammen von **Jakob (6)** aus der Tigergruppe des Kindergartens und seiner Schwester **Lena (8)** (sie geht in die dritte Klasse unserer Grundschule). Jakob malte uns ein farbenprächtiges Bild zu den {% include biblino_link.html title="Baumhaus-Geschichten" media_num="12011102" %}. Er hat das Buch **selbst gelesen**, super!
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Jakob-Baumhausgeschichten.jpg" 
+      big="/images/2020-03-26-corona-galerie/Jakob-Baumhausgeschichten.jpg" 
+      title="Jakob: Baumhaus-Geschichten" %}
 
-Die neuesten Beiträge für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) stammen von **Denise (6)** (1. Klasse, Grundschule) - und ihrer großen Schwester **Lena (13)** (8. Klasse, Mittelschule Erkheim).
+Ebenso gefreut haben wir uns über Lenas Buchempfehlung. Sie hat ihr Taschengeld lohnend in das Buch *Mein Lotta-Leben: Den Letzten knutschen die Elche* investiert und bereichert unsere Homepage mit diesem fröhlichen Bild:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Lena-Lotta-Leben.jpg" 
+      big="/images/2020-03-26-corona-galerie/Lena-Lotta-Leben.jpg" 
+      title="Lena: Lotta-Leben - Den Letzten knutschen die Elche" %}
+
+## 29. März
+
+Schöne Bilder erhielten wir von **Denise (6)** (1. Klasse, Grundschule) - und ihrer großen Schwester **Lena (13)** (8. Klasse, Mittelschule Erkheim).
 Denise hat uns ein Bild zu {% include biblino_link.html title="Lara und die freche Elfe" media_num="12020060" %} gemalt:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Denise-Lara-freche-Elfe.jpg" 
