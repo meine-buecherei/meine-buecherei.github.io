@@ -3,9 +3,45 @@ layout: post
 title: 'Neueste Beiträge unseres "Corona"-Wettbewerbs!'
 categories: Aktionen
 author: "burkhard"
-date: "2020-03-29"
+date: "2020-03-31"
 ---
-Die neuesten Beiträge für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) stammen von **Jakob (6)** aus der Tigergruppe des Kindergartens und seiner Schwester **Lena (8)** (sie geht in die dritte Klasse unserer Grundschule). Jakob malte uns ein farbenprächtiges Bild zu den {% include biblino_link.html title="Baumhaus-Geschichten" media_num="12011102" %}. Er hat das Buch **selbst gelesen**, super!
+Die neuesten Beiträge für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) lieferten uns heute die Zwillinge **Amely** und **Sophia**, die in die zweite Klasse der Grundschule Westerheim gehen. Sie waren beide **sehr fleißig** und haben gleich alle drei Vordrucke ausgefüllt. 
+Beide Mädchen lieben Märchen und genießen es auch weiterhin, aus ihnen vorgelesen zu bekommen. Hier kommt die Buchbewertung von **Sophia (8)** zu *Schneewittchen* - in Wort und Bild:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/sophia-schneewittchen-bild.jpg" 
+      big="/images/2020-03-26-corona-galerie/sophia-schneewittchen-bild.jpg" 
+      title="Sophia: Schneewittchen" %}
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/sophia-schneewittchen-text1.jpg" 
+      big="/images/2020-03-26-corona-galerie/sophia-schneewittchen-text1.jpg" 
+      title="Sophia: Schneewittchen" %}
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/sophia-schneewittchen-text2.jpg" 
+      big="/images/2020-03-26-corona-galerie/sophia-schneewittchen-text2.jpg" 
+      title="Sophia: Schneewittchen" %}
+
+Sophias Schwester **Amely (8)** malte und schrieb Euch zum Märchen von den *Bremer Stadtmusikanten*:
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/amely-stadtmusikanten-bild.jpg" 
+      big="/images/2020-03-26-corona-galerie/amely-stadtmusikanten-bild.jpg" 
+      title="Amely: Die Bremer Stadtmusikanten" %}
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/amely-stadtmusikanten-text1.jpg" 
+      big="/images/2020-03-26-corona-galerie/amely-stadtmusikanten-text1.jpg" 
+      title="Amely: Die Bremer Stadtmusikanten" %}
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/amely-stadtmusikanten-text2.jpg" 
+      big="/images/2020-03-26-corona-galerie/amely-stadtmusikanten-text2.jpg" 
+      title="Amely: Die Bremer Stadtmusikanten" %}
+
+## 30.März
+
+Sie heutigen Beiträge erstellten **Jakob (6)** aus der Tigergruppe des Kindergartens und seine Schwester **Lena (8)** (sie geht in die dritte Klasse unserer Grundschule). Jakob malte uns ein farbenprächtiges Bild zu den {% include biblino_link.html title="Baumhaus-Geschichten" media_num="12011102" %}. Er hat das Buch **selbst gelesen**, super!
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Jakob-Baumhausgeschichten.jpg" 
       big="/images/2020-03-26-corona-galerie/Jakob-Baumhausgeschichten.jpg" 
