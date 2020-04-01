@@ -3,9 +3,19 @@ layout: post
 title: 'Neueste Beiträge unseres "Corona"-Wettbewerbs!'
 categories: Aktionen
 author: "burkhard"
-date: "2020-03-31"
+date: "2020-04-01"
 ---
-Die neuesten Beiträge für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) lieferten uns heute die Zwillinge **Amely** und **Sophia**, die in die zweite Klasse der Grundschule Westerheim gehen. Sie waren beide **sehr fleißig** und haben gleich alle drei Vordrucke ausgefüllt. 
+Für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) hat uns heute **Simon (8)** aus der dritten Klasse einen Textbeitrag zu {% include biblino_link.html title="Im Bann des Jupiters - Der kleine Major Tom" media_num="12020064" %} abgegeben. Ihr habt vielleicht weiter unten schon das Bild gesehen, das er vor ein Tagen zum selben Buch gemalt hat.
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Simon-Im-Bann-des-Jupiters-text.jpg" 
+      big="/images/2020-03-26-corona-galerie/Simon-Im-Bann-des-Jupiters-text.jpg" 
+      title="Simon: Der kleine Major Tom / Im Bann des Jupiters" %}
+
+Wie Ihr seht, ist *Der kleine Major Tom* wirklich eine tolle Reihe für Kinder, die Lust auf Zukunft haben!
+
+## 31. März
+
+Heute bekamen wir Post von den Zwillingen **Amely** und **Sophia**, die in die zweite Klasse der Grundschule Westerheim gehen. Sie waren beide **sehr fleißig** und haben gleich alle drei Vordrucke ausgefüllt. 
 Beide Mädchen lieben Märchen und genießen es auch weiterhin, aus ihnen vorgelesen zu bekommen. Hier kommt die Buchbewertung von **Sophia (8)** zu *Schneewittchen* - in Wort und Bild:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/sophia-schneewittchen-bild.jpg" 
