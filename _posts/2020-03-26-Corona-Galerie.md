@@ -3,9 +3,19 @@ layout: post
 title: 'Neueste Beiträge unseres "Corona"-Wettbewerbs!'
 categories: Aktionen
 author: "burkhard"
-date: "2020-04-01"
+date: "2020-04-02"
 ---
-Für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) hat uns heute **Simon (8)** aus der dritten Klasse einen Textbeitrag zu {% include biblino_link.html title="Im Bann des Jupiters - Der kleine Major Tom" media_num="12020064" %} abgegeben. Ihr habt vielleicht weiter unten schon das Bild gesehen, das er vor ein Tagen zum selben Buch gemalt hat.
+Das neueste Bild für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) hat uns **Magnus (5)** aus der Tigergruppe des Kindergartens Westerheim gemalt. Sein Bild zum Buch {% include biblino_link.html title="Die schönsten Fußballgeschichten für Erstleser" media_num="12018079" %} zeigt einen fröhlichen Fußballer - Ihr könnt Ihr hier bewundern:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Magnus-Fussballgeschichten.jpg" 
+      big="/images/2020-03-26-corona-galerie/Magnus-Fussballgeschichten.jpg" 
+      title="Magnus: Die schönsten Fußballgeschichten für Erstleser" %}
+
+Magnus ist bisher unser jüngster Teilnehmer. Wir freuen uns weiter auf Beiträge aus jeder Alterklasse!
+
+## 1. April
+
+**Simon (8)** aus der dritten Klasse hat bei uns heute einen Textbeitrag zu {% include biblino_link.html title="Im Bann des Jupiters - Der kleine Major Tom" media_num="12020064" %} abgegeben. Ihr habt vielleicht weiter unten schon das Bild gesehen, das er vor ein Tagen zum selben Buch gemalt hat.
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Simon-Im-Bann-des-Jupiters-text.jpg" 
       big="/images/2020-03-26-corona-galerie/Simon-Im-Bann-des-Jupiters-text.jpg" 
