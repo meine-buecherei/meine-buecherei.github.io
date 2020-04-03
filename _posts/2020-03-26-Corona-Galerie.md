@@ -4,8 +4,25 @@ title: 'Neueste Beiträge unseres "Corona"-Wettbewerbs!'
 categories: Aktionen
 author: "burkhard"
 date: "2020-04-02"
+permalink: /corona-galerie/
 ---
-Das neueste Bild für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) hat uns **Magnus (5)** aus der Tigergruppe des Kindergartens Westerheim gemalt. Sein Bild zum Buch {% include biblino_link.html title="Die schönsten Fußballgeschichten für Erstleser" media_num="12018079" %} zeigt einen fröhlichen Fußballer - Ihr könnt Ihr hier bewundern:
+Heute lieferten uns **Vevi (6)** aus der ersten Klasse der Grundschule und **Bruno (7)** (er geht in die zweite Klasse) die neuesten Beiträge für [unseren neuen "Corona"-Wettbewerb](/corona-wettbewerb/). Beide haben das Buch {% include biblino_link.html title="Trixi und die wilden Wikinger auf Schatzsuche" media_num="12013296" %} gelesen und dazu jeweils ein eigenes Bild gemalt. Hier kommt zunächst das Bild von **Vevi**...
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Vevi-Trixi.jpg" 
+      big="/images/2020-03-26-corona-galerie/Vevi-Trixi.jpg" 
+      title="Vevi: Trixi und die wilden Wikinger auf Schatzsuche" %}
+
+...und so hat **Bruno** gemalt:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Bruno-Trixi.jpg" 
+      big="/images/2020-03-26-corona-galerie/Bruno-Trixi.jpg" 
+      title="Bruno: Trixi und die wilden Wikinger auf Schatzsuche" %}
+
+Auffallend: Auch heute war Bruno wieder etwas kritischer als seine Schwester! Während Vevi fünf Sterne für das Buch vergab, hat es aus Sicht von Bruno nur drei Sterne verdient.
+
+## 2. April
+
+**Magnus (5)** aus der Tigergruppe des Kindergartens Westerheim malte uns ein Bild zum Buch {% include biblino_link.html title="Die schönsten Fußballgeschichten für Erstleser" media_num="12018079" %} zeigt einen fröhlichen Fußballer - Ihr könnt Ihr hier bewundern:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Magnus-Fussballgeschichten.jpg" 
       big="/images/2020-03-26-corona-galerie/Magnus-Fussballgeschichten.jpg" 
