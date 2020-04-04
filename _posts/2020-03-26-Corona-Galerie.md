@@ -3,10 +3,18 @@ layout: post
 title: 'Neueste Beiträge unseres "Corona"-Wettbewerbs!'
 categories: Aktionen
 author: "burkhard"
-date: "2020-04-02"
+date: "2020-04-04"
 permalink: /corona-galerie/
 ---
-Heute lieferten uns **Vevi (6)** aus der ersten Klasse der Grundschule und **Bruno (7)** (er geht in die zweite Klasse) die neuesten Beiträge für [unseren neuen "Corona"-Wettbewerb](/corona-wettbewerb/). Beide haben das Buch {% include biblino_link.html title="Trixi und die wilden Wikinger auf Schatzsuche" media_num="12013296" %} gelesen und dazu jeweils ein eigenes Bild gemalt. Hier kommt zunächst das Bild von **Vevi**...
+Für [unseren neuen "Corona"-Wettbewerb](/corona-wettbewerb/) bekamen wir heute einen Beitrag von **Julia (6)** aus der ersten Klasse unserer Grundschule. Sie hat das Buch *Der kleine Drache Kokosnuss - Vulkan-Alarm auf der Dracheninsel* selbst gelesen und uns dazu dieses Bild gemalt:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Julia-Kokosnuss.jpg" 
+      big="/images/2020-03-26-corona-galerie/Julia-Kokosnuss.jpg" 
+      title="Julia: Der kleine Drache Kokosnuss - Vulkan-Alarm auf der Dracheninsel" %}
+
+## 3. April
+
+Heute lieferten uns **Vevi (6)** aus der ersten Klasse der Grundschule und **Bruno (7)** (er geht in die zweite Klasse) ihre neuen Beiträge für unseren Wettbewerb. Beide haben das Buch {% include biblino_link.html title="Trixi und die wilden Wikinger auf Schatzsuche" media_num="12013296" %} gelesen und dazu jeweils ein eigenes Bild gemalt. Hier kommt zunächst das Bild von **Vevi**...
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Vevi-Trixi.jpg" 
       big="/images/2020-03-26-corona-galerie/Vevi-Trixi.jpg" 
