@@ -21,7 +21,7 @@ Heute erhielten wir zwei neue Bücherbewertungen für [unseren neuen "Corona"-We
 
 ## 4. April
 
-Für [unseren neuen "Corona"-Wettbewerb](/corona-wettbewerb/) bekamen wir heute einen Beitrag von **Julia (6)** aus der ersten Klasse unserer Grundschule. Sie hat das Buch *Der kleine Drache Kokosnuss - Vulkan-Alarm auf der Dracheninsel* selbst gelesen und uns dazu dieses Bild gemalt:
+Heute bekamen wir einen Beitrag von **Julia (6)** aus der ersten Klasse unserer Grundschule. Sie hat das Buch *Der kleine Drache Kokosnuss - Vulkan-Alarm auf der Dracheninsel* selbst gelesen und uns dazu dieses Bild gemalt:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Julia-Kokosnuss.jpg" 
       big="/images/2020-03-26-corona-galerie/Julia-Kokosnuss.jpg" 
