@@ -3,9 +3,24 @@ layout: post
 title: 'Neueste Beiträge unseres "Corona"-Wettbewerbs!'
 categories: Aktionen
 author: "burkhard"
-date: "2020-04-04"
+date: "2020-04-06"
 permalink: /corona-galerie/
 ---
+Heute erhielten wir zwei neue Bücherbewertungen für [unseren neuen "Corona"-Wettbewerb](/corona-wettbewerb/), von **Ina (5)** aus der Bärengruppe des Westerheimer Kindergartens und von ihrer großen Schwester **Mia (8)**, die in die zweite Klasse der Grundschule geht. **Ina** malte uns den bunten, freundlichen Elefanten aus dem Bilderbuchklassiker {% include biblino_link.html title="Elmar" media_num="11992249" %}:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Ina-Elmar.jpg" 
+      big="/images/2020-03-26-corona-galerie/Ina-Elmar.jpg" 
+      title="Ina: Elmar" %}
+
+**Mia** hat das Buch {% include biblino_link.html title="Ein Traumprinz für Mara" media_num="12013056" %} aus unserer Bücherei ausgeliehen, als ihre Schulklasse zuletzt bei uns war. Sie hat das Buch gelesen und hier schriftlich bewertet:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Mia-Traumprinz.jpg" 
+      big="/images/2020-03-26-corona-galerie/Mia-Traumprinz.jpg" 
+      title="Mia: Ein Traumprinz für Mara" %}
+
+
+## 4. April
+
 Für [unseren neuen "Corona"-Wettbewerb](/corona-wettbewerb/) bekamen wir heute einen Beitrag von **Julia (6)** aus der ersten Klasse unserer Grundschule. Sie hat das Buch *Der kleine Drache Kokosnuss - Vulkan-Alarm auf der Dracheninsel* selbst gelesen und uns dazu dieses Bild gemalt:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Julia-Kokosnuss.jpg" 
