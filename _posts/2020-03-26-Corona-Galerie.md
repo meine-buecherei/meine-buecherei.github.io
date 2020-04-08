@@ -6,7 +6,15 @@ author: "burkhard"
 date: "2020-04-06"
 permalink: /corona-galerie/
 ---
-Heute erhielten wir zwei neue Bücherbewertungen für [unseren neuen "Corona"-Wettbewerb](/corona-wettbewerb/), von **Ina (5)** aus der Bärengruppe des Westerheimer Kindergartens und von ihrer großen Schwester **Mia (8)**, die in die zweite Klasse der Grundschule geht. **Ina** malte uns den bunten, freundlichen Elefanten aus dem Bilderbuchklassiker {% include biblino_link.html title="Elmar" media_num="11992249" %}:
+Den neuesten Beitrag für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) sandte uns heute **ein Schüler (7)** aus der 2. Klasse unserer Grundschule eingesandt. Er hat zusammen mit seiner Mama {% include biblino_link.html title="Aufruhr im Gemüsebeet (Pettersson und Findus)" media_num="12016200" %} gelesen. Hier der Beitrag der beiden!
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/junge-2a-pettersson.jpg" 
+      big="/images/2020-03-26-corona-galerie/junge-2a-pettersson.jpg" 
+      title="Aufruhr im Gemüsebeet (Pettersson und Findus)" %}
+
+## 6. April
+
+Heute erhielten wir zwei neue Bücherbewertungen von **Ina (5)** aus der Bärengruppe des Westerheimer Kindergartens und von ihrer großen Schwester **Mia (8)**, die in die zweite Klasse der Grundschule geht. **Ina** malte uns den bunten, freundlichen Elefanten aus dem Bilderbuchklassiker {% include biblino_link.html title="Elmar" media_num="11992249" %}:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Ina-Elmar.JPG" 
       big="/images/2020-03-26-corona-galerie/Ina-Elmar.JPG" 
