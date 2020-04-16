@@ -3,9 +3,18 @@ layout: post
 title: 'Neueste Beiträge unseres "Corona"-Wettbewerbs!'
 categories: Aktionen
 author: "burkhard"
-date: "2020-04-06"
+date: "2020-04-16"
 permalink: /corona-galerie/
 ---
+Endspurt bei unserem [unseren "Corona"-Wettbewerb](/corona-wettbewerb/)! Heute hat **Simon (8)** aus der 3. Grundschulklasse noch einmal nachgelegt. Aus seiner Lieblingsreihe hat er in den Osterferien *Der kleine Major Tom - Außer Kontrolle!* gelesen und uns dieses Bild zum Buch gemalt:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Simon-Ausser-Kontrolle.jpg" 
+      big="/images/2020-03-26-corona-galerie/Simon-Ausser-Kontrolle.jpg" 
+      title="Simon: Der kleine Major Tom - Außer Kontrolle!" %}
+
+
+## 8. April
+
 Den neuesten Beitrag für [unseren "Corona"-Wettbewerb](/corona-wettbewerb/) sandte uns heute **ein Schüler (7)** aus der 2. Klasse unserer Grundschule eingesandt. Er hat zusammen mit seiner Mama {% include biblino_link.html title="Aufruhr im Gemüsebeet (Pettersson und Findus)" media_num="12016200" %} gelesen. Hier der Beitrag der beiden!
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/junge-2a-pettersson.jpg" 
