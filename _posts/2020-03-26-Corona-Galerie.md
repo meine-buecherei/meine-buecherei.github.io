@@ -3,10 +3,75 @@ layout: post
 title: 'Neueste Beiträge unseres "Corona"-Wettbewerbs!'
 categories: Aktionen
 author: "burkhard"
-date: "2020-04-16"
+date: "2020-04-17"
 permalink: /corona-galerie/
 ---
-Endspurt bei unserem [unseren "Corona"-Wettbewerb](/corona-wettbewerb/)! Heute hat **Simon (8)** aus der 3. Grundschulklasse noch einmal nachgelegt. Aus seiner Lieblingsreihe hat er in den Osterferien *Der kleine Major Tom - Außer Kontrolle!* gelesen und uns dieses Bild zum Buch gemalt:
+Wir befinden uns im Endspurt [unseres "Corona"-Wettbewerbs](/corona-wettbewerb/) und bekamen heute soviele Einsendungen wie bisher an keinem anderen Tag!
+**Julian (8)** hat uns heute ein Bild zum Buch {% include biblino_link.html title="Die Olchis werden Fußballmeister" media_num="12013293" %} gemalt:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Julian-Olchis.jpg" 
+      big="/images/2020-03-26-corona-galerie/Julian-Olchis.jpg" 
+      title="Julian: Die Olchis werden Fußballmeister" %}
+
+Bei Matschwetter macht den Olchis das Fußballspielen bestimmt am meisten Spaß!
+
+**Denise (6)** ist ganz offensichtlich ein Fan der Reihe *Meine Schwester Klara*. Sie hat gleich vier Bände gelesen! Ihre Bilder dazu seht Ihr hier:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Denise-Klara-Bd1.jpg" 
+      big="/images/2020-03-26-corona-galerie/Denise-Klara-Bd1.jpg" 
+      title="Denise: Meine Schwester Klara und die Geister" %}
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Denise-Klara-Bd2.jpg" 
+      big="/images/2020-03-26-corona-galerie/Denise-Klara-Bd2.jpg" 
+      title="Denise: Meine Schwester Klara und der Löwenschwanz" %}
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Denise-Klara-Bd3.jpg" 
+      big="/images/2020-03-26-corona-galerie/Denise-Klara-Bd3.jpg" 
+      title="Denise: Meine Schwester Klara und die Pfütze" %}
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Denise-Klara-Bd5.jpg" 
+      big="/images/2020-03-26-corona-galerie/Denise-Klara-Bd5.jpg" 
+      title="Denise: Meine Schwester Klara und ihr Schutzengel" %}
+
+Denise hat ihre freie Zeit wirklich gut genutzt!
+
+Von **Lisa (8)** aus der 3. Klasse erhielten wir ein Bild zu {% include biblino_link.html title="Bibi und der Turbo-Besen" media_num="12014046" %}:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Lisa-Bibi.jpg" 
+      big="/images/2020-03-26-corona-galerie/Lisa-Bibi.jpg" 
+      title="Lisa: Bibi und der Turbo-Besen" %}
+
+Bei dem derzeitigen Ausflugsverkehr auf dem DB-Radweg würden wir auch gerne mal mit dem Hexenbesen abheben!
+
+**Simon (8)** hat noch einmal das WWW-Buch {% include biblino_link.html title="Alles über Schiffe" media_num="12014248" %} gelesen. Hier sein Bild:
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Simon-Schiffe.jpg" 
+      big="/images/2020-03-26-corona-galerie/Simon-Schiffe.jpg" 
+      title="Simon: Alles über Schiffe" %}
+
+Ob das wohl gut ausgeht..?
+
+**Jonas (10)** geht in die 5. Klasse der Mittelschule Erkheim. Er malte uns ein Bild zu {% include biblino_link.html title="Ein bester Freund mal zwei" media_num="12007119" %}
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Jonas-bester-Freund.jpg" 
+      big="/images/2020-03-26-corona-galerie/Jonas-bester-Freund.jpg" 
+      title="Jonas: Ein bester Freund mal zwei" %}
+
+Auch **Hanna (10)** geht in die 5. Klasse in Erkheim. Sie schrieb diesen Beitrag zu {% include biblino_link.html title="Mein Lotta-Leben - Wer den Wal hat" media_num="12019051" %}:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Hanna-Lotta-Wer-den-Wal-hat.jpg" 
+      big="/images/2020-03-26-corona-galerie/Hanna-Lotta-Wer-den-Wal-hat.jpg" 
+      title="Hanna: Mein Lotta-Leben - Wer den Wal hat" %}
+
+Das Ostergeschenk ist schon ausgelesen!
+
+## 16. April
+
+Das Ende des Wettbewerbs naht... heute hat **Simon (8)** aus der 3. Grundschulklasse noch einmal nachgelegt. Aus seiner Lieblingsreihe hat er in den Osterferien *Der kleine Major Tom - Außer Kontrolle!* gelesen und uns dieses Bild zum Buch gemalt:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Simon-Ausser-Kontrolle.jpg" 
       big="/images/2020-03-26-corona-galerie/Simon-Ausser-Kontrolle.jpg" 
