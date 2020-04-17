@@ -6,7 +6,7 @@ author: "burkhard"
 date: "2020-04-17"
 permalink: /corona-galerie/
 ---
-Wir befinden uns im Endspurt [unseres "Corona"-Wettbewerbs](/corona-wettbewerb/) und bekamen heute soviele Einsendungen wie bisher an keinem anderen Tag!
+Wir befinden uns im Endspurt [unseres "Corona"-Wettbewerbs](/corona-wettbewerb/) und bekamen heute so viele Einsendungen wie bisher an keinem anderen Tag!
 **Julian (8)** hat uns heute ein Bild zum Buch {% include biblino_link.html title="Die Olchis werden Fußballmeister" media_num="12013293" %} gemalt:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Julian-Olchis.jpg" 
