@@ -20,7 +20,17 @@ Ebenfalls mit fünf Sternen hat Ronja das Buch *Mein Hamster ist ein Mathe-Ass!*
       big="/images/2020-03-26-corona-galerie/Ronja-Mathe-Ass.jpg" 
       title="Ronja: Mein Hamster ist ein Mathe-Ass!" %}
 
+
 Ob man nach dem Lesen des Buchs die Hamsterkäufe der letzten Wochen wohl besser verstehen wird? 😉
+
+**Simon (8)** geht in dieselbe Klasse wie Ronja. Auch von ihm bekamen wir heute noch einmal ein Bild, zu seinem Buch *Lieselotte macht Urlaub*:
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Simon-Lieselotte.jpg" 
+      big="/images/2020-03-26-corona-galerie/Simon-Lieselotte.jpg" 
+      title="Simon: Lieselotte macht Urlaub" %}
+
+Lieselottes Urlaub auf der Nachbarswiese könnte wohl auch zu Corona-Zeiten noch stattfinden...?
 
 ## 17. April 
 Wir befinden uns im Endspurt und bekamen heute so viele Einsendungen wie bisher an keinem anderen Tag!
