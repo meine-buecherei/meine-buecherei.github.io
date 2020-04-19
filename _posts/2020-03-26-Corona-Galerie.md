@@ -6,8 +6,6 @@ author: "burkhard"
 date: "2020-04-19"
 permalink: /corona-galerie/
 ---
-## 19. April
-
 Auch am allerletzten Tag [unseres "Corona"-Wettbewerbs](/corona-wettbewerb/) erhielten wir noch Beiträge - und zwar gleich zwei Blätter von **Ronja (9)**. Sie geht in die dritte Klasse der Grundschule Westerheim.
 Ronja schrieb uns diesen Beitrag zum Buch *Conni und die Detektive*, das sehr spannend gewesen sein muss!
 {% include lightcase.html group="bilder-dieser-seite"
