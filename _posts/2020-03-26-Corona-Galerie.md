@@ -3,10 +3,29 @@ layout: post
 title: 'Neueste Beiträge unseres "Corona"-Wettbewerbs!'
 categories: Aktionen
 author: "burkhard"
-date: "2020-04-17"
+date: "2020-04-19"
 permalink: /corona-galerie/
 ---
-Wir befinden uns im Endspurt [unseres "Corona"-Wettbewerbs](/corona-wettbewerb/) und bekamen heute so viele Einsendungen wie bisher an keinem anderen Tag!
+## 19. April
+
+Auch am allerletzten Tag [unseres "Corona"-Wettbewerbs](/corona-wettbewerb/) erhielten wir noch Beiträge - und zwar gleich zwei Blätter von **Ronja (9)**. Sie geht in die dritte Klasse der Grundschule Westerheim.
+Ronja schrieb uns diesen Beitrag zum Buch *Conni und die Detektive*, das sehr spannend gewesen sein muss!
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Ronja-Conni-Detektive.jpg" 
+      big="/images/2020-03-26-corona-galerie/Ronja-Conni-Detektive.jpg" 
+      title="Ronja: Conni und die Detektive" %}
+
+Ebenfalls mit fünf Sternen hat Ronja das Buch *Mein Hamster ist ein Mathe-Ass!* bewertet. Zu diesem Buch hat sie uns dieses Bild gemalt:
+
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Ronja-Mathe-Ass.jpg" 
+      big="/images/2020-03-26-corona-galerie/Ronja-Mathe-Ass.jpg" 
+      title="Ronja: Mein Hamster ist ein Mathe-Ass!" %}
+
+Ob man nach dem Lesen des Buchs die Hamsterkäufe der letzten Wochen wohl besser verstehen wird? 😉
+
+## 17. April 
+Wir befinden uns im Endspurt und bekamen heute so viele Einsendungen wie bisher an keinem anderen Tag!
 **Julian (8)** hat uns heute ein Bild zum Buch {% include biblino_link.html title="Die Olchis werden Fußballmeister" media_num="12013293" %} gemalt:
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Julian-Olchis.jpg" 
