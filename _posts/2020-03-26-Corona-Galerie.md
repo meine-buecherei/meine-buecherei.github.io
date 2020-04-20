@@ -1,12 +1,16 @@
 ---
 layout: post
-title: 'Neueste Beiträge unseres "Corona"-Wettbewerbs!'
+title: 'Alle Beiträge unseres "Corona"-Wettbewerbs!'
 categories: Aktionen
 author: "burkhard"
-date: "2020-04-19"
+date: "2020-04-20"
 permalink: /corona-galerie/
 ---
-Auch am allerletzten Tag [unseres "Corona"-Wettbewerbs](/corona-wettbewerb/) erhielten wir noch Beiträge - und zwar gleich zwei Blätter von **Ronja (9)**. Sie geht in die dritte Klasse der Grundschule Westerheim.
+Unser "Corona"-Wettbewerb ist nun beendet. Vielen Dank an alle fleißigen Kinder für die zahlreichen Einsendungen! Alle eingegangenen Beiträge sind dauerhaft auf dieser Seite zu bewundern. Zurzeit tagt die Jury und arbeitet an der Preisvergabe... näheres bald an dieser Stelle und im [Gemeindeblatt](https://www.gemeinde-westerheim.de/mitteilungsblatt/)!
+
+## 19. April
+
+Auch am allerletzten Tag des Wettbewerbs erhielten wir noch Beiträge - und zwar gleich zwei Blätter von **Ronja (9)**. Sie geht in die dritte Klasse der Grundschule Westerheim.
 Ronja schrieb uns diesen Beitrag zum Buch *Conni und die Detektive*, das sehr spannend gewesen sein muss!
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-03-26-corona-galerie/klein/Ronja-Conni-Detektive.jpg" 
@@ -31,6 +35,13 @@ Ob man nach dem Lesen des Buchs die Hamsterkäufe der letzten Wochen wohl besser
       title="Simon: Lieselotte macht Urlaub" %}
 
 Lieselottes Urlaub auf der Nachbarswiese könnte wohl auch zu Corona-Zeiten noch stattfinden...?
+
+Von **Jan (7)** aus der zweiten Klasse der Grundschule erhielten wir diesen Textbeitrag zu einem spannenden Drei-Fragezeichen-Buch *Die drei ??? - Tatort Kletterpark*:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/Jan-Tatort-Kletterpark.jpg" 
+      big="/images/2020-03-26-corona-galerie/Jan-Tatort-Kletterpark.jpg" 
+      title="Jan: Die drei ??? - Tatort Kletterpark" %}
+
 
 ## 17. April 
 Wir befinden uns im Endspurt und bekamen heute so viele Einsendungen wie bisher an keinem anderen Tag!
@@ -303,9 +314,8 @@ Selbst gelesen hat Bruno das 141 Seiten dicke Buch *Hexe Lilli und das magische 
       big="/images/2020-03-26-corona-galerie/Bruno-Hexe-Lilli.jpg" 
       title="Bruno: Hexe Lilli und das magische Schwert" %}
       
-Dank an die fleißigen Rezensenten! Wir freuen uns auf weitere schöne Beiträge aus jeder Altersstufe!
+Dank an die fleißigen Rezensenten! 
 
-## Weiter mitmachen!
+Natürlich freuen wir uns auch nach dem Ende des Wettbewerbs weiterhin über Eure Beiträge und werden sie auch weiter auf der Homepage veröffentlichen!
 
-Alles über unseren Wettbewerb - Vorlagen, Termine, **Preise**, ... findet Ihr [unter diesem Link](/corona-wettbewerb/)!
 
