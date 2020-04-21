@@ -38,9 +38,15 @@ Lieselottes Urlaub auf der Nachbarswiese könnte wohl auch zu Corona-Zeiten noch
 
 Von **Jan (7)** aus der zweiten Klasse der Grundschule erhielten wir diesen Textbeitrag zu einem spannenden Drei-Fragezeichen-Buch *Die drei ??? - Tatort Kletterpark*:
 {% include lightcase.html group="bilder-dieser-seite"
-      src="/images/2020-03-26-corona-galerie/Jan-Tatort-Kletterpark.jpg" 
+      src="/images/2020-03-26-corona-galerie/klein/Jan-Tatort-Kletterpark.jpg" 
       big="/images/2020-03-26-corona-galerie/Jan-Tatort-Kletterpark.jpg" 
       title="Jan: Die drei ??? - Tatort Kletterpark" %}
+
+Auch **Lea (9)** aus der vierten Klasse der Grundschule ist ein Fan der "Drei Fragezeichen". Hier ihre Meinung zu {% include biblino_link.html title="Die ??? Kids - SOS über den Wolken" media_num="12002104" %}:
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-03-26-corona-galerie/klein/Lea-SOS.jpg" 
+      big="/images/2020-03-26-corona-galerie/Lea-SOS.jpg" 
+      title="Lea: Die drei ??? - SOS über den Wolken" %}
 
 
 ## 17. April 
