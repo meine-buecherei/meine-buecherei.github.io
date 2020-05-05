@@ -5,6 +5,10 @@ categories: Aktionen
 author: "burkhard"
 date: "2020-04-27"
 ---
+{% include lightcase.html group="bilder-dieser-seite"
+      src="/images/2020-04-27-corona-sieger/klein/Collage.jpg" 
+      big="/images/2020-04-27-corona-sieger/Collage.jpg" 
+      title="Alle Gewinner unseres Wettbewerbs!" %}
 Mit den Osterferien endete auch unser "Corona"-Buchbewertungs- und Malwettbewerb. Die Gewinner wurden nun ermittelt! Wir haben Preise vergeben in den Kategorien "Größter Fleiß", "Beste Beiträge" und "Kindergartenkinder". 
 
 In diesen Zeiten muss die Übergabe der Urkunden leider kontaktfrei und die Siegerehrung virtuell stattfinden. Doch lasst uns wenigstens auf dieser Seite alle Sieger gemeinsam feiern!
