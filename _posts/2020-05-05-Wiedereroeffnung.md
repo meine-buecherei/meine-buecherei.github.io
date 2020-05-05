@@ -4,7 +4,7 @@ title: 'Wichtige Informationen zur Wiedereröffnung der Bücherei'
 categories: Termine
 author: "micha"
 ---
-Ab kommender Woche dürfen wir unsere Bücherei **wieder öffnen**. Um aber alle Regeln einhalten zu können und um unnötige Wartezeiten und Menschenansammlungen zu vermeiden, haben wir uns entschlossen, die nächsten beiden Wochen jeweils noch mit **Terminvergabe** zu arbeiten. Wir öffnen am **Dienstag, 12.05.20 von 17.00 bis 20.00 Uhr** und am **Donnerstag, 14.05.20 von 15.00 bis 18.00 Uhr**. 
+Ab kommender Woche dürfen wir unsere Bücherei **wieder öffnen**. Um aber alle Regeln einhalten zu können und um unnötige Wartezeiten und Menschenansammlungen zu vermeiden, haben wir uns entschlossen, die nächsten beiden Wochen jeweils noch mit **Terminvergabe** zu arbeiten. Wir öffnen am **Dienstag, 12.05.2020 von 17.00 bis 20.00 Uhr** und am **Donnerstag, 14.05.2020 von 15.00 bis 18.00 Uhr**. 
 
 Bitte meldet Euch ab sofort per E-Mail oder unter Tel.Nr. 9798, um im voraus einen Besuchstermin (**Verweildauer jeweils 15 Minuten** - **Maske nicht vergessen**) zu vereinbaren. Bei Bedarf können auch Vormittagstermine ermöglicht werden. 
 
