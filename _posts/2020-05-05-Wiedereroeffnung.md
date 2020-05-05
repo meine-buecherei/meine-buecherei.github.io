@@ -11,4 +11,5 @@ Bitte meldet Euch ab sofort per E-Mail oder unter Tel.Nr. 9798, um im voraus ein
 Wer **online reservieren** möchte, darf dies gerne tun und wir stellen alles zur Abholung bereit. Es gibt auch zahlreiche neue Bücher - klickt einfach mal in den Online-Katalog.
 
 Bis bald!
+
 Euer Büchereiteam Westerheim
