@@ -46,7 +46,7 @@ permalink: /top100-#{key}/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __#{category_name}__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _#{now}_. Die Reihenfolge gibt die Gesamtzahl der Ausleihvorgänge und das letzte Ausleihdatum wieder.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _#{now}_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 HTML
@@ -124,7 +124,8 @@ group_conditions.each do |key, props|
                                         medien.mnummer, mcode, autor, titel, gruppe2, isbn
                          FROM HISTORY
                          INNER JOIN medien ON medien.mnummer = history.mnummer
-                         WHERE #{props[:sql]}
+                         WHERE (#{props[:sql]})
+                           AND history.adatum > DATEADD(year, -1, GETDATE())
                          GROUP by medien.MNUMMER, titel, autor, gruppe2, mcode, isbn
                          ORDER by beliebtheit desc, geliehen_am desc"
 
