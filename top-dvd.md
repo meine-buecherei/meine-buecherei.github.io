@@ -5,7 +5,7 @@ permalink: /top100-dvd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __DVDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _07.08.2020, 09:20 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _10.08.2020, 21:59 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019005">Barbapapa: Um die Welt mit Barbapapa, 1</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019005"><img src="/images/mediacovers/x160/12019005.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -40,5 +40,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _07.08.2020, 09:20 Uh
 <tr><td width="70%"><strong>Platz 30</strong><br><br><em>Mansour, Haifaa Al</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016705">Das Mädchen Wadjda</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016705"><img src="/images/mediacovers/x160/12016705.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 31</strong><br><br><em>Goller, Markus</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016712">Eine ganz heiße Nummer</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016712"><img src="/images/mediacovers/x160/12016712.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 32</strong><br><br><em>Wim Wenders</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019050">Papst Franziskus - Ein Mann seines Wortes</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019050"><img src="/images/mediacovers/x160/12019050.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 33</strong><br><br><em>Dardenne, Jean-Pierre / Dardenne, Luc</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12017752">Zwei Tage, eine Nacht</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12017752"><img src="/images/mediacovers/x160/12017752.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
