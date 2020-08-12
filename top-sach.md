@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _11.08.2020, 19:40 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _12.08.2020, 20:48 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Schilling, Claudia</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018160">Hin und weg</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018160"><img src="/images/mediacovers/x160/12018160.jpg" style="width: auto; height: auto;"></a></center></td></tr>
