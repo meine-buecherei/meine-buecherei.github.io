@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _08.09.2020, 19:37 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _08.09.2020, 19:38 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Scholz, Gaby / Harvey, Franziska</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018149">Ritter ohne Furcht und das fürchterliche Ungeheuer</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018149"><img src="/images/mediacovers/x160/12018149.jpg" style="width: auto; height: auto;"></a></center></td></tr>
