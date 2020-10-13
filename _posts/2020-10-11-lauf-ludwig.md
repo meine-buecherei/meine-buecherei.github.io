@@ -4,13 +4,13 @@ title: 'Buchtipp: Lauf Ludwig, lauf!'
 categories: Rezension
 author: "burkhard"
 published: yes
-date: "2020-10-11"
+date: "2020-10-12"
 ---
 
 Ichenhausen - ein Ort an der Günz - vor etwa 100 Jahren. Vor diesem Hintergrund erzählt [Rafael Seligmann](https://de.wikipedia.org/wiki/Rafael_Seligmann) die Geschichte einer jüdischen Familie zwischen 1914 und 1933.
 {% include biblino_link.html title="Seligmann, Rafael: Lauf, Ludwig, lauf!" media_num="12020177" with_cover="yes" %} 
 
-Die Seligmanns sind eine alteingesessene und angesehene Kaufmannsfamilie, die in Ichenhausen vom Handel mit der Landbevölkerung und der handwerklich betriebenen Herstellung von Textilien lebt. Als der erste Weltkrieg ausbricht, folgt auch Vater Seligmann dem Ruf des Kaisers, der "keine Parteien noch Konfessionen, sondern nur noch Deutsche" kennt. Als in der Synagoge an Chanukka 1914 die ersten Toten zu betrauern sind, vergleicht der Rabbiner den einstigen Freiheitskampf der Juden unter den Makkabäern mit dem der "deutschen Grenadiere, die für unser Land uns seine Freiheit fechten, das sich einer Welt von Feinden erwehren muss". Der nationale Ton durfte auch in diesem Gotteshaus nicht fehlen. Jüdische Soldaten wie Ludwigs Vater wollen sich im Krieg als verantwortungsbewusste Bürger mit allen Rechten und Pflichten beweisen. 
+Die Seligmanns sind eine alteingesessene und angesehene Kaufmannsfamilie, die in Ichenhausen vom Handel mit der Landbevölkerung und der handwerklich betriebenen Herstellung von Textilien lebt. Als der erste Weltkrieg ausbricht, folgt auch Vater Seligmann dem Ruf des Kaisers, der "keine Parteien noch Konfessionen, sondern nur noch Deutsche" kennt. Als in der Synagoge an Chanukka 1914 die ersten Toten zu betrauern sind, vergleicht der Rabbiner den einstigen Freiheitskampf der Juden unter den Makkabäern mit dem der "deutschen Grenadiere, die für unser Land und seine Freiheit fechten, das sich einer Welt von Feinden erwehren muss". Der nationale Ton durfte auch in diesem Gotteshaus nicht fehlen. Jüdische Soldaten wie Ludwigs Vater wollen sich im Krieg als verantwortungsbewusste Bürger mit allen Rechten und Pflichten beweisen. 
 
 Der Vater kehrt körperlich unbeschadet aus dem Krieg zurück, doch es zeigt sich bald, dass er nicht mehr derselbe ist. Die Söhne Ludwig und Heiner müssen bald zum Lebensunterhalt beitragen und ihre Schulausbildung vorzeitig abbrechen. Zudem funktionieren die alten Geschäftsmodelle in der Zeit der Geldentwertung und des wirtschaftlichen Umbruchs nicht mehr. Ludwig und Heiner beißen sich, jeder auf seine Weise, durch, und als die Zwanziger dann doch noch "golden" zu werden scheinen, gewinnt auch der Vater seinen Optimismus wieder und scheint wieder seinen Weg zu finden.
 
