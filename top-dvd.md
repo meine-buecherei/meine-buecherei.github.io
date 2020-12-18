@@ -5,7 +5,7 @@ permalink: /top100-dvd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __DVDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _18.12.2020, 11:17 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _18.12.2020, 11:34 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Allgaier, Patrick und Weisser, Gwendolin</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020052">weit. Die Geschichte von einem Weg um die Welt</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020052"><img src="/images/mediacovers/x160/12020052.jpg" style="width: auto; height: auto;"></a></center></td></tr>
