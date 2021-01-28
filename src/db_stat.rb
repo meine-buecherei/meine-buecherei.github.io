@@ -39,6 +39,10 @@ group_conditions = {
     :name => "Zeitschriften",
     :sql => "medien.mcode=2"
   },  
+  :spiele => {
+    :name => "Spiele",
+    :sql => "medien.mcode=20"
+  },  
   :summe => {
     :name => "Medien insgesamt",
     :sql => "1=1"
