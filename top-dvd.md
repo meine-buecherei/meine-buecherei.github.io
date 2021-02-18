@@ -5,7 +5,7 @@ permalink: /top100-dvd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __DVDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _17.02.2021, 15:27 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _18.02.2021, 20:01 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Allgaier, Patrick und Weisser, Gwendolin</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020052">weit. Die Geschichte von einem Weg um die Welt</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020052"><img src="/images/mediacovers/x160/12020052.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -28,7 +28,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _17.02.2021, 15:27 Uh
 <tr><td width="70%"><strong>Platz 18</strong><br><br><em>Jürgens, Udo</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016744">Das letzte Konzert Live - Zürich 2014</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016744"><img src="/images/mediacovers/x160/12016744.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 19</strong><br><br><em>Allgäuer Zeitung</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019006">Das Allgäu von oben 1</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019006"><img src="/images/mediacovers/x160/12019006.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 20</strong><br><br><em>Nakache, Olivier  / Toledano, Eric</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016717">Heute bin ich Samba</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016717"><img src="/images/mediacovers/x160/12016717.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 21</strong><br><br><em>Imhoof, Markus</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016742">More Than Honey</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016742"><img src="/images/mediacovers/x160/12016742.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 22</strong><br><br><em>Falardeau, Philippe</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016732">The Good Lie - Der Preis der Freiheit</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016732"><img src="/images/mediacovers/x160/12016732.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 23</strong><br><br><em>Lee, Ang</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016723">Life of Pi - Schiffbruch mit Tiger</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016723"><img src="/images/mediacovers/x160/12016723.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
