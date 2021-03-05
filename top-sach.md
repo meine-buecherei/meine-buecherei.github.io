@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _05.03.2021, 13:05 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _05.03.2021, 15:43 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Schießler, Rainer M.</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019047">Jessas, Maria und Josef</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019047"><img src="/images/mediacovers/x160/12019047.jpg" style="width: auto; height: auto;"></a></center></td></tr>
