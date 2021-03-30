@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _30.03.2021, 19:37 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _30.03.2021, 19:38 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Kolb, Suza</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020191">Wunschbüro Edda / Bd. 1</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020191"><img src="/images/mediacovers/x160/12020191.jpg" style="width: auto; height: auto;"></a></center></td></tr>
