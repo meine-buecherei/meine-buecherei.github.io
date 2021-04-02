@@ -5,7 +5,7 @@ permalink: /top100-dvd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __DVDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _01.04.2021, 16:57 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _02.04.2021, 15:19 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Allgaier, Patrick und Weisser, Gwendolin</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020052">weit. Die Geschichte von einem Weg um die Welt</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020052"><img src="/images/mediacovers/x160/12020052.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -26,5 +26,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _01.04.2021, 16:57 Uh
 <tr><td width="70%"><strong>Platz 16</strong><br><br><em>Daldry, Stephen</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016714">Extrem laut und unglaublich nah</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016714"><img src="/images/mediacovers/x160/12016714.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 17</strong><br><br><em>Azuelos, Lisa</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016711">Ein Augenblick Liebe</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016711"><img src="/images/mediacovers/x160/12016711.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 18</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019005">Barbapapa: Um die Welt mit Barbapapa, 1</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019005"><img src="/images/mediacovers/x160/12019005.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 19</strong><br><br><em>Jürgens, Udo</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016744">Das letzte Konzert Live - Zürich 2014</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016744"><img src="/images/mediacovers/x160/12016744.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
