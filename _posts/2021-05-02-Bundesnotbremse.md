@@ -4,7 +4,7 @@ title: 'Aktuelle Corona-Bestimmungen - Höchstanzahl Besucher'
 categories: Termine
 author: "burkhard"
 published: yes
-date: 2021-05-02
+date: 2021-05-03
 ---
 Durch die neuen Bestimmungen des [Bundes-Infektionsschutzgesetzes](https://www.bgbl.de/fileadmin/user_upload/bgbl121s0802_buergerversion.pdf){:target="_blank"} haben sich auch die Bedingungen geändert, unter denen unsere Bücherei öffnen darf.
 
