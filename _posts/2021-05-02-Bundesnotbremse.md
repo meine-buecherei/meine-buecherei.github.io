@@ -11,8 +11,8 @@ Durch die neuen Bestimmungen des [Bundes-Infektionsschutzgesetzes](https://www.b
 **Nicht geändert** hat sich, dass wir weiterhin **unabhängig vom Inzidenzwert** offen bleiben dürfen. Die Bestimmungen zu Maskenpflicht und Mindestabstand bleiben ebenfalls gleich.
 
 **Abhängig vom Inzidenzwert** ist dagegen jetzt die erlaubte Höchstanzahl von Personen in der Bücherei:
-* bei einem Inzidenzwert **bis zu 100**: maximal **fünf Besucher** zugleich
-* bei einem Inzidenzwert **über 100**: maximal **zwei Besucher** zugleich
+* bei einem Inzidenzwert **bis zu 100**: maximal **sechs Besucher** zugleich
+* bei einem Inzidenzwert **über 100**: maximal **drei Besucher** zugleich
 
 Hinzu kommt noch das jeweilige Mitglied des Büchereiteams, das gerade im "Dienst" ist.
 
