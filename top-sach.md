@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _20.05.2021, 17:22 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _25.05.2021, 20:14 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Akeroyd, Simon</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020075">Selbstversorgung für Einsteiger</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020075"><img src="/images/mediacovers/x160/12020075.jpg" style="width: auto; height: auto;"></a></center></td></tr>
