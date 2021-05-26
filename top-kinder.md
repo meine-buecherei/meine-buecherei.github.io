@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _25.05.2021, 20:30 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _26.05.2021, 22:04 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Schneider, Liane</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12017068">Conni hilft Papa</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12017068"><img src="/images/mediacovers/x160/12017068.jpg" style="width: auto; height: auto;"></a></center></td></tr>
