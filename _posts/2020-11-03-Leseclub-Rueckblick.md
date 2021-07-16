@@ -4,11 +4,12 @@ title: 'Rückblick: Sommerferien-Leseclub'
 categories: Aktionen
 author: "micha"
 ---
+Zum ersten Mal in der Westerheimer Büchereigeschichte haben wir heuer kurzentschlossen einen Sommerferien-Leseclub zum Leben erweckt und alle unsere Bücherei-Mitgliedskinder von der 1. bis einschließlich zur 6. Klasse durch eine schriftliche Einladung zum Mitmachen aufgerufen. Es haben sich 24 Kinder angemeldet, worüber wir uns sehr freuten (jede Klassenstufe war dabei vertreten). 
+
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2020-08-01-leseclub/logo-klein.png" 
       big="/images/2020-08-01-leseclub/logo.png" 
       title="Logo unseres Leseclubs" %}
-Zum ersten Mal in der Westerheimer Büchereigeschichte haben wir heuer kurzentschlossen einen Sommerferien-Leseclub zum Leben erweckt und alle unsere Bücherei-Mitgliedskinder von der 1. bis einschließlich zur 6. Klasse durch eine schriftliche Einladung zum Mitmachen aufgerufen. Es haben sich 24 Kinder angemeldet, worüber wir uns sehr freuten (jede Klassenstufe war dabei vertreten). 
 
 Die Kinder durften auf dem Anmeldeformular auch einen Bücherwunsch äußern, den wir in den meisten Fällen erfüllen konnten. Auch zahlreiche Neuerscheinungen für alle Altersstufen hatten wir für unseren Sommerferien-Leseclub eingekauft. 
 
