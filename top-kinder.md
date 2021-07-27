@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _26.07.2021, 14:17 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _27.07.2021, 13:42 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019277">Guinness World Records 2020</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019277"><img src="/images/mediacovers/x160/12019277.jpg" style="width: auto; height: auto;"></a></center></td></tr>
