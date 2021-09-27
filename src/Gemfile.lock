@@ -12,13 +12,18 @@ GEM
     deprecated (2.0.1)
     htmlentities (4.3.4)
     mini_magick (4.9.5)
-    mini_portile2 (2.4.0)
-    nokogiri (1.10.4-x64-mingw32)
-      mini_portile2 (~> 2.4.0)
+    mini_portile2 (2.6.1)
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
+      racc (~> 1.4)
+    nokogiri (1.12.5-x64-mingw32)
+      racc (~> 1.4)
+    racc (1.5.2)
     ruby-odbc (0.99999)
     rubyzip (1.0.0)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
