@@ -5,7 +5,7 @@ permalink: /top100-dvd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __DVDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _19.10.2021, 19:24 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _21.10.2021, 11:47 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Fletcher, Dexter / Singer, Bryan</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019096">Bohemian Rhapsody</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019096"><img src="/images/mediacovers/x160/12019096.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -23,6 +23,5 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _19.10.2021, 19:24 Uh
 <tr><td width="70%"><strong>Platz 13</strong><br><br><em>Hallström, Lasse</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016728">Safe Haven - Wie ein Licht in der Nacht</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016728"><img src="/images/mediacovers/x160/12016728.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 14</strong><br><br><em>Nettelbeck, Sandra</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016701">Bella Martha</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016701"><img src="/images/mediacovers/x160/12016701.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 15</strong><br><br><em>Allgaier, Patrick und Weisser, Gwendolin</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020052">weit. Die Geschichte von einem Weg um die Welt</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020052"><img src="/images/mediacovers/x160/12020052.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 16</strong><br><br><em>David Fitz, Florian David</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016750">Jesus liebt mich</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016750"><img src="/images/mediacovers/x160/12016750.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 17</strong><br><br><em>Daldry, Stephen</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016714">Extrem laut und unglaublich nah</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016714"><img src="/images/mediacovers/x160/12016714.jpg" style="width: auto; height: auto;"></a></center></td></tr>
+<tr><td width="70%"><strong>Platz 16</strong><br><br><em>Daldry, Stephen</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016714">Extrem laut und unglaublich nah</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016714"><img src="/images/mediacovers/x160/12016714.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
