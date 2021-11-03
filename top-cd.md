@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _02.11.2021, 19:27 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _03.11.2021, 15:26 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Andreas, Vincent</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12013506">Der Abenteuer-Spielplatz / Benjamin Blümchen Bd.113</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12013506"><img src="/images/mediacovers/x160/12013506.jpg" style="width: auto; height: auto;"></a></center></td></tr>
