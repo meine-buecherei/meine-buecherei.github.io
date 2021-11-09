@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _09.11.2021, 07:46 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _09.11.2021, 11:51 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Prolic, Christiane Emma</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021108">Emmi kocht einfach</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021108"><img src="/images/mediacovers/x160/12021108.jpg" style="width: auto; height: auto;"></a></center></td></tr>
