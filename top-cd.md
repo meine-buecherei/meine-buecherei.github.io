@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _11.01.2022, 13:54 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _11.01.2022, 19:57 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Schneider, Liane</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503">Conni bekommt Taschengeld / Conni verkleidet sich</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503"><img src="/images/mediacovers/x160/12016503.jpg" style="width: auto; height: auto;"></a></center></td></tr>
