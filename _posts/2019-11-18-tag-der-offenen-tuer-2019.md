@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bilder vom Tag der offenen Tür 2019"
+title: "Tag der offenen Tür 2019"
 categories: Termine
 author: "burkhard"
 date: "2019-11-17"
@@ -16,12 +16,6 @@ Die fleißigsten Teilnehmer prämierte Büchereileiterin Michaela Bail während 
 * Einen Preis für die meisten gemalten Bilder erhielt **Denise Schaupp**
 * Die meisten Rezensionstexte schrieb **Amelie Prünstner**
 
-{% include lightcase.html 
-          src="/images/2019-11-17-tag-der-offenen-tuer/klein/1-preisverleihung.jpg" 
-          big="/images/2019-11-17-tag-der-offenen-tuer/1-preisverleihung.jpg" 
-          group="bilder-dieser-seite"
-          title="Gewinnerinnen Denise Schaupp und Amelie Prünstner  mit Michaela Bail" %}
-
 
 Noch einmal herzlichen Glückwunsch und vielen Dank für die eifrige Teilnahme - das gilt natürlich für alle Kinder. Wir freuen uns auch weiterhin auf Eure Beiträge. Sie werden wie bisher regelmäßig auf unserer Homepage zu sehen sein.
 
@@ -33,11 +27,6 @@ Dieses Jahr hatten wir an unserem Tag der offenen Tür außerdem einen besondere
           group="bilder-dieser-seite"
           title="Der Ballonkünstler Baldulino zeigt sein Können" %}
 
-{% include lightcase.html 
-          src="/images/2019-11-17-tag-der-offenen-tuer/klein/3-zuschauer.jpg" 
-          big="/images/2019-11-17-tag-der-offenen-tuer/3-zuschauer.jpg" 
-          group="bilder-dieser-seite"
-          title="Die Kinder schauen gebannt zu" %}
 
 {% include lightcase.html 
           src="/images/2019-11-17-tag-der-offenen-tuer/klein/4-minion.jpg" 
@@ -53,7 +42,7 @@ Nebenbei schauten sich die zahlreichen Besucher ungezwungen bei uns um, und es g
           group="bilder-dieser-seite"
           title="Unterhaltung am Rande der Veranstaltung" %}
 
-Auf ein balidges Wiedersehen - bei uns in der Bücherei!
+Auf ein baldiges Wiedersehen - bei uns in der Bücherei!
           
 Euer Büchereiteam Westerheim
 
