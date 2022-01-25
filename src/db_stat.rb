@@ -154,6 +154,32 @@ def leihstatistik(workbook, db_client, group_conditions)
   end
 
   worksheet.column_widths( 28, *([15] * headers.count))  
+  
+end
+
+def bestandsstatistik(workbook, db_client, group_conditions)
+  sql = "SELECT "
+
+  puts "Datenbankabfrage..."
+  group_conditions.each do |key, props|    
+    # Teilabfragen zusammensetzen
+    sql += "(select count(*) from medien
+              where (nowebopac=0 or nowebopac is null) and (sig is null or sig <> 'Leih')
+                    and #{props[:sql]}
+            ) [#{props[:name]}]" 
+            
+    if key != group_conditions.keys.last
+      sql += ", "
+    end  
+  end  
+
+  rows = db_client.execute(sql)
+    
+  worksheet = workbook.add_worksheet(:name => "Bestandsstatistik")
+  headers = group_conditions.values.collect {|cond| cond[:name]}
+  add_header(worksheet, headers)
+  worksheet.add_row(rows.first.to_a)
+  worksheet.column_widths( 28, *([15] * headers.count))    
 end
 
 #
@@ -177,6 +203,7 @@ puts "Generiere Datei #{xlsx_file}..."
 excel = Axlsx::Package.new
 workbook = excel.workbook
 leihstatistik(workbook, db_client, group_conditions)
+bestandsstatistik(workbook, db_client, group_conditions)
 
 db_client.disconnect
 
