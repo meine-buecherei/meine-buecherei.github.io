@@ -5,7 +5,7 @@ permalink: /top100-sl/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Belletristik (Erwachsene und Jugendliche)__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _20.02.2022, 21:13 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _22.02.2022, 09:43 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Fitzek, Sebastian</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021021">Der Heimweg</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021021"><img src="/images/mediacovers/x160/12021021.jpg" style="width: auto; height: auto;"></a></center></td></tr>
