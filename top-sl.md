@@ -5,7 +5,7 @@ permalink: /top100-sl/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Belletristik (Erwachsene und Jugendliche)__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _13.04.2022, 16:07 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _14.04.2022, 17:09 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Freidank, Julia</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019218">Das Brauhaus an der Isar - Bd. 1 / Spiel des Schicksals</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019218"><img src="/images/mediacovers/x160/12019218.jpg" style="width: auto; height: auto;"></a></center></td></tr>
