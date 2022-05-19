@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _19.05.2022, 20:41 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _19.05.2022, 20:47 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Jonalu</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12015502">Jonalu-Hörspiel 3</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12015502"><img src="/images/mediacovers/x160/12015502.jpg" style="width: auto; height: auto;"></a></center></td></tr>
