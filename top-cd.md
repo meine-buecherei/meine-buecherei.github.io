@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _28.07.2022, 17:08 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _29.07.2022, 08:00 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Jonalu</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12015502">Jonalu-Hörspiel 3</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12015502"><img src="/images/mediacovers/x160/12015502.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -104,5 +104,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _28.07.2022, 17:08 Uh
 <tr><td width="70%"><strong>Platz 94</strong><br><br><em>Baltscheit, Martin</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10210004">Tonies: Die Geschichte vom Löwen, der nicht schreiben konnte</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10210004"><img src="/images/mediacovers/x160/10210004.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 95</strong><br><br><em>Parvela, Timo</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10210002">Tonies: Ella in der Schule</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10210002"><img src="/images/mediacovers/x160/10210002.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 96</strong><br><br><em>Renk, Ulrike / Derendorf, Klaus / van Doreen, Debby / Reimann, Anke / Wagner, Windy / Infiesta, Jose</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12015505">Filly - Butterfly, Die verlorene Post; Die Zauberblume</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12015505"><img src="/images/mediacovers/x160/12015505.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 97</strong><br><br><em>Maar, Paul</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10210001">Tonies: Das Sams - Eine Woche voller Samstage</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10210001"><img src="/images/mediacovers/x160/10210001.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
