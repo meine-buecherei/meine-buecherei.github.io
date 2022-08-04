@@ -5,7 +5,7 @@ permalink: /top100-dvd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __DVDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _02.08.2022, 19:26 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _04.08.2022, 20:44 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Hämmerle, Stefan / Link, Martin</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12022001">Am Fluß der Zeit</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12022001"><img src="/images/mediacovers/x160/keinbild.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -19,6 +19,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _02.08.2022, 19:26 Uh
 <tr><td width="70%"><strong>Platz 9</strong><br><br><em>Percival, Brian</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018255">Die Bücherdiebin</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018255"><img src="/images/mediacovers/x160/12018255.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 10</strong><br><br><em>Plisson, Pascal</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016738">Auf dem Weg zur Schule</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016738"><img src="/images/mediacovers/x160/12016738.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 11</strong><br><br><em>Tirard, Laurent</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016710">Der kleine Nick / Der kleine Nick macht Ferien - 2 Disc DVD</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016710"><img src="/images/mediacovers/x160/12016710.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 12</strong><br><br><em>Fischer Christensen, Pernille</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021035">Astrid</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021035"><img src="/images/mediacovers/x160/12021035.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 13</strong><br><br><em>Becker, Jean</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016704">Das Labyrinth der Wörter</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016704"><img src="/images/mediacovers/x160/12016704.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
