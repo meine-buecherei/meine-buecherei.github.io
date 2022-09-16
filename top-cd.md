@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _15.09.2022, 17:01 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _16.09.2022, 09:32 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Schneider, Liane</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12014508">Conni und das Kinderfest / Conni im Zirkus</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12014508"><img src="/images/mediacovers/x160/12014508.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -95,5 +95,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _15.09.2022, 17:01 Uh
 <tr><td width="70%"><strong>Platz 85</strong><br><br><em>Siegner, Ingo</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10210015">Tonies: Der kleine Drache Kokosnuss (3)</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10210015"><img src="/images/mediacovers/x160/10210015.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 86</strong><br><br><em>DieMaus</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10210014">Tonies: (M)auserlesene Lieder</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10210014"><img src="/images/mediacovers/x160/10210014.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 87</strong><br><br><em>Ullmann, Jan  / Blendin, Sarah</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10210006">Tonies: Heidi - Die Reise zum Großvater</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10210006"><img src="/images/mediacovers/x160/10210006.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 88</strong><br><br><em>DieMaus</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10210005">Tonies: Schlaf schön! Gute-Nacht-Geschichten & Lieder mit der Maus</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10210005"><img src="/images/mediacovers/x160/10210005.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
