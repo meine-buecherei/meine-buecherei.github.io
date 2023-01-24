@@ -5,7 +5,7 @@ permalink: /top100-dvd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __DVDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _13.01.2023, 09:42 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _24.01.2023, 19:29 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Hämmerle, Stefan / Link, Martin</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12022001">Am Fluß der Zeit</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12022001"><img src="/images/mediacovers/x160/keinbild.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -18,5 +18,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _13.01.2023, 09:42 Uh
 <tr><td width="70%"><strong>Platz 8</strong><br><br><em>Höfer,Petra / Röckenhaus, Freddie</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016739">Deutschland von oben</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016739"><img src="/images/mediacovers/x160/12016739.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 9</strong><br><br><em>Hamidi, Mohamed</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018229">Unterwegs mit Jaqueline</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018229"><img src="/images/mediacovers/x160/12018229.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 10</strong><br><br><em>Herbig, Michael Bully - Regisseur</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021287">Ballon</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021287"><img src="/images/mediacovers/x160/12021287.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 11</strong><br><br><em>Allgaier, Patrick und Weisser, Gwendolin</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020052">weit. Die Geschichte von einem Weg um die Welt</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020052"><img src="/images/mediacovers/x160/12020052.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
