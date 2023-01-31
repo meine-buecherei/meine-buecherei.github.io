@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _26.01.2023, 16:59 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _31.01.2023, 19:38 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Hohage, Kai / Blum, Anna / Rysopp, Beate</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021031">Einhorn Paradies - Magie der Freundschaft</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021031"><img src="/images/mediacovers/x160/12021031.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -85,5 +85,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _26.01.2023, 16:59 Uh
 <tr><td width="70%"><strong>Platz 75</strong><br><br><em>Boehme, Julia</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020072">Conni in der großen Stadt</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020072"><img src="/images/mediacovers/x160/12020072.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 76</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12014507">Bob der Baumeister: 40/Baggi,der Künstler</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12014507"><img src="/images/mediacovers/x160/12014507.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 77</strong><br><br><em>Preußler, Otfried</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12014502">Keine Angst vor Hotzenplotz - Folge 6</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12014502"><img src="/images/mediacovers/x160/12014502.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 78</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019345">Zoes Zauberschrank</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019345"><img src="/images/mediacovers/x160/12019345.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
