@@ -5,7 +5,7 @@ permalink: /top100-dvd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __DVDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _23.02.2023, 17:00 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _28.02.2023, 18:54 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Bauer, Matti</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016743">Still</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016743"><img src="/images/mediacovers/x160/12016743.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -17,5 +17,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _23.02.2023, 17:00 Uh
 <tr><td width="70%"><strong>Platz 7</strong><br><br><em>Allgäuer Zeitung</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019008">Das Allgäu von oben 3</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019008"><img src="/images/mediacovers/x160/12019008.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 8</strong><br><br><em>Höfer,Petra / Röckenhaus, Freddie</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016739">Deutschland von oben</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016739"><img src="/images/mediacovers/x160/12016739.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 9</strong><br><br><em>Hamidi, Mohamed</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018229">Unterwegs mit Jaqueline</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018229"><img src="/images/mediacovers/x160/12018229.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 10</strong><br><br><em>Herbig, Michael Bully - Regisseur</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021287">Ballon</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021287"><img src="/images/mediacovers/x160/12021287.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
