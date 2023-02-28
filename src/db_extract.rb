@@ -125,6 +125,7 @@ group_conditions.each do |key, props|
                          FROM HISTORY
                          INNER JOIN medien ON medien.mnummer = history.mnummer
                          WHERE (#{props[:sql]})
+                           AND NOWEBOPAC is null or NOWEBOPAC=0
                            AND history.adatum > DATEADD(year, -1, GETDATE())
                          GROUP by medien.MNUMMER, titel, autor, gruppe2, mcode, isbn
                          ORDER by beliebtheit desc, geliehen_am desc"
