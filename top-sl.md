@@ -5,7 +5,7 @@ permalink: /top100-sl/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Belletristik (Erwachsene und Jugendliche)__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _23.03.2023, 16:16 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _23.03.2023, 17:00 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Klüpfel, Volker / Kobr, Michael</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12022095">Affenhitze / Kluftinger Bd. 12</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12022095"><img src="/images/mediacovers/x160/12022095.jpg" style="width: auto; height: auto;"></a></center></td></tr>
