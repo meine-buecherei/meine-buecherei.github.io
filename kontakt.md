@@ -23,7 +23,7 @@ An **gesetzlichen Feiertagen** ist die Bücherei geschlossen. Falls die Büchere
 
 Die Regelungen zu Mitgliedschaft und Ausleihe finden Sie in unserer Benutzerordnung. Die Benutzerordnung und die dazugehörige Anlage zum Datenschutz können Sie hier als .pdf-Dokumente herunterladen:
 
-- [Benutzerordnung der Bücherei Westerheim](/Benutzerordnung-Buecherei-Westerheim.pdf)
+- [Benutzerordnung der Bücherei Westerheim](/Benutzerordnung-Buecherei-Westerheim_2023.pdf)
 - [Anlage Datenschutz zur Benutzerordnung](/Anlage-Datenschutz-fuer-die-Benutzungsordnung.pdf)
 
 Um Mitglied der Bücherei zu werden, füllen Sie bitte Vorder- und Rückseite der Benutzerordnung mit Ihren Daten aus und geben Sie den unteren Abschnitt in der Bücherei ab. Ausdrucke halten wir auch in der Bücherei bereit.
