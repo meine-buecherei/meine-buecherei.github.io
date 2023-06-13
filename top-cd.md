@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _06.06.2023, 19:23 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _13.06.2023, 19:23 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Hohage, Kai / Blum, Anna / Rysopp, Beate</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021031">Einhorn Paradies - Magie der Freundschaft</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021031"><img src="/images/mediacovers/x160/12021031.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -62,5 +62,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _06.06.2023, 19:23 Uh
 <tr><td width="70%"><strong>Platz 52</strong><br><br><em>Schneider, Liane</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503">Conni bekommt Taschengeld / Conni verkleidet sich</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503"><img src="/images/mediacovers/x160/12016503.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 53</strong><br><br><em>Szesny, Susanne / Prusse, Daniela</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12017510">Heute, morgen, jetzt und gleich</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12017510"><img src="/images/mediacovers/x160/12017510.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 54</strong><br><br><em>Stronk, Cally / Herzberg, Steffen</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12014512">Die Riesenspur / Giraffenaffen Bd.4</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12014512"><img src="/images/mediacovers/x160/12014512.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 55</strong><br><br><em>Munck, Hedwig</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12014501">Ganz natürlich! / Der kleine König Bd.31</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12014501"><img src="/images/mediacovers/x160/12014501.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
