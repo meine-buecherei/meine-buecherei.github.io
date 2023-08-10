@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _08.08.2023, 19:29 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _10.08.2023, 09:51 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Disney</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019001">Die Eiskönigin - Zauber der Polarlichter</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019001"><img src="/images/mediacovers/x160/12019001.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -65,5 +65,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _08.08.2023, 19:29 Uh
 <tr><td width="70%"><strong>Platz 55</strong><br><br><em>Sarholz, Margit / Meier, Werner</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016505">Taxi-Maxi</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016505"><img src="/images/mediacovers/x160/12016505.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 56</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12013513">Thomas & Seine Freunde  06/Nützliche Lokomotiven</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12013513"><img src="/images/mediacovers/x160/12013513.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 57</strong><br><br><em>Schneider, Liane</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503">Conni bekommt Taschengeld / Conni verkleidet sich</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503"><img src="/images/mediacovers/x160/12016503.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 58</strong><br><br><em>Szesny, Susanne / Prusse, Daniela</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12017510">Heute, morgen, jetzt und gleich</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12017510"><img src="/images/mediacovers/x160/12017510.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
