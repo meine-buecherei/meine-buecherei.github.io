@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _07.09.2023, 17:19 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _07.09.2023, 17:39 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Gifford, Clive / Hoffmann, Andreas</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016079">Fußball total</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016079"><img src="/images/mediacovers/x160/12016079.jpg" style="width: auto; height: auto;"></a></center></td></tr>
