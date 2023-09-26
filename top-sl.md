@@ -5,7 +5,7 @@ permalink: /top100-sl/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Belletristik (Erwachsene und Jugendliche)__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _22.09.2023, 10:35 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _26.09.2023, 09:24 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Riley, Lucinda</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12023090">Atlas - Die Geschichte von Pa Salt</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12023090"><img src="/images/mediacovers/x160/12023090.jpg" style="width: auto; height: auto;"></a></center></td></tr>
