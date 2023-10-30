@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _26.10.2023, 17:04 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _30.10.2023, 20:47 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016512">h2O - Plötzlich Meerjungfrau, Folge 37 - Schatzsuche + 38: Fischfieber</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016512"><img src="/images/mediacovers/x160/12016512.jpg" style="width: auto; height: auto;"></a></center></td></tr>
