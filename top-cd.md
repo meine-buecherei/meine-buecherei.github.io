@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _07.11.2023, 19:35 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _08.11.2023, 16:13 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016512">h2O - Plötzlich Meerjungfrau, Folge 37 - Schatzsuche + 38: Fischfieber</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016512"><img src="/images/mediacovers/x160/12016512.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -65,5 +65,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _07.11.2023, 19:35 Uh
 <tr><td width="70%"><strong>Platz 55</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016514">Lauras Weihnachtsstern - Das Original-Hörspiel zum Film</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016514"><img src="/images/mediacovers/x160/12016514.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 56</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020307">Conni im Advent</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020307"><img src="/images/mediacovers/x160/12020307.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 57</strong><br><br><em>Griffin, Anne / Becker, Martin Ruben / Kuhnert, Reinhard</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021087">Reinhard Kuhnert liest Anne Griffin, Ein Leben und eine Nacht</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021087"><img src="/images/mediacovers/x160/12021087.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 58</strong><br><br><em>Camilleri, Andrea / Wolf, Bodo / Seuß, Rita / Kögler, Walter</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021080">Bodo Wolf liest Andrea Camilleri, Eine Stimme in der Nacht</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021080"><img src="/images/mediacovers/x160/12021080.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
