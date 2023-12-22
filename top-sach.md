@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _22.12.2023, 09:24 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _22.12.2023, 09:30 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Die Allgäuerin</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019085">So backt die Allgäuerin</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019085"><img src="/images/mediacovers/x160/12019085.jpg" style="width: auto; height: auto;"></a></center></td></tr>
