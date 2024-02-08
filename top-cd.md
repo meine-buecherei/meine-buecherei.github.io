@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _05.02.2024, 12:00 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _08.02.2024, 17:02 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>FC Bayern</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12022256">Team Campus - Die Wette / Das letzte Spiel - Folge 1 und 2</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12022256"><img src="/images/mediacovers/x160/keinbild.jpg" style="width: auto; height: auto;"></a></center></td></tr>

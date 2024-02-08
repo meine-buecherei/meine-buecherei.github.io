@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _05.02.2024, 12:00 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _08.02.2024, 17:02 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Liebscher-Bracht, Roland</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12023001">Schmerzfrei und beweglich bis ins hohe Alter</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12023001"><img src="/images/mediacovers/x160/12023001.jpg" style="width: auto; height: auto;"></a></center></td></tr>
