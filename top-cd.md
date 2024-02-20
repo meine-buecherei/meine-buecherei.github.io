@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _15.02.2024, 20:29 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _20.02.2024, 19:27 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>FC Bayern</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12022256">Team Campus - Die Wette / Das letzte Spiel - Folge 1 und 2</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12022256"><img src="/images/mediacovers/x160/keinbild.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -73,5 +73,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _15.02.2024, 20:29 Uh
 <tr><td width="70%"><strong>Platz 63</strong><br><br><em>Mallery, Susan / Karas, Milena / Senn, Ivonne</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021084">Milena Karas liest Susan Mallery, Mein Herz sucht Liebe</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021084"><img src="/images/mediacovers/x160/12021084.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 64</strong><br><br><em>Lindgren, Astrid</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016502">Der Tag, an dem Michel besonders nett sein wollte</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016502"><img src="/images/mediacovers/x160/12016502.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 65</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12013514">Schnuffel und Schnuffelienchen 03/die Kleinen Purzelsterne</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12013514"><img src="/images/mediacovers/x160/12013514.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 66</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12014507">Bob der Baumeister: 40/Baggi,der Künstler</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12014507"><img src="/images/mediacovers/x160/12014507.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
