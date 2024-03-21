@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _19.03.2024, 19:28 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _21.03.2024, 17:46 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Hohage, Kai / Blum, Anna / Rysopp, Beate</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021031">Einhorn Paradies - Magie der Freundschaft</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021031"><img src="/images/mediacovers/x160/12021031.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -72,5 +72,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _19.03.2024, 19:28 Uh
 <tr><td width="70%"><strong>Platz 62</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12013515">Die Oktonauten und der Walhai</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12013515"><img src="/images/mediacovers/x160/12013515.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 63</strong><br><br><em>Arnold, Elana K / Rudolph, Sebastian / Hachmeister, Sylke</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12022250">Keine Angst vor Stinktieren</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12022250"><img src="/images/mediacovers/x160/12022250.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 64</strong><br><br><em>Friester, Paul / Udo Weigelt, Udo / Fackelmeyer, Regina</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12013501">Heule-Eule</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12013501"><img src="/images/mediacovers/x160/12013501.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 65</strong><br><br><em>Mallery, Susan / Karas, Milena / Senn, Ivonne</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021084">Milena Karas liest Susan Mallery, Mein Herz sucht Liebe</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021084"><img src="/images/mediacovers/x160/12021084.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
