@@ -5,7 +5,7 @@ permalink: /top100-dvd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __DVDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _09.04.2024, 19:28 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _11.04.2024, 15:33 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Mention-Schaar, Marie-Castille</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12023238">Die Schüler der Madame Anne</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12023238"><img src="/images/mediacovers/x160/keinbild.jpg" style="width: auto; height: auto;"></a></center></td></tr>
