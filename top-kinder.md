@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _14.05.2024, 19:31 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _14.05.2024, 19:37 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Kling, Marc-Uwe</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12023161">Der Tag, an dem der Opa den Wasserkocher auf den Herd gestellt hat</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12023161"><img src="/images/mediacovers/x160/12023161.jpg" style="width: auto; height: auto;"></a></center></td></tr>
