@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _10.05.2024, 10:14 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _14.05.2024, 19:31 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>McKee, David</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10230020">Tonies: Elmar – Kunterbunte Geschichten</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10230020"><img src="/images/mediacovers/x160/10230020.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -66,6 +66,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _10.05.2024, 10:14 Uh
 <tr><td width="70%"><strong>Platz 56</strong><br><br><em>Tielmann, Christian</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12015506">Max im Krankenhaus/Max und der Läusealarm</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12015506"><img src="/images/mediacovers/x160/12015506.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 57</strong><br><br><em>Sarholz, Margit / Meier, Werner</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016506">Die Brezn-Beisser-Bande</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016506"><img src="/images/mediacovers/x160/12016506.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 58</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019345">Zoes Zauberschrank</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019345"><img src="/images/mediacovers/x160/12019345.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 59</strong><br><br><em>Luhn, Usch</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12022251">Nele und der Neue in der Klasse</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12022251"><img src="/images/mediacovers/x160/12022251.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 60</strong><br><br><em>Blyton, Enid</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021033">Hanni und Nanni auf dem Reiterhof</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021033"><img src="/images/mediacovers/x160/12021033.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
