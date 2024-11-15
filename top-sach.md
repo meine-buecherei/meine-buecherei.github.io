@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _13.11.2024, 10:40 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _15.11.2024, 09:35 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Prolic, Christiane Emma</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021108">Emmi kocht einfach</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021108"><img src="/images/mediacovers/x160/12021108.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -107,5 +107,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _13.11.2024, 10:40 Uh
 <tr><td width="70%"><strong>Platz 97</strong><br><br><em>Pantley, Elizabeth</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12015205">Ab ins Bett</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12015205"><img src="/images/mediacovers/x160/12015205.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 98</strong><br><br><em>Heß, Kerstin / Mahn, Christian / Menze, Ute</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12014224">Papierideen zur Weihnachtszeit</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12014224"><img src="/images/mediacovers/x160/12014224.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 99</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12006014">Plätzchen</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12006014"><img src="/images/mediacovers/x160/12006014.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 100</strong><br><br><em>Aust, Johanna</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019309">Die besten Weihnachtskekse</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019309"><img src="/images/mediacovers/x160/12019309.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
