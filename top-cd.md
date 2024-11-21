@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _19.11.2024, 19:26 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _21.11.2024, 16:18 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Hohage, Kai / Blum, Anna / Rysopp, Beate</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021031">Einhorn Paradies - Magie der Freundschaft</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021031"><img src="/images/mediacovers/x160/12021031.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -39,5 +39,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _19.11.2024, 19:26 Uh
 <tr><td width="70%"><strong>Platz 29</strong><br><br><em>Nordqvist, Sven</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016515">Pettersson und Findus - Morgen, Findus, wird's was geben!</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016515"><img src="/images/mediacovers/x160/12016515.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 30</strong><br><br><em>Knister</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12013505">Hexe Lilli und der Vampir mit dem Wackelzahn / Hexe Lilli Bd.3</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12013505"><img src="/images/mediacovers/x160/12013505.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 31</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020307">Conni im Advent</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020307"><img src="/images/mediacovers/x160/12020307.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 32</strong><br><br><em>Holt, Anne</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12017505">Ein Mops mit Namen Möhrchen / Zwei kunterbunte Freundinnen Bd.2 (Audio-CD)</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12017505"><img src="/images/mediacovers/x160/12017505.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
