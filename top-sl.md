@@ -5,7 +5,7 @@ permalink: /top100-sl/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Belletristik (Erwachsene und Jugendliche)__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _30.01.2025, 16:48 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _30.01.2025, 17:03 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Moyes, Jojo</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024157">Das Haus der Wiederkehr</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024157"><img src="/images/mediacovers/x160/12024157.jpg" style="width: auto; height: auto;"></a></center></td></tr>
