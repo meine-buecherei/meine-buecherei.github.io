@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _31.01.2025, 09:52 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _03.02.2025, 15:03 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Fritzsche, Doris</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024066">Gesundmacher Hafer</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024066"><img src="/images/mediacovers/x160/12024066.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -103,6 +103,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _31.01.2025, 09:52 Uh
 <tr><td width="70%"><strong>Platz 93</strong><br><br><em>Schultz, Julia E</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12023183">In Ringelsocken aufs Dach der Welt</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12023183"><img src="/images/mediacovers/x160/12023183.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 94</strong><br><br><em>Höfl-Riesch, Maria</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016194">Geradeaus</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016194"><img src="/images/mediacovers/x160/12016194.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 95</strong><br><br><em>Enxing, Julia</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024036">Und Gott sah, dass es schlecht war</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024036"><img src="/images/mediacovers/x160/12024036.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 96</strong><br><br><em>Liebscher-Bracht, Roland</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12023001">Schmerzfrei und beweglich bis ins hohe Alter</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12023001"><img src="/images/mediacovers/x160/12023001.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 97</strong><br><br><em>Reiche, René / Wilberg, Bettina / Böhler, Irmgard</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12007074">Kinder fantasievoll schminken</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12007074"><img src="/images/mediacovers/x160/12007074.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
