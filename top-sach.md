@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _25.02.2025, 19:34 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _27.02.2025, 16:52 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Fritzsche, Doris</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024066">Gesundmacher Hafer</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024066"><img src="/images/mediacovers/x160/12024066.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -107,5 +107,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _25.02.2025, 19:34 Uh
 <tr><td width="70%"><strong>Platz 97</strong><br><br><em>Rubin, Franziska</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020286">Heilen mit Lebensmitteln</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020286"><img src="/images/mediacovers/x160/12020286.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 98</strong><br><br><em>Schlaich, Jasmin</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12017063">Süßes mit Kuss</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12017063"><img src="/images/mediacovers/x160/12017063.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 99</strong><br><br><em>Gruber, Monika</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021090">Und erlöse uns von den Blöden</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021090"><img src="/images/mediacovers/x160/12021090.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 100</strong><br><br><em>Langhammer, Lisa</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024021">Käsekuchen-Glück</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024021"><img src="/images/mediacovers/x160/12024021.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>

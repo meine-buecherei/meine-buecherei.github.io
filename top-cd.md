@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _25.02.2025, 19:34 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _27.02.2025, 16:52 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Billerbeck, Ludger / Frass, Wolf / Billerbeck, Ludger / Billerbeck, Ludger</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021032">Conni geht zum Kinderturnen</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021032"><img src="/images/mediacovers/x160/12021032.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -37,5 +37,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _25.02.2025, 19:34 Uh
 <tr><td width="70%"><strong>Platz 27</strong><br><br><em>Bekannt aus Unser Sandmännchen</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021029">Jan & Henry</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021029"><img src="/images/mediacovers/x160/12021029.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 28</strong><br><br><em>Melle, Siegfried</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12015501">Ich weiss was: Albert E. erklärt den Zoo</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12015501"><img src="/images/mediacovers/x160/12015501.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 29</strong><br><br><em>Illert, Ursula / Reider, Katja / Richert, Katja / Wissmann, Maria / Hedlund, Liane / Poppe, Kay</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021030">Die kleine Schnullerfee und andere Geschichten</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021030"><img src="/images/mediacovers/x160/12021030.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 30</strong><br><br><em>Lindgren, Astrid</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020071">Lotta aus der Krachmacherstraße</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020071"><img src="/images/mediacovers/x160/12020071.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
