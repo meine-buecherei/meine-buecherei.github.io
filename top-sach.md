@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _11.03.2025, 19:42 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _13.03.2025, 11:50 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Fritzsche, Doris</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024066">Gesundmacher Hafer</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024066"><img src="/images/mediacovers/x160/12024066.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -107,5 +107,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _11.03.2025, 19:42 Uh
 <tr><td width="70%"><strong>Platz 97</strong><br><br><em>Hiekmann, Stefanie</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12022063">50 x Italien vom Blech</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12022063"><img src="/images/mediacovers/x160/12022063.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 98</strong><br><br><em>Schiller, Marlies</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016062">Tolle neue Bastelideen für Ostern</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016062"><img src="/images/mediacovers/x160/12016062.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 99</strong><br><br><em>Brierley, Saroo / Buttrose, Larry / Windgassen, Michael</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12017083">Lion - der lange Weg nach Hause</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12017083"><img src="/images/mediacovers/x160/12017083.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 100</strong><br><br><em>Rubin, Franziska</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020286">Heilen mit Lebensmitteln</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020286"><img src="/images/mediacovers/x160/12020286.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
