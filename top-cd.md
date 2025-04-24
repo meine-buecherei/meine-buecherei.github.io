@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _15.04.2025, 19:32 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _24.04.2025, 08:15 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Tielmann, Christian</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12015506">Max im Krankenhaus/Max und der Läusealarm</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12015506"><img src="/images/mediacovers/x160/12015506.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -53,5 +53,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _15.04.2025, 19:32 Uh
 <tr><td width="70%"><strong>Platz 43</strong><br><br><em>Lindgren, Astrid</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016502">Der Tag, an dem Michel besonders nett sein wollte</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016502"><img src="/images/mediacovers/x160/12016502.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 44</strong><br><br><em>Karallus, Thomas</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12015551">Ringelgasse 19, Folge 1: Als Willi ein Held war... Und andere Geschichten</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12015551"><img src="/images/mediacovers/x160/12015551.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 45</strong><br><br><em>Melle, Siegfried</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12015501">Ich weiss was: Albert E. erklärt den Zoo</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12015501"><img src="/images/mediacovers/x160/12015501.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 46</strong><br><br><em>Illert, Ursula / Reider, Katja / Richert, Katja / Wissmann, Maria / Hedlund, Liane / Poppe, Kay</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021030">Die kleine Schnullerfee und andere Geschichten</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021030"><img src="/images/mediacovers/x160/12021030.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
