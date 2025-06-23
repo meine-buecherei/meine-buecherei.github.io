@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _17.06.2025, 19:28 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _23.06.2025, 15:37 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Ritter, Marie Luise</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024320">Von der Kunst, das Leben leicht zu nehmen</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024320"><img src="/images/mediacovers/x160/12024320.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -102,6 +102,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _17.06.2025, 19:28 Uh
 <tr><td width="70%"><strong>Platz 92</strong><br><br><em>Rackete, Carola</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021260">Handeln statt hoffen</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021260"><img src="/images/mediacovers/x160/12021260.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 93</strong><br><br><em>Ware, Bronnie / Kuhn, Wibke</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12013337">5 Dinge, die Sterbende am meisten bereuen</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12013337"><img src="/images/mediacovers/x160/12013337.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 94</strong><br><br><em>Gleeson, Erin</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024119">Ein Fest im Grünen - Sommerküche</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024119"><img src="/images/mediacovers/x160/12024119.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 95</strong><br><br><em>Steinbigler Dr. med., Peter</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021038">XUNDHEIT ist das Wichtigste</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021038"><img src="/images/mediacovers/x160/12021038.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 96</strong><br><br><em>Pfeiffer, Beate (Redaktion)</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12003015">Pasta</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12003015"><img src="/images/mediacovers/x160/12003015.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
