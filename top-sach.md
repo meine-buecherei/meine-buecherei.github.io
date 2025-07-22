@@ -5,7 +5,7 @@ permalink: /top100-sach/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Sachbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _17.07.2025, 17:01 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _22.07.2025, 09:16 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Ritter, Marie Luise</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024320">Von der Kunst, das Leben leicht zu nehmen</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024320"><img src="/images/mediacovers/x160/12024320.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -107,5 +107,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _17.07.2025, 17:01 Uh
 <tr><td width="70%"><strong>Platz 97</strong><br><br><em>Kettl-Römer, Barbara</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019191">Allgäu mit Kindern</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019191"><img src="/images/mediacovers/x160/12019191.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 98</strong><br><br><em>Aschenbrenner, Eva</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12009014">Der Wildkräutergang mit Eva Aschenbrenner durch's Jahr</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12009014"><img src="/images/mediacovers/x160/12009014.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 99</strong><br><br><em>Schießler, Rainer M</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016193">Himmel, Herrgott, Sakrament</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016193"><img src="/images/mediacovers/x160/12016193.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 100</strong><br><br><em>Mikosch, Claus</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019256">Der kleine Garten am Meer</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019256"><img src="/images/mediacovers/x160/12019256.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
