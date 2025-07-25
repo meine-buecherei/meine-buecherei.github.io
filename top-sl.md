@@ -5,7 +5,7 @@ permalink: /top100-sl/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Belletristik (Erwachsene und Jugendliche)__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _24.07.2025, 17:13 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _25.07.2025, 10:52 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Wahl, Caroline</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024017">22 Bahnen</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024017"><img src="/images/mediacovers/x160/12024017.jpg" style="width: auto; height: auto;"></a></center></td></tr>
