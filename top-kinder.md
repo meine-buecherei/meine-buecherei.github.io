@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _27.07.2025, 11:11 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _28.07.2025, 16:03 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Ambach, Jule</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024249">Bücherhelden - Die drei !!! - Geisterspuk und Elfenzauber</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024249"><img src="/images/mediacovers/x160/12024249.jpg" style="width: auto; height: auto;"></a></center></td></tr>
