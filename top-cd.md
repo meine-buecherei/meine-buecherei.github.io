@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _28.07.2025, 16:03 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _05.08.2025, 19:24 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Schneider, Liane</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503">Conni bekommt Taschengeld / Conni verkleidet sich</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503"><img src="/images/mediacovers/x160/12016503.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -56,6 +56,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _28.07.2025, 16:03 Uh
 <tr><td width="70%"><strong>Platz 46</strong><br><br><em>CD</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020127">Die wilden Waldhelden.</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020127"><img src="/images/mediacovers/x160/12020127.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 47</strong><br><br><em>Borgermans, Miriam</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019064">Annabelleke</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019064"><img src="/images/mediacovers/x160/12019064.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 48</strong><br><br><em>Lindgren, Astrid</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016502">Der Tag, an dem Michel besonders nett sein wollte</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016502"><img src="/images/mediacovers/x160/12016502.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 49</strong><br><br><em>Preußler, Otfried</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12017507">Das kleine Gespenst - Tohuwabohu auf Burg Eulenstein</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12017507"><img src="/images/mediacovers/x160/12017507.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 50</strong><br><br><em>Karallus, Thomas</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12015551">Ringelgasse 19, Folge 1: Als Willi ein Held war... Und andere Geschichten</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12015551"><img src="/images/mediacovers/x160/12015551.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
