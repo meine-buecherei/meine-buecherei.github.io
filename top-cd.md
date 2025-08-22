@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _21.08.2025, 23:38 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _22.08.2025, 14:28 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Schneider, Liane</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503">Conni bekommt Taschengeld / Conni verkleidet sich</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503"><img src="/images/mediacovers/x160/12016503.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -53,7 +53,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _21.08.2025, 23:38 Uh
 <tr><td width="70%"><strong>Platz 43</strong><br><br><em>Blyton, Enid</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021033">Hanni und Nanni auf dem Reiterhof</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021033"><img src="/images/mediacovers/x160/12021033.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 44</strong><br><br><em>Spyri, Johanna</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12015507">Heidi - Die Reise zum Großvater</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12015507"><img src="/images/mediacovers/x160/12015507.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 45</strong><br><br><em>Grönemeyer, Dietrich / Gawlich, Cathlen / Kaminski, Stefan</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016509">Der kleine Medicus</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016509"><img src="/images/mediacovers/x160/12016509.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 46</strong><br><br><em>CD</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020127">Die wilden Waldhelden.</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020127"><img src="/images/mediacovers/x160/12020127.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 47</strong><br><br><em>Borgermans, Miriam</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019064">Annabelleke</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019064"><img src="/images/mediacovers/x160/12019064.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 48</strong><br><br><em>Lindgren, Astrid</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016502">Der Tag, an dem Michel besonders nett sein wollte</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016502"><img src="/images/mediacovers/x160/12016502.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
