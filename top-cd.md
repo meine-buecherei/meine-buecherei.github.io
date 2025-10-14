@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _09.10.2025, 19:25 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _14.10.2025, 14:17 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Schneider, Liane</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503">Conni bekommt Taschengeld / Conni verkleidet sich</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503"><img src="/images/mediacovers/x160/12016503.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -52,5 +52,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _09.10.2025, 19:25 Uh
 <tr><td width="70%"><strong>Platz 42</strong><br><br><em></em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020307">Conni im Advent</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020307"><img src="/images/mediacovers/x160/12020307.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 43</strong><br><br><em>Riese, Lena de / Chapman, Linda / Steck, Johannes</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018083">Saphiras großer Tag</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018083"><img src="/images/mediacovers/x160/12018083.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 44</strong><br><br><em>Blyton, Enid</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021033">Hanni und Nanni auf dem Reiterhof</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021033"><img src="/images/mediacovers/x160/12021033.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 45</strong><br><br><em>Spyri, Johanna</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12015507">Heidi - Die Reise zum Großvater</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12015507"><img src="/images/mediacovers/x160/12015507.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
