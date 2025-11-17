@@ -5,7 +5,7 @@ permalink: /top100-dvd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __DVDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _13.11.2025, 17:05 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _17.11.2025, 11:05 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 </table>
