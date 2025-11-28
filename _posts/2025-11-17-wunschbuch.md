@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meine Bücherei - mein Wunschbuch!'
-categories: Termine
+categories: Aktionen
 author: "burkhard"
 published: yes
 date: 2025-11-17
