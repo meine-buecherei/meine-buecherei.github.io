@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _11.12.2025, 15:59 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _11.12.2025, 16:49 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Kling, Marc-Uwe</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024004">Das Klugscheisserchen</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024004"><img src="/images/mediacovers/x160/12024004.jpg" style="width: auto; height: auto;"></a></center></td></tr>
