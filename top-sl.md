@@ -5,7 +5,7 @@ permalink: /top100-sl/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Belletristik (Erwachsene und Jugendliche)__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _19.12.2025, 10:07 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _19.12.2025, 10:11 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Jacobs, Anne</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024314">Was das Leben verspricht - Der Dorfladen Bd. 2</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024314"><img src="/images/mediacovers/x160/12024314.jpg" style="width: auto; height: auto;"></a></center></td></tr>
