@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _18.12.2025, 17:02 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _19.12.2025, 10:07 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Billerbeck, Ludger / Frass, Wolf / Billerbeck, Ludger / Billerbeck, Ludger</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021032">Conni geht zum Kinderturnen</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021032"><img src="/images/mediacovers/x160/12021032.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -52,6 +52,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _18.12.2025, 17:02 Uh
 <tr><td width="70%"><strong>Platz 42</strong><br><br><em>Hohage, Kai / Blum, Anna / Rysopp, Beate</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021031">Einhorn Paradies - Magie der Freundschaft</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021031"><img src="/images/mediacovers/x160/12021031.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 43</strong><br><br><em>Super Wings</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12018195">Super Wings - Schnelllaufschuhe, 1 Audio-CD</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12018195"><img src="/images/mediacovers/x160/12018195.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 44</strong><br><br><em>Jonsson, Runer</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016513">Wickie und die starken Männer / Die Falle</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016513"><img src="/images/mediacovers/x160/12016513.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 45</strong><br><br><em>Moost, Nele; Rudolph, Annet</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020325">Weihnachtsgeschichten vom kleinen Raben Socke</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020325"><img src="/images/mediacovers/x160/12020325.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 46</strong><br><br><em>Schneider, Liane / Frass, Wolf / Ketzer, Laura / Fenner, Barbara / Herwald, Hans-Joachim / Warnecke, Thorsten</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12019331">Conni feiert Weihnachten</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12019331"><img src="/images/mediacovers/x160/12019331.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
