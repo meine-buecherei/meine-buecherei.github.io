@@ -4,5 +4,5 @@
 @cd ..
 git pull
 call bundle install
-call bundle exec jekyll serve --watch --trace
+call bundle exec jekyll serve --watch
 pause
