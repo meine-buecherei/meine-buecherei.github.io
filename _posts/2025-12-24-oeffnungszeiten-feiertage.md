@@ -3,7 +3,7 @@ layout: post
 title: 'Büchereiferien: 24.12. - 06.01.'
 categories: Termine
 author: "burkhard"
-published: yes
+published: no
 ---
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/Termine/Weihnachtsferien_klein.jpg" 
