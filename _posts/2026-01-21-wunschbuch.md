@@ -16,7 +16,7 @@ und abholbereit.
       title="Die ersten Wunschbücher sind abholbereit" %}
 Kommt vorbei - wir freuen uns, eure Wünsche zu erfüllen! Alle anderen Mitglieder können sich gerne
 weiterhin das Wunschbuch-Formular bei uns abholen (oder [hier runterladen](/Wunschbuch-Aktion.pdf)
-und ausdrucken) und einen Wunschbuch "bestellen". 
+und ausdrucken) und ein Wunschbuch "bestellen". 
 
 Bis ca. Mitte Februar findet ihr uns auf jeden Fall noch im Schulweg 3. Unsere Öffnungszeiten sind wie gehabt: dienstags von 18.30 bis 19.30 Uhr und donnerstags von 15.30 bis 17 Uhr.
 
