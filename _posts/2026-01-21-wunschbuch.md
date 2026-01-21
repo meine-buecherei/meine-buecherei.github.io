@@ -6,7 +6,7 @@ author: "burkhard"
 published: yes
 ---
 Im Rahmen unserer [Wunschbuchaktion](/aktionen/2025/11/17/wunschbuch.html) haben wir von Euch schon zahlreiche
-Buchwünsche erhalten. Wie versprochen, erhält jedes Mitglied, das an dieser Aktionen teilgenommen
+Buchwünsche erhalten. Wie versprochen, erhält jedes Mitglied, das an dieser Aktion teilgenommen
 hat (bzw. noch später teilnehmen wird), "sein" Buch als erster reserviert und ausgeliehen.
 Diese Bücher sind nun **ab Donnerstag, 22.01.26** ausleihfertig
 und abholbereit. 
