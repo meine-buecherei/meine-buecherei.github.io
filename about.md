@@ -34,8 +34,8 @@ Die Bücherei befand sich nach der Gründung zunächst im Alten Pfarrhof.
 Klassenzimmer im ersten Stock des Gebäudes.
 
 2025 wurde der lange leer stehende "Alte Pfarrhof" aufwendig saniert und wird seitdem von der Gemeinde genutzt.
-Die Bücherei befindet sich seit März 2026 im ersten Stock des Gebäudes und hat nach diesem letzten Umzug erstmals
-einen barrierefreien Zugang über den Aufzug.
+Die Bücherei befindet sich seit März 2026 im ersten Stock des Gebäudes und hat nach diesem letzten Umzug 
+erstmals einen barrierefreien Zugang (über den Aufzug des Gebäudes) sowie bessere Räumlichkeiten.
 
 
 {% include lightcase.html group="bilder-dieser-seite"
