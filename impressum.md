@@ -11,7 +11,7 @@ Diese Webseite wird betrieben von den ehrenamtlichen Mitarbeitern der Bücherei 
 Die folgenden Angaben entsprechen den Vorgaben von § 5 TMG:
 
 Bücherei Westerheim\\
-Schulweg 3\\
+Hauptstraße 39\\
 87784 Westerheim
 
 # Kontakt/Webmaster

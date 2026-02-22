@@ -30,14 +30,18 @@ Um Mitglied der Bücherei zu werden, füllen Sie bitte Vorder- und Rückseite de
 
 # Adresse der Bücherei
 
-Sie finden uns am:
+Sie finden uns in der:
 
-Schulweg 3\\
+Hauptstraße 39\\
 87784 Westerheim
 
-Der Schulweg ist eine Seitenstraße der Hauptstraße, gegenüber der Kirche Mariä Himmelfahrt.
+Die Bücherei befindet sich im ersten Stock des Gemeindegebäudes (auch bekannt als "Alter Pfarrhof"). 
+Bitte benutzen Sie den von der Hauptstraße aus gesehen links gelegenen Eingang des Gebäudes (der rechte Eingang ist der Zugang zu den Räumen der Gemeindeverwaltung). Eine Treppe führt direkt vom Eingang aus direkt zur Bücherei.
+Ein Aufzug für den barrierefreien Zugang ist ebenfalls vorhanden. Bewegen Sie sich vom Hauseingang aus an der Treppe
+vorbei geradeaus. Der Aufzug befindet sich auf der linken Seite am Ende des Ganges, vor der Glastür, hinter der
+die Räume der Gemeindeverwaltung liegen.
 
-<a href="https://www.openstreetmap.org/?mlat=48.01687&mlon=10.30149#map=17/48.01687/10.30149"><img src="/images/karte.png" width="300px"></a>
+<a href="https://www.openstreetmap.org/?mlat=48.017526&mlon=10.302322#map=17/48.017526/10.302322"><img src="/images/karte.png"></a>
 
 Karte © OpenStreetMap-Mitwirkende 
 
