@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _19.03.2026, 16:56 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _24.03.2026, 19:31 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Bonsels, Waldemar</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12013511">Die Biene Maja-Hörspiel 2</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12013511"><img src="/images/mediacovers/x160/12013511.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -46,5 +46,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _19.03.2026, 16:56 Uh
 <tr><td width="70%"><strong>Platz 36</strong><br><br><em>Langreuter, Jutta</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12014517">Käpt'n Sharky und das Seeungeheuer</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12014517"><img src="/images/mediacovers/x160/12014517.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 37</strong><br><br><em>Bond, Michael</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10250006">Tonies: Geschichten von Paddington</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10250006"><img src="/images/mediacovers/x160/10250006.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 38</strong><br><br><em>Preußler, Otfried</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10250008">Tonies: Der Räuber Hotzenplotz; Schluss mit der Räuberei</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10250008"><img src="/images/mediacovers/x160/10250008.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 39</strong><br><br><em>Maar, Paul / Arnold, Monty / Moll, Anne / Gustavus, Frank</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12017501">Ein Taucheranzug für das Sams und eine weitere Geschichte</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12017501"><img src="/images/mediacovers/x160/12017501.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
