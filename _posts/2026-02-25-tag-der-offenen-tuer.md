@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tag der offenen Tür'
+title: 'Einladung zum Tag der offenen Tür'
 categories: Termine
 author: "Micha"
 published: yes
