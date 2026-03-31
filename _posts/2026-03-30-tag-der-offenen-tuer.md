@@ -9,7 +9,7 @@ published: yes
 {% include lightcase.html group="bilder-dieser-seite"
       src="/images/2026-03-30-tag-der-offenen-tuer/gratulanten.jpeg" 
       big="/images/2026-03-30-tag-der-offenen-tuer/gratulanten.jpeg" 
-      title="Förderer und Träger feiern unseren Umzug" %}
+      title="Im Bild: Büchereileiterin Michaela Bail, Bürgermeisterin Christa Bail, Kirchenpfleger Heinrich Müller, Pfarrer Ralf Czech und Dr. Claudia Pecher vom Michaelsbund" %}
 
 Dem Einzug in die neuen Räume war viel Teamarbeit vorausgegangen. Rund 4000 Medien mussten von der alten Schule treppab und gegenüber im Pfarrhof mit dem Aufzug wieder hoch bewegt werden. „Wir als Büchereiteam freuen uns sehr, dass uns die Gemeinde Westerheim diesen Umzug ermöglicht und eine neue Einrichtung finanziert hat“, so Büchereileiterin Michaela Bail bei der Eröffnung. Dankbar sei sie auch für den Zuschuss der örtlichen Kirchenstiftung und die staatliche Finanzspritze. 
 
