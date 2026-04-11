@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _08.04.2026, 09:24 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _11.04.2026, 15:48 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Bonsels, Waldemar</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12013511">Die Biene Maja-Hörspiel 2</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12013511"><img src="/images/mediacovers/x160/12013511.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -39,6 +39,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _08.04.2026, 09:24 Uh
 <tr><td width="70%"><strong>Platz 29</strong><br><br><em>Bekannt aus Unser Sandmännchen</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021029">Jan & Henry</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021029"><img src="/images/mediacovers/x160/12021029.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 30</strong><br><br><em>Preußler, Otfried</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10250009">Tonies: Neues vom Räuber Hotzenplotz</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10250009"><img src="/images/mediacovers/x160/10250009.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 31</strong><br><br><em>Schmachtl, Andreas</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10250005">Tonies: Tilda Apfelkern: Das geheime Kuchenrezept</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10250005"><img src="/images/mediacovers/x160/10250005.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 32</strong><br><br><em>Baumgart, Klaus</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10250017">Tonies: Lauras Stern</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10250017"><img src="/images/mediacovers/x160/10250017.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 33</strong><br><br><em>Weinhold, Angela</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10250001">Tonies: Der Wald / "Wieso? Weshalb? Warum? junior"</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10250001"><img src="/images/mediacovers/x160/10250001.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
