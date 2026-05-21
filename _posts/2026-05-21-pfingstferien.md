@@ -5,7 +5,7 @@ categories: Aktionen
 author: "Burkhard"
 published: yes
 ---
-Auch in den Pfingstferien hat ist unsere Bücherei geöffnet. Und wir haben auch ein kleines Ferienprogramm für Euch vorbereitet:
+Auch in den Pfingstferien ist unsere Bücherei geöffnet. Und wir haben auch ein kleines Ferienprogramm für Euch vorbereitet:
 * am **Dienstag, 26. Mai** um **11 Uhr** lesen wir Euch aus einigen Bilderbüchern vor
 * am **Freitag, 29. Mai** um **11 Uhr** gibt's bei uns eine Kamishibai-Vorstellung. Worum es diesmal geht..? Lasst Euch überraschen!
 \\
