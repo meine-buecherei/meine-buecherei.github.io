@@ -5,7 +5,7 @@ permalink: /top100-cd/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __CDs__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _26.05.2026, 19:38 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _28.05.2026, 17:13 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Lini, Jana / Boettcher, Oliver / Lini, Jana / Lini, Jana</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021028">Hexe Lilli - Zwei verhexte Geschichten!</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021028"><img src="/images/mediacovers/x160/12021028.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -28,5 +28,4 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _26.05.2026, 19:38 Uh
 <tr><td width="70%"><strong>Platz 18</strong><br><br><em>Madden, Deirdre</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12017504">Tierparadies Emily & Co</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12017504"><img src="/images/mediacovers/x160/12017504.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 19</strong><br><br><em>Schneider, Liane</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503">Conni bekommt Taschengeld / Conni verkleidet sich</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12016503"><img src="/images/mediacovers/x160/12016503.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 20</strong><br><br><em>Boehme, Julia</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12020072">Conni in der großen Stadt</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12020072"><img src="/images/mediacovers/x160/12020072.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 21</strong><br><br><em>Ruthe, Ralph</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=10250002">Tonies: Das Klo</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=10250002"><img src="/images/mediacovers/x160/10250002.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
