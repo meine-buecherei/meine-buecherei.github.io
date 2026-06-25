@@ -5,7 +5,7 @@ permalink: /top100-kinder/
 ---
 Dies ist die Liste unserer 100 beliebtesten Medien im Bereich __Kinderbücher__. 
 
-Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _24.06.2026, 10:45 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
+Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _25.06.2026, 17:01 Uhr_. Die Reihenfolge ergibt sich der aus der Gesamtzahl der Ausleihvorgänge innerhalb der letzten 365 Tage sowie dem letzten Ausleihdatum.
 
 <table>
 <tr><td width="70%"><strong>Platz 1</strong><br><br><em>Finsterbusch, Monika</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12025169">Prinzessin Lillifee im Garten der Düfte</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12025169"><img src="/images/mediacovers/x160/12025169.jpg" style="width: auto; height: auto;"></a></center></td></tr>
@@ -107,5 +107,5 @@ Ermittelt aus der Westerheimer Bücherei-Datenbank, Stand: _24.06.2026, 10:45 Uh
 <tr><td width="70%"><strong>Platz 97</strong><br><br><em>Rieckhoff, Sibylle</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12013359">Bleib bloß da drin</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12013359"><img src="/images/mediacovers/x160/12013359.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 98</strong><br><br><em>Hansen, Christiane</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12025152">Wenn sieben kleine Hasen tobend übern Spielplatz rasen</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12025152"><img src="/images/mediacovers/x160/12025152.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 <tr><td width="70%"><strong>Platz 99</strong><br><br><em>Blanck, Ulf / Pfeiffer, Boris / Gumpert, Steffen</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12021227">Bücherhelden -Die drei ??? Kids - Drachen-Alarm</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12021227"><img src="/images/mediacovers/x160/12021227.jpg" style="width: auto; height: auto;"></a></center></td></tr>
-<tr><td width="70%"><strong>Platz 100</strong><br><br><em>Ansorge, Bettina</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12023212">Opas Insel</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12023212"><img src="/images/mediacovers/x160/12023212.jpg" style="width: auto; height: auto;"></a></center></td></tr>
+<tr><td width="70%"><strong>Platz 100</strong><br><br><em>Ahlgrimm, Achim</em><br><br><a href="https://www.biblino.de/index.php?action=5&mnummer=12024200">Fehler-Wimmelbuch</a></td><td><center><a href="https://www.biblino.de/index.php?action=5&mnummer=12024200"><img src="/images/mediacovers/x160/12024200.jpg" style="width: auto; height: auto;"></a></center></td></tr>
 </table>
