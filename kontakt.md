@@ -45,6 +45,13 @@ die Räume der Gemeindeverwaltung liegen.
 
 Karte © OpenStreetMap-Mitwirkende 
 
+# Telefon
+
+Die Bücherei hat einen eigenen Telefonanschluss. Während unserer Öffnungszeiten sind wir erreichbar unter:
+
+<img src="/images/tel.png" >
+
+
 # E-Mail-Adresse
 
 Schreiben Sie an:
