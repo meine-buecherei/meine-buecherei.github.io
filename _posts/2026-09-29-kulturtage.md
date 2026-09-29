@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kulturtage am 03. und 04. Oktober - Kamishibai und Flohmarkt'
+title: 'kulTOUR-tage am 03. und 04. Oktober - Kamishibai und Flohmarkt'
 categories: Termine
 author: "Burkhard"
 published: yes
